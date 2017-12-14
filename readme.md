@@ -1,13 +1,6 @@
 <!--lint disable no-html-->
 
-<!--
-  TODO: add banner when published.
-
-  ![Backend - Course 2017-2018][banner]
-  [banner]: https://cdn.rawgit.com/cmda-be/logo/a062020/banner.svg
--->
-
-# Backend - Course 2017-2018
+# ![Backend - Course 2017-2018][banner]
 
 ## Table of Contents
 
@@ -283,6 +276,8 @@ Conduct][ruc] ([Regeling Ongewenst Gedrag][rog]).
 
 Unless stated otherwise, code is [MIT][] © [Titus Wormer][author],
 docs and images are [CC-BY-4.0][].
+
+[banner]: https://cdn.rawgit.com/cmda-be/logo/93c03f4/banner.svg
 
 [mit]: license.md#code
 
