@@ -136,7 +136,7 @@ date, time, and place.
 | [Lab 8][w8lab]               |   05-04   |      03-04     |      03-04     |
 | [**Assessment 2**][a2]       |   12-04   | 09-04 or 12-04 | 09-04 or 12-04 |
 | [**Assessment 1**][a1] resit |   29-07   |      29-07     |      29-07     |
-| [**Assessment 2**][a1] resit |   28-07   |      28-07     |      25-07     |
+| [**Assessment 2**][a2] resit |   28-07   |      28-07     |      25-07     |
 
 ## Effort
 
