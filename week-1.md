@@ -46,7 +46,7 @@
 
 ### Synopsis
 
-*   **Date**: 08-02 (BT 1), 06-02 (BT 2), or xx-yy (BT 3)
+*   **Date**: 08-02 (BT 1), 06-02 (BT 2), or 06-02 (BT 3)
 *   **Time**: 1:40hrs
 
 <!--
