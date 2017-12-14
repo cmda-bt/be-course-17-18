@@ -80,16 +80,36 @@ The 2 main goals in this course are that you’re able to:
 
 In practice you’ll learn to:
 
-1.  <a name="subgoal-1"></a> Navigate the command line
-2.  <a name="subgoal-2"></a> Version control with git
-3.  <a name="subgoal-3"></a> Use packages from npm
-4.  <a name="subgoal-4"></a> Use web frameworks like express
-5.  <a name="subgoal-5"></a> Communicate over HTTP
-6.  <a name="subgoal-6"></a> Use SQL and NoSQL databases like MySQL and MongoDB
-7.  <a name="subgoal-7"></a> Render data server-side
-8.  <a name="subgoal-8"></a> Request data from clients
-9.  <a name="subgoal-9"></a> Respond with data from a server
-10. <a name="subgoal-10"></a> Deploy web apps
+<!--lint disable ordered-list-marker-value-->
+
+1.  <a name="subgoal-1"></a>
+    Navigate the command line (**week 1**)
+1.  <a name="subgoal-2"></a>
+    Version control with git (**week 1**)
+1.  <a name="subgoal-3"></a>
+    Collaborate on GitHub (**week 1**)
+1.  <a name="subgoal-4"></a>
+    Write docs in Markdown (**week 1**)
+1.  <a name="subgoal-5"></a>
+    Understand Node principles (**week 2**)
+1.  <a name="subgoal-6"></a>
+    Use packages from npm (**week 2**)
+1.  <a name="subgoal-7"></a>
+    Communicate over HTTP (**week 3**)
+1.  <a name="subgoal-8"></a>
+    Use web frameworks like express (**week 4**)
+1.  <a name="subgoal-9"></a>
+    Render data server-side (**week 4**)
+1.  <a name="subgoal-10"></a>
+    Upload data and files to servers (**week 4**)
+1.  <a name="subgoal-11"></a>
+    Request data from clients (**week 4**)
+1.  <a name="subgoal-12"></a>
+    Respond with data from a server (**week 4**)
+1.  <a name="subgoal-13"></a>
+    Use SQL and NoSQL databases like MySQL and MongoDB (**week 5**)
+1.  <a name="subgoal-14"></a>
+    Deploy web apps (**week 6**)
 
 ## Grade
 
