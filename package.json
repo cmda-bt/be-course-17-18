@@ -1,0 +1,49 @@
+{
+  "private": true,
+  "name": "be",
+  "version": "1.0.0",
+  "description": "Backend",
+  "license": "(CC-BY-4.0 AND MIT)",
+  "keywords": [],
+  "homepage": "https://cmda-be.github.io/course-17-18",
+  "repository": "cmda-be/course-17-18",
+  "bugs": "https://github.com/cmda-be/course-17-18/issues",
+  "author": "Titus Wormer <tituswormer@gmail.com> (wooorm.com)",
+  "contributors": [
+    "Titus Wormer <tituswormer@gmail.com> (http://wooorm.com)"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "remark-cli": "^4.0.0",
+    "remark-lint-no-dead-urls": "^0.3.0",
+    "remark-preset-wooorm": "^3.0.0",
+    "xo": "^0.18.0"
+  },
+  "scripts": {
+    "build-md": "remark . -qo",
+    "build": "npm run build-md",
+    "lint": "xo",
+    "test": "npm run build && npm run lint"
+  },
+  "xo": {
+    "space": true,
+    "esnext": false
+  },
+  "remarkConfig": {
+    "plugins": [
+      "preset-wooorm",
+      [
+        "lint-no-dead-urls",
+        {
+          "skipOffline": true
+        }
+      ],
+      [
+        "toc",
+        {
+          "maxDepth": 2
+        }
+      ]
+    ]
+  }
+}
