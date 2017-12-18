@@ -69,14 +69,11 @@ You’re expected to spend about 6 hours on assignments outside of class.
 Submit your assignments by 3 a.m. the day of [lab 2][w2lab].
 
 *   [Run](#run) (**practice**)
-*   Blast off (**practice**)
-*   Profile (**practice**)
+*   [Profile](#profile) (**practice**)
 *   [Resources to refresh your memory][refresh] (**extra**※)
 
 > ※ Although not required we expect students who lack in knowledge to catch
 > up on their own.
-
-<!--lint ignore no-heading-punctuation-->
 
 ### Run
 
@@ -709,6 +706,20 @@ We’ll use this info to link your GitHub username to our administration files.
 > ※ if you’d like to remain anonymous in public online, send your real name and
 > other info in a direct message to one of the lecturers on Slack.
 
+### Profile
+
+[![][profile-cover]][profile-cover-source]
+
+> Silhouette by [**@kc_gertenbach**][profile-cover-author].
+
+In this assignment you’ll learn the basics of Git, GitHub, and Markdown.
+You’ll also customise your Bash prompt to make it more useful.
+
+#### Synopsis
+
+*   **Practice**
+*   **Due**: 3 a.m. the day of [lab 2][w2lab]
+
 [materials]: readme.md#materials
 
 [quote-author]: https://twitter.com/martinfowler
@@ -740,3 +751,9 @@ We’ll use this info to link your GitHub username to our administration files.
 [profile]: https://unsplash.com/@gallarotti
 
 [run-issue]: https://github.com/cmda-be/course-17-18/issues/new?title=Run%20assignment&body=!!%20Include%20your%20name%2C%20class%2C%20and%20code%20here%20!!&labels=week-1%2Cweek-1%3Arun
+
+[profile-cover]: images/profile.jpg
+
+[profile-cover-source]: https://unsplash.com/photos/Zp-wTck-3Zw
+
+[profile-cover-author]: https://unsplash.com/@kc_gertenbach
