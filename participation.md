@@ -7,9 +7,10 @@ whether students engage in assignments.
 
 Assignments make up 30 hours in this course (± 36%).
 
+*   [Week 1 × Run](week-1.md#run)
+
 <!--
 TODO: Fill out assignments.
-*   [Week 1 × XXX](week-1.md#xxx)
 -->
 
 Each assignment is graded **ok** or **not ok**.
