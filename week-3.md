@@ -6,6 +6,7 @@
 
 ## Table of Contents
 
+*   [Inspiration](#inspiration)
 *   [Comic](#comic)
 *   [Lecture](#lecture)
 *   [Lab](#lab)
