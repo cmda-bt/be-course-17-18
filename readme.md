@@ -123,7 +123,7 @@ In practice you’ll learn to:
 > ※ passing both tests (min 5.5) is required
 
 ```js
-if (!participation || !a1 || !a2) {
+if (!participation && !a1 && !a2) {
   grade = 'GR'
 } else if (a1 < 5.5 || a2 < 5.5) {
   grade = 1
