@@ -754,6 +754,6 @@ You’ll also customise your Bash prompt to make it more useful.
 
 [profile-cover]: images/profile.jpg
 
-[profile-cover-source]: https://unsplash.com/photos/Zp-wTck-3Zw
+[profile-cover-source]: https://unsplash.com/photos/i6LqbzXqy2A
 
 [profile-cover-author]: https://unsplash.com/@kc_gertenbach
