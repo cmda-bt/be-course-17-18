@@ -254,7 +254,7 @@ while true; do
   read -e username
 
   if [ -n "$username" ]; then
-    code=($(md5sum <<<"$username"))
+    code="$(base64 <<<"$username")"
     (( ok++ ))
     intro
     break
