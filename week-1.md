@@ -80,6 +80,10 @@ Submit your assignments by 3 a.m. the day of [lab 2][w2lab].
 
 ### Run
 
+[![][run-cover]][run-cover-source]
+
+> Running by Brooklyn Bridge by [**@gallarotti**][run-cover-author].
+
 In this assignment you’ll learn the basics of the command line.
 
 #### Synopsis
@@ -726,6 +730,12 @@ We’ll use this info to link your GitHub username to our administration files.
 
 [w2lab]: week-2.md#lab
 
-[profile]: https://github.com/settings/profile
+[run-cover]: images/run.jpg
+
+[run-cover-source]: https://unsplash.com/photos/Zp-wTck-3Zw
+
+[run-cover-author]: https://unsplash.com/@anniespratt
+
+[profile]: https://unsplash.com/@gallarotti
 
 [run-issue]: https://github.com/cmda-be/course-17-18/issues/new?title=Run%20assignment&body=!!%20Include%20your%20name%2C%20class%2C%20and%20code%20here%20!!&labels=week-1%2Cweek-1%3Arun
