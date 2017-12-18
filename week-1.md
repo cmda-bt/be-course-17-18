@@ -676,7 +676,7 @@ In your terminal, go to the `run` directory and enter it (**hint**: use the
 `cd` command to “change directories”).
 
 If you now run `ls` (to print out files) in the directory, you should see the
-tutorial: `tutorial.sh`.  In my case, I see:
+tutorial:
 
 ```sh
 $ ls
@@ -695,9 +695,10 @@ $ sh tutorial.sh
 # …
 ```
 
-Answer the questions in the tutorial, until it sends you back here.
+This tutorial is interactive.  Answer any questions it asks you, until it sends
+you back here.
 
-#### <a name="week-1-run-e"></a> Step E
+#### Complete
 
 Sweet!  Welcome back!  If you completed the tutorial, you were given a code.
 Now we’re going to hand in that code to mark your assignment as complete.
