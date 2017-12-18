@@ -570,7 +570,7 @@ while true; do
   echo
   echo "$(ls | sed "/^$currentScript$/d")"
   echo
-  printf "Type the code needed to $(bold "move") it: "
+  printf "Type the code needed to $(bold "move") \`foo.txt\` to \`bar.txt\`: "
   read -e cmd
 
   if [[ "$cmd" == mv* ]]; then
@@ -602,7 +602,7 @@ while true; do
   echo
   echo "$(ls | sed "/^$currentScript$/d")"
   echo
-  printf "Type the code needed to $(bold "copy") it: "
+  printf "Type the code needed to $(bold "copy") \`bar.txt\` to \`baz.txt\`: "
   read -e cmd
 
   if [[ "$cmd" == cp* ]]; then
