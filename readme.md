@@ -85,7 +85,7 @@ In practice you’ll learn to:
 1.  <a name="subgoal-1"></a>
     Navigate the command line (**week 1**)
 2.  <a name="subgoal-2"></a>
-    Version control with git (**week 1**)
+    Version control with Git (**week 1**)
 3.  <a name="subgoal-3"></a>
     Collaborate on GitHub (**week 1**)
 4.  <a name="subgoal-4"></a>
