@@ -84,31 +84,31 @@ In practice you’ll learn to:
 
 1.  <a name="subgoal-1"></a>
     Navigate the command line (**week 1**)
-1.  <a name="subgoal-2"></a>
+2.  <a name="subgoal-2"></a>
     Version control with git (**week 1**)
-1.  <a name="subgoal-3"></a>
+3.  <a name="subgoal-3"></a>
     Collaborate on GitHub (**week 1**)
-1.  <a name="subgoal-4"></a>
+4.  <a name="subgoal-4"></a>
     Write docs in Markdown (**week 1**)
-1.  <a name="subgoal-5"></a>
+5.  <a name="subgoal-5"></a>
     Understand Node principles (**week 2**)
-1.  <a name="subgoal-6"></a>
+6.  <a name="subgoal-6"></a>
     Use packages from npm (**week 2**)
-1.  <a name="subgoal-7"></a>
+7.  <a name="subgoal-7"></a>
     Communicate over HTTP (**week 3**)
-1.  <a name="subgoal-8"></a>
+8.  <a name="subgoal-8"></a>
     Use web frameworks like express (**week 4**)
-1.  <a name="subgoal-9"></a>
+9.  <a name="subgoal-9"></a>
     Render data server-side (**week 4**)
-1.  <a name="subgoal-10"></a>
+10. <a name="subgoal-10"></a>
     Upload data and files to servers (**week 4**)
-1.  <a name="subgoal-11"></a>
+11. <a name="subgoal-11"></a>
     Request data from clients (**week 4**)
-1.  <a name="subgoal-12"></a>
+12. <a name="subgoal-12"></a>
     Respond with data from a server (**week 4**)
-1.  <a name="subgoal-13"></a>
+13. <a name="subgoal-13"></a>
     Use SQL and NoSQL databases like MySQL and MongoDB (**week 5**)
-1.  <a name="subgoal-14"></a>
+14. <a name="subgoal-14"></a>
     Deploy web apps (**week 6**)
 
 ## Grade
