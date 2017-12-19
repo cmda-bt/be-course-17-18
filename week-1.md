@@ -713,7 +713,8 @@ We’ll use this info to link your GitHub username to our administration files.
 > Silhouette by [**@kc_gertenbach**][profile-cover-author].
 
 In this assignment you’ll learn the basics of Git, GitHub, and Markdown.
-You’ll also customise your Bash prompt to make it more useful.
+You’ll also learn about aliases and customise your Bash prompt to make it more
+useful.
 
 #### Synopsis
 

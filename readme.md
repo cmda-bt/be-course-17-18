@@ -73,7 +73,7 @@ and check out [Minor Web Development][minor].
 
 The 2 main goals in this course are that you’re able to:
 
-*   Build web apps with node
+*   Build web apps with Node
 *   Store data in a database
 
 #### Subgoals
@@ -262,13 +262,13 @@ If you have questions:
 -->
 
 *   Read the manual for the technology in question
-    ([git](https://git-scm.com/docs),
-    [github](https://guides.github.com),
-    [node](https://nodejs.org/api/),
+    ([Git](https://git-scm.com/docs),
+    [GitHub](https://guides.github.com),
+    [Node](https://nodejs.org/api/),
     [npm](https://docs.npmjs.com),
     [express](http://expressjs.com/en/4x/api.html),
-    [mysql](https://dev.mysql.com/doc/refman/5.7/en/),
-    [mongodb](https://docs.mongodb.com))
+    [MySQL](https://dev.mysql.com/doc/refman/5.7/en/),
+    [MongoDB](https://docs.mongodb.com))
 *   [Search StackOverflow][stackoverflow]
 *   Use a search engine (like [DuckDuckGo][])
 *   [Ask questions on Slack][slack]
