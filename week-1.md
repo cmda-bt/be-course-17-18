@@ -738,7 +738,7 @@ We’ll use this info to link your GitHub username to our administration files.
 
 > Wall Street subway station by [**@martinceralde**][try-git-cover-author].
 
-In this assignment you’ll learn the basics of the Git.
+In this assignment you’ll learn the basics of Git.
 
 #### Synopsis
 
