@@ -25,9 +25,9 @@ The course **Backend** is given at [**@CMDA**][cmda] in 2018 between
 *   **Course**: Backend
 *   **Coordinator**: [Titus Wormer][wooorm-mail]
 *   **Lecturers**:
-    [Albert de Klein][lbrt-mail] ([**@lbrt**][lbrt-gh]) (BT 1),
+    [Titus Wormer][wooorm-mail] ([**@wooorm**][wooorm-gh]) (BT 1 and BT 3) and
     [Laurens Aarnoudse][razpudding-mail] ([**@razpudding**][razpudding-gh])
-    (BT 2), and [Titus Wormer][wooorm-mail] ([**@wooorm**][wooorm-gh]) (BT 3)
+    (BT 2)
 *   **SIS**: Backend Development
 *   **Credit**: 3 ECTS
 *   **Academic year**: 2017-2018
@@ -307,13 +307,9 @@ docs and images are [CC-BY-4.0][].
 
 [wooorm-gh]: https://github.com/wooorm
 
-[lbrt-gh]: https://github.com/lbrt
-
 [razpudding-gh]: https://github.com/Razpudding
 
 [wooorm-mail]: mailto:t.e.wormer@hva.nl?subject=backend:%20
-
-[lbrt-mail]: mailto:a.s.de.klein@hva.nl?subject=backend:%20
 
 [razpudding-mail]: mailto:l.n.aarnoudse@hva.nl?subject=backend:%20
 
