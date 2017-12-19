@@ -70,6 +70,7 @@ Submit your assignments by 3 a.m. the day of [lab 2][w2lab].
 
 *   [Run](#run) (**practice**)
 *   [Try Git](#try-git) (**practice**)
+*   [Learn markdown](#learn-markdown) (**practice**)
 *   [Profile](#profile) (**practice**)
 *   [Resources to refresh your memory][refresh] (**extra**※)
 
@@ -767,6 +768,38 @@ That’s it!  Well done you!  If you completed the tutorial, mark your assignmen
 as complete by opening an issue on our [GitHub issue tracker][try-git-issue].
 Let us know in the issue if you liked this assignment, and give us any feedback.
 
+### Learn Markdown
+
+[![][learn-markdown-cover]][learn-markdown-cover-source]
+
+> Woman Pen Notebook by [**@climatereality**][learn-markdown-cover-author].
+
+In this assignment you’ll learn the basics of Markdown.
+
+#### Synopsis
+
+*   **Practice**
+*   **Due**: 3 a.m. the day of [lab 2][w2lab]
+
+#### Extra Resources
+
+*   📄 🆓 [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+    (**introductory**)
+*   📦 🆓 [`workshopper/how-to-markdown`](https://github.com/workshopper/how-to-markdown)
+    (**introductory**)
+
+#### Step A
+
+Take ± 10 minutes to [Learn Markdown][learn-markdown] through an interactive
+tutorial.  Follow it until you see “Congratulations”.
+
+#### Complete
+
+Awesome!  If you completed the markdown tutorial, mark your assignment
+as complete by opening an issue on our [GitHub issue
+tracker][learn-markdown-issue].
+Let us know in the issue what you thought of the tutorial.
+
 ### Profile
 
 [![][profile-cover]][profile-cover-source]
@@ -823,6 +856,16 @@ useful.
 [try-git]: https://try.github.io
 
 [try-git-issue]: https://github.com/cmda-be/course-17-18/issues/new?title=Try%20Git%20assignment&body=!!%20Let%20us%20know%20what%20you%20think%20of%20this%20assignment%20!!&labels=week-1%2Cweek-1%3Atry-git
+
+[learn-markdown-cover]: images/note.jpg
+
+[learn-markdown-cover-source]: https://unsplash.com/photos/Hb6uWq0i4MI
+
+[learn-markdown-cover-author]: https://unsplash.com/@climatereality
+
+[learn-markdown]: http://commonmark.org/help/tutorial/
+
+[learn-markdown-issue]: https://github.com/cmda-be/course-17-18/issues/new?title=Learn%20Markdown%20assignment&body=!!%20Let%20us%20know%20what%20you%20think%20of%20this%20assignment%20!!&labels=week-1%2Cweek-1%3Alearn-markdown
 
 [profile-cover]: images/profile.jpg
 
