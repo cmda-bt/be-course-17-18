@@ -69,6 +69,7 @@ You’re expected to spend about 6 hours on assignments outside of class.
 Submit your assignments by 3 a.m. the day of [lab 2][w2lab].
 
 *   [Run](#run) (**practice**)
+*   [Try Git](#try-git) (**practice**)
 *   [Profile](#profile) (**practice**)
 *   [Resources to refresh your memory][refresh] (**extra**※)
 
@@ -731,6 +732,41 @@ We’ll use this info to link your GitHub username to our administration files.
 > ※ if you’d like to remain anonymous in public online, send your real name and
 > other info in a direct message to one of the lecturers on Slack.
 
+### Try Git
+
+[![][try-git-cover]][try-git-cover-source]
+
+> Wall Street subway station by [**@martinceralde**][try-git-cover-author].
+
+In this assignment you’ll learn the basics of the Git.
+
+#### Synopsis
+
+*   **Practice**
+*   **Due**: 3 a.m. the day of [lab 2][w2lab]
+
+#### Extra Resources
+
+*   [Git Flight Rules](https://github.com/k88hudson/git-flight-rules/)
+    📄 🆓 (**introductory**)
+*   [GitHub Guides](https://guides.github.com)
+    📄 🆓 (**introductory**)
+*   [Learn Git Branching](https://learngitbranching.js.org)
+    👨‍🏫 🆓 (**intermediate**)
+*   [Git in Practice](https://github.com/GitInPractice/GitInPractice)
+    📖 🆓 (**advanced**)
+
+#### Step A
+
+Take ± 15 minutes to [Try Git][try-git] through GitHub’s interactive tutorial.
+It’s pretty sweet.  Follow it until you see “Congratulations”.
+
+#### Complete
+
+That’s it!  Well done you!  If you completed the tutorial, mark your assignment
+as complete by opening an issue on our [GitHub issue tracker][try-git-issue].
+Let us know in the issue if you liked this assignment, and give us any feedback.
+
 ### Profile
 
 [![][profile-cover]][profile-cover-source]
@@ -777,6 +813,16 @@ useful.
 [profile]: https://unsplash.com/@gallarotti
 
 [run-issue]: https://github.com/cmda-be/course-17-18/issues/new?title=Run%20assignment&body=!!%20Include%20your%20name%2C%20class%2C%20and%20code%20here%20!!&labels=week-1%2Cweek-1%3Arun
+
+[try-git-cover]: images/try.jpg
+
+[try-git-cover-source]: https://unsplash.com/photos/xceMsVvxcd4
+
+[try-git-cover-author]: https://unsplash.com/@martinceralde
+
+[try-git]: https://try.github.io
+
+[try-git-issue]: https://github.com/cmda-be/course-17-18/issues/new?title=Try%20Git%20assignment&body=!!%20Let%20us%20know%20what%20you%20think%20of%20this%20assignment%20!!&labels=week-1%2Cweek-1%3Atry-git
 
 [profile-cover]: images/profile.jpg
 
