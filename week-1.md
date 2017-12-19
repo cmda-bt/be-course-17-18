@@ -88,6 +88,31 @@ In this assignment you’ll learn the basics of the command line.
 *   **Practice**
 *   **Due**: 3 a.m. the day of [lab 2][w2lab]
 
+#### Extra Resources
+
+*   [`terminal.training`](https://terminal.training/)
+    📼 💸 (**introductory**, offers student discount)
+*   [Terminal Cheatsheet for Mac](https://github.com/0nn0/terminal-mac-cheatsheet)
+    📄 🆓 (**introductory**)
+*   [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial)
+    📖 🆓 (**introductory**)
+*   [Codecademy: Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line)
+    👨‍🏫 🆓 (**introductory**)
+*   [tlrd](https://github.com/tldr-pages/tldr)
+    📦 🆓 (**introductory**)
+*   [`commandlinepoweruser.com`](https://commandlinepoweruser.com)
+    📼 🆓 (**intermediate**)
+*   [`denysdovhan/bash-handbook`](https://github.com/denysdovhan/bash-handbook)
+    📄 🆓 (**advanced**)
+*   [Advanced Bash-Scripting Guide](http://www.tldp.org/LDP/abs/html/)
+    📄 🆓 (**advanced**)
+*   [Learn by Example: Command Line Text Processing](https://github.com/learnbyexample/Command-line-text-processing)
+    📄 🆓 (**advanced**)
+*   [macOS Security-and Privacy Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide)
+    📄 🆓 (**advanced**)
+*   [ShellCheck](https://github.com/koalaman/shellcheck)
+    📦 🆓 (**advanced**)
+
 #### <a name="week-1-run-a"></a> Step A
 
 If you haven’t already, [sign up for GitHub and install a text
@@ -699,7 +724,7 @@ you back here.
 
 Sweet!  Welcome back!  If you completed the tutorial, you were given a code.
 Now we’re going to hand in that code to mark your assignment as complete.
-Create an issue on our [GitHub issues tracker][run-issue].
+Create an issue on our [GitHub issue tracker][run-issue].
 In it, include your **real name**※, **class**, and **code**.
 We’ll use this info to link your GitHub username to our administration files.
 
