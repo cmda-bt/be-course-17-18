@@ -38,7 +38,6 @@
 *   HTTP
 *   Server
 *   Request
-*   Node in depth
 
 ## Lab
 
