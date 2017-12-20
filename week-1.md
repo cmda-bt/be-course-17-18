@@ -863,19 +863,71 @@ Let us know in the issue what you thought of the exercises.
 
 > Stories from the Subway Pt. 2 by [**@o_j_cole**][profile-cover-author].
 
-In this assignment you’ll learn the basics of Git, GitHub, and Markdown.
-You’ll also learn about aliases and customise your Bash prompt to make it more
-useful.
+In this assignment you’ll apply your newfound command line, Markdown, Git,
+and GitHub skills.
 
 #### Synopsis
 
-*   **Practice**
+*   **Homework**
 *   **Due**: 3 a.m. the day of [lab 2][w2lab]
+
+#### Extra Resources
+
+*   [The Perfect Web Development Setup for OS X](https://github.com/jonathanong/osx-webdev-setup)
+    (**article**)
+*   [An Introduction to Useful Bash Aliases and Functions](https://www.digitalocean.com/community/tutorials/an-introduction-to-useful-bash-aliases-and-functions)
+    (**article**)
+*   [dotfiles](https://dotfiles.github.io)
+    (**article**)
 
 #### Tips
 
 Stuck?  See the [Bugs][] section of the course readme to find a list of
 troubleshooting tips.
+
+#### Description
+
+In this course, you’ll find yourself staring at that black screen with green
+letters a lot.
+You’ll type the same commands over and over again.
+As you’ll spend so much time there, it makes sense to make the command line
+more useful, and prettier.
+
+In this assignment you’ll customise your command line by changing a config file.
+The file in question is often called `.bash_profile`, `.profile`, or `.bashrc`.
+To find the file you need to edit in your case, go to your root directory
+(`cd ~`) and print out hidden files there (`ls -a`).
+If one of the previously mentioned files exists, that’s the one your supposed to
+edit.
+If multiple files exist, open each and inspect them to find out which one you
+should edit.
+
+For this assignment:
+
+*   Add aliases (for example, I have `alias ..="cd .."` set up)
+*   Modify your prompt (for example, I have `PS1="🚀 \$(basename \$(pwd))"` set
+    up)
+*   And configure your profile in any other way you see fit
+
+…in your profile.
+
+See the aforementioned extra resources for tips to get started.
+You’re expected to review a lot of existing examples, and do a lot of searching
+online.
+You can change other files, such as `.gitconfig`, if you feel like it.
+Make sure to document anything your add with comments.
+`#` starts a comment in Bash.
+
+Hand in your project by creating a new repository on GitHub:
+`username/dotfiles` (in my case `wooorm/dotfiles`).
+
+In your repository, include the files changed and added.
+Also include a `readme.md` in your repository, documenting how to install your
+config files, what they do, and who you are.
+
+Finally, mark this assignment as complete by opening an issue on our
+[GitHub issue tracker][profile-issue].  Include a link yo your repository.
+Let us know in the issue what you thought of the exercises.
 
 [materials]: readme.md#materials
 
@@ -941,10 +993,12 @@ troubleshooting tips.
 
 [octocat-github-cli]: https://services.github.com/on-demand/github-cli/
 
-[octocat-issue]: https://github.com/cmda-be/course-17-18/issues/new?title=Octocat%20assignment&body=!!%20Let%20us%20know%20what%20you%20think%20of%20this%20assignment%20!!&labels=week-1%2Cweek-1%3Aoctocat
+[octocat-issue]: https://github.com/cmda-be/course-17-18/issues/new?title=Octocat%20assignment&labels=week-1%2Cweek-1%3Aoctocat
 
 [profile-cover]: images/profile.jpg
 
 [profile-cover-source]: https://unsplash.com/photos/HFkTGu30w5E
 
 [profile-cover-author]: https://unsplash.com/@o_j_cole
+
+[profile-issue]: https://github.com/cmda-be/course-17-18/issues/new?title=Profile%20assignment&labels=week-1%2Cweek-1%3Aprofile
