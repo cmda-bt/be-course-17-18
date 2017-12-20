@@ -68,15 +68,52 @@
 You’re expected to spend about 6 hours on assignments outside of class.
 Submit your assignments by 3 a.m. the day of [lab 2][w2lab].
 
+*   [Markup](#markup) (**practice**)
 *   [Run](#run) (**practice**)
 *   [Try Git](#try-git) (**practice**)
-*   [Markup](#markup) (**practice**)
 *   [Octocat](#octocat) (**practice**)
 *   [Profile](#profile) (**homework**)
 *   [Resources to refresh your memory][refresh] (**extra**※)
 
 > ※ Although not required we expect students who lack in knowledge to catch
 > up on their own.
+
+### Markup
+
+[![][markup-cover]][markup-cover-source]
+
+> Woman Pen Notebook by [**@climatereality**][markup-cover-author].
+
+In this assignment you’ll learn the basics of Markdown.
+
+#### Synopsis
+
+*   **Practice**
+*   **Due**: 3 a.m. the day of [lab 2][w2lab]
+
+#### Extra Resources
+
+*   📄 🆓 [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+    (**introductory**)
+*   📦 🆓 [`workshopper/how-to-markdown`](https://github.com/workshopper/how-to-markdown)
+    (**introductory**)
+
+#### Tips
+
+Stuck?  See the [Bugs][] section of the course readme to find a list of
+troubleshooting tips.
+
+#### Description
+
+Take ± 10 minutes to [Learn Markdown][learn-markdown] through an interactive
+tutorial.  Follow it until you see “Congratulations”.
+
+#### Complete
+
+Awesome!  If you completed the markdown tutorial, mark your assignment
+as complete by opening an issue on our [GitHub issue
+tracker][markup-issue].
+Let us know in the issue what you thought of the tutorial.
 
 ### Run
 
@@ -779,43 +816,6 @@ That’s it!  Well done you!  If you completed the tutorial, mark your assignmen
 as complete by opening an issue on our [GitHub issue tracker][try-git-issue].
 Let us know in the issue if you liked this assignment, and give us any feedback.
 
-### Markup
-
-[![][markup-cover]][markup-cover-source]
-
-> Woman Pen Notebook by [**@climatereality**][markup-cover-author].
-
-In this assignment you’ll learn the basics of Markdown.
-
-#### Synopsis
-
-*   **Practice**
-*   **Due**: 3 a.m. the day of [lab 2][w2lab]
-
-#### Extra Resources
-
-*   📄 🆓 [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
-    (**introductory**)
-*   📦 🆓 [`workshopper/how-to-markdown`](https://github.com/workshopper/how-to-markdown)
-    (**introductory**)
-
-#### Tips
-
-Stuck?  See the [Bugs][] section of the course readme to find a list of
-troubleshooting tips.
-
-#### Description
-
-Take ± 10 minutes to [Learn Markdown][learn-markdown] through an interactive
-tutorial.  Follow it until you see “Congratulations”.
-
-#### Complete
-
-Awesome!  If you completed the markdown tutorial, mark your assignment
-as complete by opening an issue on our [GitHub issue
-tracker][markup-issue].
-Let us know in the issue what you thought of the tutorial.
-
 ### Octocat
 
 [![][octocat-cover]][octocat-cover-source]
@@ -953,6 +953,16 @@ Let us know in the issue what you thought of the exercises.
 
 [w2lab]: week-2.md#lab
 
+[markup-cover]: images/note.jpg
+
+[markup-cover-source]: https://unsplash.com/photos/Hb6uWq0i4MI
+
+[markup-cover-author]: https://unsplash.com/@climatereality
+
+[learn-markdown]: http://commonmark.org/help/tutorial/
+
+[markup-issue]: https://github.com/cmda-be/course-17-18/issues/new?title=Learn%20Markdown%20assignment&labels=week-1%2Cweek-1%3Alearn-markdown
+
 [run-cover]: images/run.jpg
 
 [run-cover-source]: https://unsplash.com/photos/Zp-wTck-3Zw
@@ -972,16 +982,6 @@ Let us know in the issue what you thought of the exercises.
 [try-git]: https://try.github.io
 
 [try-git-issue]: https://github.com/cmda-be/course-17-18/issues/new?title=Try%20Git%20assignment&labels=week-1%2Cweek-1%3Atry-git
-
-[markup-cover]: images/note.jpg
-
-[markup-cover-source]: https://unsplash.com/photos/Hb6uWq0i4MI
-
-[markup-cover-author]: https://unsplash.com/@climatereality
-
-[learn-markdown]: http://commonmark.org/help/tutorial/
-
-[markup-issue]: https://github.com/cmda-be/course-17-18/issues/new?title=Learn%20Markdown%20assignment&labels=week-1%2Cweek-1%3Alearn-markdown
 
 [octocat-cover]: images/octocat.jpg
 

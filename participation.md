@@ -7,9 +7,9 @@ whether students engage in assignments.
 
 Assignments make up 30 hours in this course (± 36%).
 
+*   [Week 1 × Markup](week-1.md#markup)
 *   [Week 1 × Run](week-1.md#run)
 *   [Week 1 × Try Git](week-1.md#try-git)
-*   [Week 1 × Markup](week-1.md#markup)
 *   [Week 1 × Octocat](week-1.md#octocat)
 *   [Week 1 × Profile](week-1.md#profile)
 
