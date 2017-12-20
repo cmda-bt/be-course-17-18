@@ -21,6 +21,6 @@
 *   [`try.jpg`](try.jpg)
     ([**source**](https://unsplash.com/photos/xceMsVvxcd4))
     — Scaled and cropped
-*   [`unpm.jpg`](unpm.jpg)
+*   [`unpm.png`](unpm.png)
     ([**source**](https://unpm.nodesource.com))
     — Screenshot of website, cropped, with labels removed

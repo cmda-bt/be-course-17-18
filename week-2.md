@@ -74,7 +74,7 @@ See [week 1][w1a] for assignments due before this lab.
 
 [quote-author]: https://twitter.com/BrendanEich
 
-[inspiration-cover]: images/unpm.jpg
+[inspiration-cover]: images/unpm.png
 
 [inspiration-link]: https://unpm.nodesource.com
 
