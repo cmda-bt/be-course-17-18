@@ -964,6 +964,9 @@ Also include a `readme.md`, documenting how to install your config files, what
 they do, and who you are.
 For example, something like [this](https://github.com/holman/dotfiles#readme).
 
+#### Complete
+
+Sweet, well done!
 Finally, mark this assignment as complete by opening an issue on our
 [GitHub issue tracker][profile-issue].  Include a link to your repository.
 Let us know in the issue what you thought of the exercises.
