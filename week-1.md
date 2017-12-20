@@ -89,6 +89,7 @@ In this assignment you’ll learn the basics of Markdown.
 #### Synopsis
 
 *   **Practice**
+*   **Time**: ± 10m
 *   **Due**: 3 a.m. the day of [lab 2][w2lab]
 
 #### Extra Resources
@@ -126,6 +127,7 @@ In this assignment you’ll learn the basics of the command line.
 #### Synopsis
 
 *   **Practice**
+*   **Time**: ± 20m
 *   **Due**: 3 a.m. the day of [lab 2][w2lab]
 
 #### Extra Resources
@@ -787,6 +789,7 @@ In this assignment you’ll learn the basics of Git.
 #### Synopsis
 
 *   **Practice**
+*   **Time**: ± 15m
 *   **Due**: 3 a.m. the day of [lab 2][w2lab]
 
 #### Extra Resources
@@ -828,6 +831,7 @@ of Git.
 #### Synopsis
 
 *   **Practice**
+*   **Time**: ± 1h
 *   **Due**: 3 a.m. the day of [lab 2][w2lab]
 
 #### Extra Resources
@@ -869,6 +873,7 @@ and GitHub skills.
 #### Synopsis
 
 *   **Homework**
+*   **Time**: ± 4h
 *   **Due**: 3 a.m. the day of [lab 2][w2lab]
 
 #### Extra Resources
