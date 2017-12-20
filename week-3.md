@@ -34,10 +34,9 @@
 
 ### Schedule
 
-*   URL ([**subgoal 7**][s7])
 *   HTTP ([**subgoal 7**][s7])
 *   Server ([**subgoal 5**][s5] and [**subgoal 7**][s7])
-*   Request ([**subgoal 5**][s5])
+*   Request ([**subgoal 5**][s5] and [**subgoal 7**][s7])
 
 ## Lab
 
