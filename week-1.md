@@ -758,7 +758,7 @@ In this assignment you’ll learn the basics of Git.
 *   📖 🆓 [Git in Practice](https://github.com/GitInPractice/GitInPractice)
     (**advanced**)
 
-#### Step A
+#### Description
 
 Take ± 15 minutes to [Try Git][try-git] through GitHub’s interactive tutorial.
 It’s pretty sweet.  Follow it until you see “Congratulations”.
@@ -789,7 +789,7 @@ In this assignment you’ll learn the basics of Markdown.
 *   📦 🆓 [`workshopper/how-to-markdown`](https://github.com/workshopper/how-to-markdown)
     (**introductory**)
 
-#### Step A
+#### Description
 
 Take ± 10 minutes to [Learn Markdown][learn-markdown] through an interactive
 tutorial.  Follow it until you see “Congratulations”.
@@ -824,14 +824,11 @@ of Git.
 *   📄 🆓 [`freeCodeCamp/how-to-contribute-to-open-source`](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
     (**intermediate**)
 
-#### Step A
+#### Description
 
 Take ± 30 minutes to follow the [Introduction to
 GitHub][octocat-intro-to-github] exercise.
-
-#### Step B
-
-Take ± 30 minutes to follow the [GitHub Pages from the Command Line
+Then, take ± 30 minutes to follow the [GitHub Pages from the Command Line
 ][octocat-github-cli] exercise.
 
 #### Complete
