@@ -34,7 +34,7 @@
 
 ### Schedule
 
-*   Node
+*   Node ([**subgoal 5**][s5])
 *   In depth ([**subgoal 5**][s5])
 *   Principles ([**subgoal 5**][s5])
 *   npm ([**subgoal 6**][s6])

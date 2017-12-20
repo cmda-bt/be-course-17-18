@@ -27,12 +27,12 @@
 
 ### Schedule
 
-*   express
-*   Server
-*   Template
-*   Form
-*   API & XHR
-*   File
+*   express ([**subgoal 8**][s8])
+*   Server ([**subgoal 8**][s8])
+*   Template ([**subgoal 9**][s9])
+*   Form ([**subgoal 10**][s10])
+*   API & XHR ([**subgoal 11**][s11] and [**subgoal 12**][s12])
+*   File ([**subgoal 10**][s10])
 
 ## Lab
 
@@ -76,3 +76,13 @@ See [week 3][w3a] for assignments due before this lab.
 [w5lab]: week-5.md#lab
 
 [w3a]: week-3.md#assignments
+
+[s8]: readme.md#subgoal-8
+
+[s9]: readme.md#subgoal-9
+
+[s10]: readme.md#subgoal-10
+
+[s11]: readme.md#subgoal-11
+
+[s12]: readme.md#subgoal-12

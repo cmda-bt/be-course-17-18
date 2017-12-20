@@ -91,7 +91,7 @@ In practice you’ll learn to:
 4.  <a name="subgoal-4"></a>
     Write docs in Markdown ([**week 1**][w1])
 5.  <a name="subgoal-5"></a>
-    Understand Node principles ([**week 2**][w2])
+    Understand Node principles ([**week 2**][w2] and [**week 3**][w3])
 6.  <a name="subgoal-6"></a>
     Use packages from npm ([**week 2**][w2])
 7.  <a name="subgoal-7"></a>

@@ -34,10 +34,10 @@
 
 ### Schedule
 
-*   URL
-*   HTTP
-*   Server
-*   Request
+*   URL ([**subgoal 7**][s7])
+*   HTTP ([**subgoal 7**][s7])
+*   Server ([**subgoal 5**][s5] and [**subgoal 7**][s7])
+*   Request ([**subgoal 5**][s5])
 
 ## Lab
 
@@ -87,3 +87,7 @@ See [week 2][w2a] for assignments due before this lab.
 [w4lab]: week-4.md#lab
 
 [w2a]: week-2.md#assignments
+
+[s5]: readme.md#subgoal-5
+
+[s7]: readme.md#subgoal-7

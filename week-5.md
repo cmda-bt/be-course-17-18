@@ -23,10 +23,10 @@
 
 ### Schedule
 
-*   SQL
-*   MySQL
-*   NoSQL
-*   MongoDB
+*   SQL ([**subgoal 13**][s13])
+*   MySQL ([**subgoal 13**][s13])
+*   NoSQL ([**subgoal 13**][s13])
+*   MongoDB ([**subgoal 13**][s13])
 
 ## Lab
 
@@ -70,3 +70,5 @@ See [week 4][w4a] for assignments due before this lab.
 [w6lab]: week-6.md#lab
 
 [w4a]: week-4.md#assignments
+
+[s13]: readme.md#subgoal-13
