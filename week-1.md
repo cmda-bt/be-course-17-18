@@ -121,19 +121,19 @@ In this assignment you’ll learn the basics of the command line.
 Stuck?  See the [Bugs][] section of the course readme to find a list of
 troubleshooting tips.
 
-#### <a name="week-1-run-a"></a> Step A
+#### Step A
 
 If you haven’t already, [sign up for GitHub and install a text
 editor][materials].
 
-#### <a name="week-1-run-b"></a> Step B
+#### Step B
 
 Take some time to set up your [GitHub profile][profile].  Include your name, a
 profile picture, and a URL to your homepage.  You’re allowed to stay anonymous
 online for this course by omitting sensitive information, but a good looking
 GitHub profile can help you get an internship or job later.
 
-#### <a name="week-1-run-c"></a> Step C
+#### Step C
 
 Create a directory on your computer, `run`.  In it, create a file `tutorial.sh`
 and copy-paste the complete following document into it.
@@ -700,7 +700,7 @@ echo "  $(bold "$code")"
 
 </details>
 
-#### <a name="week-1-run-d"></a> Step D
+#### Step D
 
 In your terminal, go to the `run` directory and enter it (**hint**: use the
 `cd` command to “change directories”).
