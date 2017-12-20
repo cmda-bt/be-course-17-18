@@ -38,11 +38,11 @@
 ### Schedule
 
 *   Course outline
-*   Command line
-*   Git
-*   GitHub
-*   Markdown
-*   Readme
+*   Command line ([**subgoal 1**][s1])
+*   Git ([**subgoal 2**][s2])
+*   GitHub ([**subgoal 3**][s3])
+*   Markdown ([**subgoal 4**][s4])
+*   Readme ([**subgoal 4**][s4])
 
 ## Lab
 
@@ -90,6 +90,7 @@ In this assignment you’ll learn the basics of Markdown.
 
 *   **Practice**
 *   **Time**: 0:10h
+*   **Goals**: [**subgoal 4**][s4]
 *   **Due**: 3 a.m. the day of [lab 2][w2lab]
 
 #### Extra Resources
@@ -139,6 +140,7 @@ In this assignment you’ll learn the basics of the command line.
 
 *   **Practice**
 *   **Time**: 0:20h
+*   **Goals**: [**subgoal 1**][s1]
 *   **Due**: 3 a.m. the day of [lab 2][w2lab]
 
 #### Extra Resources
@@ -801,6 +803,7 @@ In this assignment you’ll learn the basics of Git.
 
 *   **Practice**
 *   **Time**: 0:15h
+*   **Goals**: [**subgoal 2**][s2]
 *   **Due**: 3 a.m. the day of [lab 2][w2lab]
 
 #### Extra Resources
@@ -846,6 +849,7 @@ of Git.
 
 *   **Practice**
 *   **Time**: 1:00h
+*   **Goals**: [**subgoal 3**][s3]
 *   **Due**: 3 a.m. the day of [lab 2][w2lab]
 
 #### Extra Resources
@@ -890,13 +894,15 @@ Let us know in the issue what you thought of the exercises.
 
 > Stories from the Subway Pt. 2 by [**@o_j_cole**][profile-cover-author].
 
-In this assignment you’ll apply your newfound command line, Markdown, Git,
-and GitHub skills.
+In this assignment you’ll apply your newfound command line, Git, GitHub, and
+Markdown skills.
 
 #### Synopsis
 
 *   **Homework**
 *   **Time**: 4:00h
+*   **Goals**: [**subgoal 1**][s1], [**subgoal 2**][s2], [**subgoal 3**][s3],
+    and [**subgoal 4**][s4]
 *   **Due**: 3 a.m. the day of [lab 2][w2lab]
 
 #### Extra Resources
@@ -1035,3 +1041,11 @@ Let us know in the issue what you thought of the exercises.
 [profile-cover-author]: https://unsplash.com/@o_j_cole
 
 [profile-issue]: https://github.com/cmda-be/course-17-18/issues/new?title=Profile%20assignment&labels=week-1%2Cweek-1%3Aprofile
+
+[s1]: readme.md#subgoal-1
+
+[s2]: readme.md#subgoal-2
+
+[s3]: readme.md#subgoal-3
+
+[s4]: readme.md#subgoal-4

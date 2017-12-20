@@ -33,6 +33,10 @@
     "plugins": [
       "preset-wooorm",
       [
+        "validate-links",
+        false
+      ],
+      [
         "lint-no-dead-urls",
         {
           "skipOffline": true
