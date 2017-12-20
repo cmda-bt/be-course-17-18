@@ -6,12 +6,21 @@
 *   [`hackertyper.jpg`](hackertyper.jpg)
     ([**source**](http://hackertyper.net))
     — Screenshot of website, cropped
+*   [`note.jpg`](note.jpg)
+    ([**source**](https://unsplash.com/photos/Hb6uWq0i4MI))
+    — Scaled
+*   [`octocat.jpg`](octocat.jpg)
+    ([**source**](https://unsplash.com/photos/Bb_X4JgSqIM))
+    — Scaled
 *   [`profile.jpg`](profile.jpg)
     ([**source**](https://unsplash.com/photos/i6LqbzXqy2A))
     — Scaled
 *   [`run.jpg`](run.jpg)
     ([**source**](https://unsplash.com/photos/Zp-wTck-3Zw))
     — Scaled
+*   [`try.jpg`](try.jpg)
+    ([**source**](https://unsplash.com/photos/xceMsVvxcd4))
+    — Scaled and cropped
 *   [`unpm.jpg`](unpm.jpg)
     ([**source**](https://unpm.nodesource.com))
     — Screenshot of website, cropped, with labels removed
