@@ -35,11 +35,10 @@
 ### Schedule
 
 *   Node
-*   Server
-*   In depth
-*   Principles
-*   npm
-*   Packages
+*   In depth ([**subgoal 5**][s5])
+*   Principles ([**subgoal 5**][s5])
+*   npm ([**subgoal 6**][s6])
+*   Packages ([**subgoal 6**][s6])
 
 ## Lab
 
@@ -91,3 +90,7 @@ See [week 1][w1a] for assignments due before this lab.
 [w3lab]: week-3.md#lab
 
 [w1a]: week-1.md#assignments
+
+[s5]: readme.md#subgoal-5
+
+[s6]: readme.md#subgoal-6
