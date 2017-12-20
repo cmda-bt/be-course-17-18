@@ -961,7 +961,7 @@ Let us know in the issue what you thought of the exercises.
 
 [profile]: https://unsplash.com/@gallarotti
 
-[run-issue]: https://github.com/cmda-be/course-17-18/issues/new?title=Run%20assignment&body=!!%20Include%20your%20name%2C%20class%2C%20and%20code%20here%20!!&labels=week-1%2Cweek-1%3Arun
+[run-issue]: https://github.com/cmda-be/course-17-18/issues/new?title=Run%20assignment&labels=week-1%2Cweek-1%3Arun
 
 [try-git-cover]: images/try.jpg
 
@@ -971,7 +971,7 @@ Let us know in the issue what you thought of the exercises.
 
 [try-git]: https://try.github.io
 
-[try-git-issue]: https://github.com/cmda-be/course-17-18/issues/new?title=Try%20Git%20assignment&body=!!%20Let%20us%20know%20what%20you%20think%20of%20this%20assignment%20!!&labels=week-1%2Cweek-1%3Atry-git
+[try-git-issue]: https://github.com/cmda-be/course-17-18/issues/new?title=Try%20Git%20assignment&labels=week-1%2Cweek-1%3Atry-git
 
 [markup-cover]: images/note.jpg
 
@@ -981,7 +981,7 @@ Let us know in the issue what you thought of the exercises.
 
 [learn-markdown]: http://commonmark.org/help/tutorial/
 
-[markup-issue]: https://github.com/cmda-be/course-17-18/issues/new?title=Learn%20Markdown%20assignment&body=!!%20Let%20us%20know%20what%20you%20think%20of%20this%20assignment%20!!&labels=week-1%2Cweek-1%3Alearn-markdown
+[markup-issue]: https://github.com/cmda-be/course-17-18/issues/new?title=Learn%20Markdown%20assignment&labels=week-1%2Cweek-1%3Alearn-markdown
 
 [octocat-cover]: images/octocat.jpg
 
