@@ -33,7 +33,7 @@
 ### Synopsis
 
 *   **Date**: 15-03 (BT 1) or 13-03 (BT 2 and BT 3)
-*   **Time**: 1:40v
+*   **Time**: 1:40h
 
 <!--
 *   **Slides**
