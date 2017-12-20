@@ -954,7 +954,7 @@ Also include a `readme.md` in your repository, documenting how to install your
 config files, what they do, and who you are.
 
 Finally, mark this assignment as complete by opening an issue on our
-[GitHub issue tracker][profile-issue].  Include a link yo your repository.
+[GitHub issue tracker][profile-issue].  Include a link to your repository.
 Let us know in the issue what you thought of the exercises.
 
 [materials]: readme.md#materials
