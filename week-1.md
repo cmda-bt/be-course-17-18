@@ -116,6 +116,11 @@ In this assignment you’ll learn the basics of the command line.
 *   📦 🆓 [`koalaman/shellcheck`](https://github.com/koalaman/shellcheck)
     (**advanced**)
 
+#### Tips
+
+Stuck?  See the [Bugs][] section of the course readme to find a list of
+troubleshooting tips.
+
 #### <a name="week-1-run-a"></a> Step A
 
 If you haven’t already, [sign up for GitHub and install a text
@@ -758,6 +763,11 @@ In this assignment you’ll learn the basics of Git.
 *   📖 🆓 [Git in Practice](https://github.com/GitInPractice/GitInPractice)
     (**advanced**)
 
+#### Tips
+
+Stuck?  See the [Bugs][] section of the course readme to find a list of
+troubleshooting tips.
+
 #### Description
 
 Take ± 15 minutes to [Try Git][try-git] through GitHub’s interactive tutorial.
@@ -788,6 +798,11 @@ In this assignment you’ll learn the basics of Markdown.
     (**introductory**)
 *   📦 🆓 [`workshopper/how-to-markdown`](https://github.com/workshopper/how-to-markdown)
     (**introductory**)
+
+#### Tips
+
+Stuck?  See the [Bugs][] section of the course readme to find a list of
+troubleshooting tips.
 
 #### Description
 
@@ -824,6 +839,11 @@ of Git.
 *   📄 🆓 [`freeCodeCamp/how-to-contribute-to-open-source`](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
     (**intermediate**)
 
+#### Tips
+
+Stuck?  See the [Bugs][] section of the course readme to find a list of
+troubleshooting tips.
+
 #### Description
 
 Take ± 30 minutes to follow the [Introduction to
@@ -852,7 +872,14 @@ useful.
 *   **Practice**
 *   **Due**: 3 a.m. the day of [lab 2][w2lab]
 
+#### Tips
+
+Stuck?  See the [Bugs][] section of the course readme to find a list of
+troubleshooting tips.
+
 [materials]: readme.md#materials
+
+[bugs]: readme.md#bugs
 
 [quote-author]: https://twitter.com/martinfowler
 
