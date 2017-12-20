@@ -70,7 +70,7 @@ Submit your assignments by 3 a.m. the day of [lab 2][w2lab].
 
 *   [Run](#run) (**practice**)
 *   [Try Git](#try-git) (**practice**)
-*   [Learn markdown](#learn-markdown) (**practice**)
+*   [Markup](#markup) (**practice**)
 *   [Octocat](#octocat) (**practice**)
 *   [Profile](#profile) (**homework**)
 *   [Resources to refresh your memory][refresh] (**extra**※)
@@ -769,11 +769,11 @@ That’s it!  Well done you!  If you completed the tutorial, mark your assignmen
 as complete by opening an issue on our [GitHub issue tracker][try-git-issue].
 Let us know in the issue if you liked this assignment, and give us any feedback.
 
-### Learn Markdown
+### Markup
 
-[![][learn-markdown-cover]][learn-markdown-cover-source]
+[![][markup-cover]][markup-cover-source]
 
-> Woman Pen Notebook by [**@climatereality**][learn-markdown-cover-author].
+> Woman Pen Notebook by [**@climatereality**][markup-cover-author].
 
 In this assignment you’ll learn the basics of Markdown.
 
@@ -798,7 +798,7 @@ tutorial.  Follow it until you see “Congratulations”.
 
 Awesome!  If you completed the markdown tutorial, mark your assignment
 as complete by opening an issue on our [GitHub issue
-tracker][learn-markdown-issue].
+tracker][markup-issue].
 Let us know in the issue what you thought of the tutorial.
 
 ### Octocat
@@ -897,15 +897,15 @@ useful.
 
 [try-git-issue]: https://github.com/cmda-be/course-17-18/issues/new?title=Try%20Git%20assignment&body=!!%20Let%20us%20know%20what%20you%20think%20of%20this%20assignment%20!!&labels=week-1%2Cweek-1%3Atry-git
 
-[learn-markdown-cover]: images/note.jpg
+[markup-cover]: images/note.jpg
 
-[learn-markdown-cover-source]: https://unsplash.com/photos/Hb6uWq0i4MI
+[markup-cover-source]: https://unsplash.com/photos/Hb6uWq0i4MI
 
-[learn-markdown-cover-author]: https://unsplash.com/@climatereality
+[markup-cover-author]: https://unsplash.com/@climatereality
 
 [learn-markdown]: http://commonmark.org/help/tutorial/
 
-[learn-markdown-issue]: https://github.com/cmda-be/course-17-18/issues/new?title=Learn%20Markdown%20assignment&body=!!%20Let%20us%20know%20what%20you%20think%20of%20this%20assignment%20!!&labels=week-1%2Cweek-1%3Alearn-markdown
+[markup-issue]: https://github.com/cmda-be/course-17-18/issues/new?title=Learn%20Markdown%20assignment&body=!!%20Let%20us%20know%20what%20you%20think%20of%20this%20assignment%20!!&labels=week-1%2Cweek-1%3Alearn-markdown
 
 [octocat-cover]: images/octocat.jpg
 
