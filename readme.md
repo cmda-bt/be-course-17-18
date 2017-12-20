@@ -83,33 +83,33 @@ In practice you’ll learn to:
 <!--lint disable ordered-list-marker-value-->
 
 1.  <a name="subgoal-1"></a>
-    Navigate the command line (**week 1**)
+    Navigate the command line ([**week 1**][w1])
 2.  <a name="subgoal-2"></a>
-    Version control with Git (**week 1**)
+    Version control with Git ([**week 1**][w1])
 3.  <a name="subgoal-3"></a>
-    Collaborate on GitHub (**week 1**)
+    Collaborate on GitHub ([**week 1**][w1])
 4.  <a name="subgoal-4"></a>
-    Write docs in Markdown (**week 1**)
+    Write docs in Markdown ([**week 1**][w1])
 5.  <a name="subgoal-5"></a>
-    Understand Node principles (**week 2**)
+    Understand Node principles ([**week 2**][w2])
 6.  <a name="subgoal-6"></a>
-    Use packages from npm (**week 2**)
+    Use packages from npm ([**week 2**][w2])
 7.  <a name="subgoal-7"></a>
-    Communicate over HTTP (**week 3**)
+    Communicate over HTTP ([**week 3**][w3])
 8.  <a name="subgoal-8"></a>
-    Use web frameworks like express (**week 4**)
+    Use web frameworks like express ([**week 4**][w4])
 9.  <a name="subgoal-9"></a>
-    Render data server-side (**week 4**)
+    Render data server-side ([**week 4**][w4])
 10. <a name="subgoal-10"></a>
-    Upload data and files to servers (**week 4**)
+    Upload data and files to servers ([**week 4**][w4])
 11. <a name="subgoal-11"></a>
-    Request data from clients (**week 4**)
+    Request data from clients ([**week 4**][w4])
 12. <a name="subgoal-12"></a>
-    Respond with data from a server (**week 4**)
+    Respond with data from a server ([**week 4**][w4])
 13. <a name="subgoal-13"></a>
-    Use SQL and NoSQL databases like MySQL and MongoDB (**week 5**)
+    Use SQL and NoSQL databases like MySQL and MongoDB ([**week 5**][w5])
 14. <a name="subgoal-14"></a>
-    Deploy web apps (**week 6**)
+    Deploy web apps ([**week 6**][w6])
 
 ## Grade
 
@@ -382,6 +382,18 @@ docs and images are [CC-BY-4.0][].
 [ruc]: https://www.amsterdamuas.com/practical-matters/algemeen/hva-breed/juridische-zaken/legal-affairs/regulation-undesirable-conduct/regulation-undesirable-conduct.html#anker-3-complaints-authority
 
 [rog]: https://www.hva.nl/praktisch/algemeen/hva-breed/juridische-zaken/loket-beroep-bezwaar-en-klacht/regeling-ongewenst-gedrag/regeling-ongewenst-gedrag.html?origin=gbS4rg%2FDTZuxQ6lGVF%2BN1A
+
+[w1]: week-1.md
+
+[w2]: week-2.md
+
+[w3]: week-3.md
+
+[w4]: week-4.md
+
+[w5]: week-5.md
+
+[w6]: week-6.md
 
 [w1lec]: week-1.md#lecture
 
