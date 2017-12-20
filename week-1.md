@@ -94,10 +94,21 @@ In this assignment you’ll learn the basics of Markdown.
 
 #### Extra Resources
 
-*   📄 🆓 [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
-    (**introductory**)
-*   📦 🆓 [`workshopper/how-to-markdown`](https://github.com/workshopper/how-to-markdown)
-    (**introductory**)
+*   [Markdown Tutorial](https://www.markdowntutorial.com)
+    (**Markdown**)
+    — Learn how to use Markdown, alternative to this assignment
+*   [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+    (**Markdown**)
+    — Quick reference and showcase
+*   [Mastering Markdown](https://masteringmarkdown.com)
+    (**Markdown**)
+    — Mini video series that will change how you write documentation
+*   [Basic writing & formatting syntax](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
+    (**Markdown** and **GitHub**)
+    — Markdown specifically for GitHub
+*   [How to Markdown](https://github.com/workshopper/how-to-markdown)
+    (**Markdown**)
+    — Learning markdown interactively on the command line
 
 #### Tips
 
@@ -132,28 +143,28 @@ In this assignment you’ll learn the basics of the command line.
 
 #### Extra Resources
 
-*   📼 💸 [`terminal.training`](https://terminal.training/)
-    (**introductory**, offers student discount)
-*   📄 🆓 [`0nn0/terminal-mac-cheatsheet`](https://github.com/0nn0/terminal-mac-cheatsheet)
-    (**introductory**)
-*   📖 🆓 [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial)
-    (**introductory**)
-*   👨‍🏫 🆓 [Codecademy: Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line)
-    (**introductory**)
-*   📦 🆓 [`tldr-pages/tldr`](https://github.com/tldr-pages/tldr)
-    (**introductory**)
-*   📼 🆓 [`commandlinepoweruser.com`](https://commandlinepoweruser.com)
-    (**intermediate**)
-*   📄 🆓 [`denysdovhan/bash-handbook`](https://github.com/denysdovhan/bash-handbook)
-    (**advanced**)
-*   📄 🆓 [Advanced Bash-Scripting Guide](http://www.tldp.org/LDP/abs/html/)
-    (**advanced**)
-*   📄 🆓 [`learnbyexample/Command-line-text-processing`](https://github.com/learnbyexample/Command-line-text-processing)
-    (**advanced**)
-*   📄 🆓 [`drduh/macOS-Security-and-Privacy-Guide`](https://github.com/drduh/macOS-Security-and-Privacy-Guide)
-    (**advanced**)
-*   📦 🆓 [`koalaman/shellcheck`](https://github.com/koalaman/shellcheck)
-    (**advanced**)
+*   [Terminal Training](https://terminal.training/)
+    (**course**, offers student discount)
+    — Video training course to cure you of any fear of the terminal
+*   [Terminal Cheatsheet for Mac](https://github.com/0nn0/terminal-mac-cheatsheet)
+    (**cheatsheet**)
+    — List of my most used commands and shortcuts in the terminal for Mac
+*   [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial)
+    (**book**)
+    — A tutorial introduction to the Unix command line
+*   [Codecademy: Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line)
+    (**book**)
+    — Learn the Command Line with Codecademy
+*   [tldr](https://github.com/tldr-pages/tldr)
+    (**article**)
+    — Simplified and community-driven man pages
+*   [Bash Handbook](https://github.com/denysdovhan/bash-handbook)
+    (**book**)
+    — Documentation for those who want to learn Bash without diving in too
+    deeply
+*   [Advanced Bash-Scripting Guide](http://www.tldp.org/LDP/abs/html/)
+    (**book**)
+    — An in-depth exploration of the art of shell scripting
 
 #### Tips
 
@@ -794,14 +805,17 @@ In this assignment you’ll learn the basics of Git.
 
 #### Extra Resources
 
-*   📄 🆓 [`k88hudson/git-flight-rules`](https://github.com/k88hudson/git-flight-rules/)
-    (**introductory**)
-*   📄 🆓 [GitHub Guides](https://guides.github.com)
-    (**introductory**)
-*   👨‍🏫 🆓 [Learn Git Branching](https://learngitbranching.js.org)
-    (**intermediate**)
-*   📖 🆓 [Git in Practice](https://github.com/GitInPractice/GitInPractice)
-    (**advanced**)
+*   [Flight rules for Git](https://github.com/k88hudson/git-flight-rules/)
+    (**article**)
+    — Guide for programmers using Git about what to do when things go wrong
+*   [GitHub Guides](https://guides.github.com)
+    (**article**)
+*   [Learn Git Branching](https://learngitbranching.js.org)
+    (**tutorial**)
+    — Most visual and interactive way to learn Git on the web
+*   [Git in Practice](https://github.com/GitInPractice/GitInPractice)
+    (**book**)
+    — Opinionated intermediate / advanced Git book
 
 #### Tips
 
@@ -836,12 +850,21 @@ of Git.
 
 #### Extra Resources
 
-*   📄 🆓 [Understanding the GitHub Flow](https://guides.github.com/introduction/flow/)
-    (**introductory**)
-*   👨‍🏫 🆓 [`Roshanjossey/first-contributions`](https://github.com/Roshanjossey/first-contributions)
-    (**introductory**)
-*   📄 🆓 [`freeCodeCamp/how-to-contribute-to-open-source`](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
-    (**intermediate**)
+*   [Understanding the GitHub Flow](https://guides.github.com/introduction/flow/)
+    (**article**)
+    — Guide explaining how to use the GitHub float
+*   [GitHub Glossary](https://help.github.com/articles/github-glossary/)
+    (**article**)
+    — List of Git and GitHub specific terms
+*   [First Contributions](https://github.com/Roshanjossey/first-contributions)
+    (**tutorial**)
+    — Project to get beginners contributing to open source
+*   [Understanding the GitHub Flow](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
+    (**article**)
+    — Guide to contributing to open source
+*   [Git Cheat Sheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet/)
+    (**article**)
+    — Reference sheet covering Git commands, features, and bash
 
 #### Tips
 
