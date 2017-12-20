@@ -60,7 +60,7 @@ and check out [Minor Web Development][minor].
 
 ## Communication
 
-<!-- TODO: Add link to home (gh org), when published. -->
+<!-- TODO: Add link to examples when published. -->
 
 *   [GitHub][gh-be] — Main source of information, assignments, important dates,
     and more
