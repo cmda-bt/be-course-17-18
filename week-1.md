@@ -71,7 +71,8 @@ Submit your assignments by 3 a.m. the day of [lab 2][w2lab].
 *   [Run](#run) (**practice**)
 *   [Try Git](#try-git) (**practice**)
 *   [Learn markdown](#learn-markdown) (**practice**)
-*   [Profile](#profile) (**practice**)
+*   [Octocat](#octocat) (**practice**)
+*   [Profile](#profile) (**homework**)
 *   [Resources to refresh your memory][refresh] (**extra**※)
 
 > ※ Although not required we expect students who lack in knowledge to catch
@@ -800,6 +801,45 @@ as complete by opening an issue on our [GitHub issue
 tracker][learn-markdown-issue].
 Let us know in the issue what you thought of the tutorial.
 
+### Octocat
+
+[![][octocat-cover]][octocat-cover-source]
+
+> Laptop with a USB stick by [**@brina_blum**][octocat-cover-author].
+
+In this assignment you’ll learn the basics of GitHub and advance your knowledge
+of Git.
+
+#### Synopsis
+
+*   **Practice**
+*   **Due**: 3 a.m. the day of [lab 2][w2lab]
+
+#### Extra Resources
+
+*   📄 🆓 [Understanding the GitHub Flow](https://guides.github.com/introduction/flow/)
+    (**introductory**)
+*   👨‍🏫 🆓 [`Roshanjossey/first-contributions`](https://github.com/Roshanjossey/first-contributions)
+    (**introductory**)
+*   📄 🆓 [`freeCodeCamp/how-to-contribute-to-open-source`](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
+    (**intermediate**)
+
+#### Step A
+
+Take ± 30 minutes to follow the [Introduction to
+GitHub][octocat-intro-to-github] exercise.
+
+#### Step B
+
+Take ± 30 minutes to follow the [GitHub Pages from the Command Line
+][octocat-github-cli] exercise.
+
+#### Complete
+
+Awesome!  If you completed the exercises, mark this assignment as complete by
+opening an issue on our [GitHub issue tracker][octocat-issue].
+Let us know in the issue what you thought of the exercises.
+
 ### Profile
 
 [![][profile-cover]][profile-cover-source]
@@ -866,6 +906,18 @@ useful.
 [learn-markdown]: http://commonmark.org/help/tutorial/
 
 [learn-markdown-issue]: https://github.com/cmda-be/course-17-18/issues/new?title=Learn%20Markdown%20assignment&body=!!%20Let%20us%20know%20what%20you%20think%20of%20this%20assignment%20!!&labels=week-1%2Cweek-1%3Alearn-markdown
+
+[octocat-cover]: images/octocat.jpg
+
+[octocat-cover-source]: https://unsplash.com/photos/Bb_X4JgSqIM
+
+[octocat-cover-author]: https://unsplash.com/@brina_blum
+
+[octocat-intro-to-github]: https://services.github.com/on-demand/intro-to-github/
+
+[octocat-github-cli]: https://services.github.com/on-demand/github-cli/
+
+[octocat-issue]: https://github.com/cmda-be/course-17-18/issues/new?title=Octocat%20assignment&body=!!%20Let%20us%20know%20what%20you%20think%20of%20this%20assignment%20!!&labels=week-1%2Cweek-1%3Aoctocat
 
 [profile-cover]: images/profile.jpg
 
