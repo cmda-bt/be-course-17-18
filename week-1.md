@@ -844,7 +844,7 @@ Let us know in the issue what you thought of the exercises.
 
 [![][profile-cover]][profile-cover-source]
 
-> Silhouette by [**@kc_gertenbach**][profile-cover-author].
+> Stories from the Subway Pt. 2 by [**@o_j_cole**][profile-cover-author].
 
 In this assignment you’ll learn the basics of Git, GitHub, and Markdown.
 You’ll also learn about aliases and customise your Bash prompt to make it more
@@ -921,6 +921,6 @@ useful.
 
 [profile-cover]: images/profile.jpg
 
-[profile-cover-source]: https://unsplash.com/photos/i6LqbzXqy2A
+[profile-cover-source]: https://unsplash.com/photos/HFkTGu30w5E
 
-[profile-cover-author]: https://unsplash.com/@kc_gertenbach
+[profile-cover-author]: https://unsplash.com/@o_j_cole
