@@ -3,9 +3,9 @@
 *   [`cmd.jpg`](cmd.jpg)
     ([**source**](https://moodle.cmd.hva.nl/mod/page/view.php?id=1746))
     — Scaled and cropped
-*   [`hackertyper.jpg`](hackertyper.jpg)
+*   [`hackertyper.png`](hackertyper.png)
     ([**source**](http://hackertyper.net))
-    — Screenshot of website, cropped
+    — Screenshot of website
 *   [`note.jpg`](note.jpg)
     ([**source**](https://unsplash.com/photos/Hb6uWq0i4MI))
     — Scaled

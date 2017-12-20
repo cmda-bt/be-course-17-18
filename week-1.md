@@ -859,7 +859,7 @@ useful.
 
 [quote-author]: https://twitter.com/martinfowler
 
-[inspiration-cover]: images/hackertyper.jpg
+[inspiration-cover]: images/hackertyper.png
 
 [inspiration-link]: http://hackertyper.net
 
