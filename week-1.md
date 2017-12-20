@@ -903,10 +903,14 @@ and GitHub skills.
 
 *   [The Perfect Web Development Setup for OS X](https://github.com/jonathanong/osx-webdev-setup)
     (**article**)
-*   [An Introduction to Useful Bash Aliases and Functions](https://www.digitalocean.com/community/tutorials/an-introduction-to-useful-bash-aliases-and-functions)
+*   [Introduction to Useful Bash Aliases and Functions](https://www.digitalocean.com/community/tutorials/an-introduction-to-useful-bash-aliases-and-functions)
     (**article**)
 *   [dotfiles](https://dotfiles.github.io)
     (**article**)
+    — Unofficial guide to dotfiles on GitHub
+*   [Awesome dotfiles](https://github.com/webpro/awesome-dotfiles)
+    (**article**)
+    — Curated list of dotfiles resources
 
 #### Tips
 
@@ -922,11 +926,11 @@ As you’ll spend so much time there, it makes sense to make the command line
 more useful, and prettier.
 
 In this assignment you’ll customise your command line by changing a config file.
-The file in question is often called `.bash_profile`, `.profile`, or `.bashrc`.
+The file in question, called your profile, is often called `.bash_profile`,
+`.profile`, or `.bashrc`, depending on your operating system.
 To find the file you need to edit in your case, go to your root directory
 (`cd ~`) and print out hidden files there (`ls -a`).
-If one of the previously mentioned files exists, that’s the one your supposed to
-edit.
+If one of the previously mentioned files exists, you’re supposed to edit that.
 If multiple files exist, open each and inspect them to find out which one you
 should edit.
 
@@ -935,7 +939,7 @@ For this assignment:
 *   Add aliases (for example, I have `alias ..="cd .."` set up)
 *   Modify your prompt (for example, I have `PS1="🚀 \$(basename \$(pwd))"` set
     up)
-*   And other configuration you see fit
+*   And add other configuration you see fit
 
 …in your profile.
 
@@ -943,15 +947,16 @@ See the aforementioned extra resources for tips to get started.
 You’re expected to review a lot of existing examples, and do a lot of searching
 online.
 You can change other files, such as `.gitconfig`, if you feel like it.
-Make sure to document anything your add with comments.
-`#` starts a comment in Bash.
+Make sure to document anything you add with comments (`#` starts a line comment
+in Bash).
 
 Hand in your project by creating a new repository on GitHub:
 `username/dotfiles` (in my case `wooorm/dotfiles`).
 
-In your repository, include the files changed and added.
-Also include a `readme.md` in your repository, documenting how to install your
-config files, what they do, and who you are.
+In your repository, include the changed and added files.
+Also include a `readme.md`, documenting how to install your config files, what
+they do, and who you are.
+For example, something like [this](https://github.com/holman/dotfiles#readme).
 
 Finally, mark this assignment as complete by opening an issue on our
 [GitHub issue tracker][profile-issue].  Include a link to your repository.
