@@ -935,7 +935,7 @@ For this assignment:
 *   Add aliases (for example, I have `alias ..="cd .."` set up)
 *   Modify your prompt (for example, I have `PS1="🚀 \$(basename \$(pwd))"` set
     up)
-*   And configure your profile in any other way you see fit
+*   And other configuration you see fit
 
 …in your profile.
 
