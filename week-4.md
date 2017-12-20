@@ -22,7 +22,7 @@
 ### Synopsis
 
 *   **Date**: 05-03
-*   **Time**: 1:40hrs
+*   **Time**: 1:40h
 *   [**Slides**][slides-lecture]
 
 ### Schedule
@@ -39,7 +39,7 @@
 ### Synopsis
 
 *   **Date**: 08-03 (BT 1) or 06-03 (BT 2 and BT 3)
-*   **Time**: 1:40hrs
+*   **Time**: 1:40h
 
 <!--
 *   **Slides**

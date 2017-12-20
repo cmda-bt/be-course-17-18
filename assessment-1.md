@@ -10,7 +10,7 @@
 *   **Type**: Digital test
 *   **Date**: 26-03
 *   **Resit**: 29-07
-*   **Time**: 1:40hrs (2:30 w/ extra time)
+*   **Time**: 1:40h (2:30 w/ extra time)
 *   **Grade**: At least 5.5 to pass this course
 *   **Bring**: Laptop, charger, and identification
 

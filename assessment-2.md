@@ -10,7 +10,7 @@
 *   **Type**: Oral test
 *   **Date**: 09-04 or 12-04
 *   **Resit**: 25-07 or 28-07
-*   **Time**: 0:15hrs
+*   **Time**: 0:15h
 *   **Grade**: At least 5.5 to pass this course
 *   **Bring**: Laptop and charger
 

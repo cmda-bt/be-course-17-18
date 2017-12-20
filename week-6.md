@@ -18,7 +18,7 @@
 ### Synopsis
 
 *   **Date**: 19-03
-*   **Time**: 1:40hrs
+*   **Time**: 1:40h
 
 <!-- *   [**Slides**][slides-lecture] -->
 
@@ -35,7 +35,7 @@
 ### Synopsis
 
 *   **Date**: 22-03 (BT 1) or 20-03 (BT 2 and BT 3)
-*   **Time**: 1:40hrs
+*   **Time**: 1:40h
 
 <!--
 *   **Slides**

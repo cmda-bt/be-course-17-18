@@ -16,7 +16,7 @@
 ### Synopsis
 
 *   **Date**: 05-04 (BT 1) or 03-04 (BT 2 and BT 3)
-*   **Time**: 1:40hrs
+*   **Time**: 1:40h
 
 <!--
 *   **Slides**

@@ -29,7 +29,7 @@
 ### Synopsis
 
 *   **Date**: 12-02
-*   **Time**: 1:40hrs
+*   **Time**: 1:40h
 *   [**Slides**][slides-lecture]
 
 ### Schedule
@@ -46,7 +46,7 @@
 ### Synopsis
 
 *   **Date**: 15-02 (BT 1) or 13-02 (BT 2 and BT 3)
-*   **Time**: 1:40hrs
+*   **Time**: 1:40h
 
 <!--
 *   **Slides**
