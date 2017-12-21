@@ -869,6 +869,8 @@ of Git.
 *   [Understanding the GitHub Flow](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
     (**article**)
     — Guide to contributing to open source
+*   [5 GitHub tips for new coders](https://medium.freecodecamp.org/5-github-tips-for-new-coders-2f312689ffd5)
+    (**article**)
 *   [Git Cheat Sheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet/)
     (**article**)
     — Reference sheet covering Git commands, features, and bash
