@@ -38,7 +38,7 @@
 
 ### Synopsis
 
-*   **Date**: 08-03 (BT 1) or 06-03 (BT 2 and BT 3)
+*   **Date**: 06-03 (BT 1, BT 2 and BT 3)
 *   **Time**: 1:40h
 
 <!--

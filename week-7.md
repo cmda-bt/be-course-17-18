@@ -27,7 +27,7 @@
 
 ### Synopsis
 
-*   **Date**: 29-03 (BT 1) or 27-03 (BT 2 and BT 3)
+*   **Date**: 27-03 (BT 1, BT 2 and BT 3)
 *   **Time**: 1:40h
 
 <!--
