@@ -154,8 +154,11 @@ In this assignment you’ll learn the basics of the command line.
 *   [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial)
     (**book**)
     — A tutorial introduction to the Unix command line
+*   [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
+    (**article**)
+    — Master the command line, in one page
 *   [Codecademy: Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line)
-    (**book**)
+    (**course**)
     — Learn the Command Line with Codecademy
 *   [tldr](https://github.com/tldr-pages/tldr)
     (**article**)
