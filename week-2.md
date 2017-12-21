@@ -64,12 +64,59 @@
 You’re expected to spend about 6 hours on assignments outside of class.
 Submit your assignments by 3 a.m. the day of [lab 3][w3lab].
 
-<!--
-*   Alpha (**practice**)
-*   Bravo (**homework**)
--->
+*   [learnyounode](#learnyounode) (**practice**)
 
 See [week 1][w1a] for assignments due before this lab.
+
+### learnyounode
+
+[![][learnyounode-cover]][learnyounode-cover-source]
+
+> Lose Yourself by [**@claybanks1989**][learnyounode-cover-author].
+
+In this assignment you’ll learn the basics of Node.
+
+#### Synopsis
+
+*   **Practice**
+*   **Time**: 3:00h
+*   **Goals**: [**subgoal 5**][s5]
+*   **Due**: 3 a.m. the day of [lab 3][w3lab]
+
+#### Extra Resources
+
+#### Tips
+
+Stuck?  See the [Bugs][] section of the course readme to find a list of
+troubleshooting tips.
+
+#### Description
+
+Take ± 3 hours to follow the [learnyounode][] workshopper through to completion.
+
+Workshoppers are interactive, self guided lesson modules, used as curriculum in
+[NodeSchool][]: free and in-person hosted workshops.
+At NodeSchool, mentors help attendees work through the challenges, but you can
+also work through workshoppers on your own, or with friends or colleagues.
+
+[Nodeschool Amsterdam][nsa] is pretty active: about once per month there’s a
+workshop.
+It’s also a lot of fun.
+Need some extra help?
+Want to meet more developers?
+Definitely attend one of the workshops!
+
+Other than `learnyounode`, workshoppers exist for JavaScript, npm, Express,
+Electron, and much more.  Feel free to peruse the
+[list of workshoppers][workshoppers] and try anything that sounds interesting.
+
+#### Complete
+
+Awesome!  If you completed the workshopper, mark this assignment as complete by
+opening an issue on our [GitHub issue tracker][learnyounode-issue].
+Let us know in the issue what you thought of the exercises.
+
+[bugs]: readme.md#bugs
 
 [quote-author]: https://twitter.com/BrendanEich
 
@@ -94,3 +141,19 @@ See [week 1][w1a] for assignments due before this lab.
 [s5]: readme.md#subgoal-5
 
 [s6]: readme.md#subgoal-6
+
+[learnyounode-cover]: images/learnyounode.jpg
+
+[learnyounode-cover-source]: https://unsplash.com/photos/GX8KBbVmC6c
+
+[learnyounode-cover-author]: https://unsplash.com/@claybanks1989
+
+[learnyounode-issue]: https://github.com/cmda-be/course-17-18/issues/new?title=learnyounode%20assignment&labels=week-2%2Cweek-2%3Alearnyounode
+
+[learnyounode]: https://github.com/workshopper/learnyounode#readme
+
+[nodeschool]: https://nodeschool.io
+
+[nsa]: https://nodeschool.io/amsterdam/
+
+[workshoppers]: https://nodeschool.io/#workshopper-list

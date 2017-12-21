@@ -6,6 +6,9 @@
 *   [`hackertyper.png`](hackertyper.png)
     ([**source**](http://hackertyper.net))
     — Screenshot of website
+*   [`learnyounode.jpg`](learnyounode.jpg)
+    ([**source**](https://unsplash.com/photos/GX8KBbVmC6c))
+    — Scaled and cropped
 *   [`note.jpg`](note.jpg)
     ([**source**](https://unsplash.com/photos/Hb6uWq0i4MI))
     — Scaled

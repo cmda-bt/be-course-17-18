@@ -12,6 +12,7 @@ Assignments make up 30 hours in this course (± 36%).
 *   [Week 1 × Try Git](week-1.md#try-git)
 *   [Week 1 × Octocat](week-1.md#octocat)
 *   [Week 1 × Profile](week-1.md#profile)
+*   [Week 2 × learnyounode](week-2.md#learnyounode)
 
 <!--
 TODO: Fill out assignments.
