@@ -160,7 +160,9 @@ date, time, and place.
 
 ## Effort
 
-The table below breaks down the general time needed to complete activities.
+###### Per activity
+
+The below table breaks down the general time needed to complete activities.
 
 | Activity                | Effort (hours) |
 | ----------------------- | -------------: |
@@ -170,6 +172,22 @@ The table below breaks down the general time needed to complete activities.
 | Assessment 1            |             10 |
 | Assessment 2            |            20⅔ |
 | **Total**               |         **84** |
+
+###### Per week
+
+The below table breaks down the general time needed per week
+
+| Week | Effort | Topic        | Activities                 |
+| ---- | ------ | ------------ | -------------------------- |
+| 1    | 9:20h  | command line | lab, lecture, assignments  |
+| 2    | 9:20h  | node         | lab, lecture, assignments  |
+| 3    | 9:20h  | http         | lab, lecture, assignments  |
+| 4    | 9:20h  | express      | lab, lecture, assignments  |
+| 5    | 9:20h  | database     | lab, lecture, assignments  |
+| 6    | 13:20h | deploy       | lab, lecture, learn for a1 |
+| 7    | 12:00h | style        | lab, a1, work on a2        |
+| 8    | 12:00h | review       | lab, work on a2            |
+| 9    |        |              | a2                         |
 
 ## Materials
 
