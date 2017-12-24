@@ -116,7 +116,7 @@ In practice you’ll learn to:
 | Task                               | Weight |
 | ---------------------------------- | -----: |
 | [Participation][]                  |    10% |
-| [Assessment 1※][a1] (written test) |    40% |
+| [Assessment 1※][a1] (digital test) |    40% |
 | [Assessment 2※][a2] (oral test)    |    50% |
 | **Total**                          |   100% |
 
