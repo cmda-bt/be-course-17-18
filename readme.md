@@ -164,14 +164,14 @@ date, time, and place.
 
 The below table breaks down the general time needed to complete activities.
 
-| Activity                | Effort (hours) |
-| ----------------------- | -------------: |
-| Lecture (6 × 1:40h)     |             10 |
-| Lab (8 × 1:40h)         |            13⅓ |
-| Assignments (5 × 6:00h) |             30 |
-| Assessment 1            |             10 |
-| Assessment 2            |            20⅔ |
-| **Total**               |         **84** |
+| Activity                |     Effort |
+| ----------------------- | ---------: |
+| Lecture (6 × 1:40h)     |     10:00h |
+| Lab (8 × 1:40h)         |     13:20h |
+| Assignments (5 × 6:00h) |     30:00h |
+| Assessment 1            |     10:00h |
+| Assessment 2            |     20:40h |
+| **Total**               | **84:00h** |
 
 ###### Per week
 
