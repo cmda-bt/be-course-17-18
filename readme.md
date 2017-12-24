@@ -177,17 +177,17 @@ The below table breaks down the general time needed to complete activities.
 
 The below table breaks down the general time needed per week
 
-| Week | Effort | Topic        | Activities                 |
-| ---- | ------ | ------------ | -------------------------- |
-| 1    | 9:20h  | command line | lab, lecture, assignments  |
-| 2    | 9:20h  | node         | lab, lecture, assignments  |
-| 3    | 9:20h  | http         | lab, lecture, assignments  |
-| 4    | 9:20h  | express      | lab, lecture, assignments  |
-| 5    | 9:20h  | database     | lab, lecture, assignments  |
-| 6    | 13:20h | deploy       | lab, lecture, learn for a1 |
-| 7    | 12:00h | style        | lab, a1, work on a2        |
-| 8    | 12:00h | review       | lab, work on a2            |
-| 9    |        |              | a2                         |
+| Week | Effort | Topic        | Activities                                             |
+| ---- | -----: | ------------ | ------------------------------------------------------ |
+| 1    |  9:20h | command line | [lab][w1lab], [lecture][w1lec], [assignments][w1a]     |
+| 2    |  9:20h | node         | [lab][w2lab], [lecture][w2lec], [assignments][w2a]     |
+| 3    |  9:20h | http         | [lab][w3lab], [lecture][w3lec], [assignments][w3a]     |
+| 4    |  9:20h | express      | [lab][w4lab], [lecture][w4lec], [assignments][w4a]     |
+| 5    |  9:20h | database     | [lab][w5lab], [lecture][w5lec], [assignments][w5a]     |
+| 6    | 13:20h | deploy       | [lab][w6lab], [lecture][w6lec], learn for assessment 1 |
+| 7    | 12:00h | style        | [lab][w7lab], [assessment 1][a1], work on assessment 2 |
+| 8    | 12:00h | review       | [lab][w8lab], work on assessment 2                     |
+| 9    |        |              | [assessment 2][a2]                                     |
 
 ## Materials
 
@@ -440,3 +440,13 @@ docs and images are [CC-BY-4.0][].
 [w7lab]: week-7.md#lab
 
 [w8lab]: week-8.md#lab
+
+[w1a]: week-1.md#assignments
+
+[w2a]: week-2.md#assignments
+
+[w3a]: week-3.md#assignments
+
+[w4a]: week-4.md#assignments
+
+[w5a]: week-5.md#assignments
