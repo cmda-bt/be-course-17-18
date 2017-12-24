@@ -99,7 +99,7 @@ Workshoppers are interactive, self guided lesson modules, used as curriculum in
 At NodeSchool, mentors help attendees work through the challenges, but you can
 also work through workshoppers on your own, or with friends or colleagues.
 
-[Nodeschool Amsterdam][nsa] is pretty active: about once per month there’s a
+[NodeSchool Amsterdam][nsa] is pretty active: about once per month there’s a
 workshop.
 It’s also a lot of fun.
 Need some extra help?
