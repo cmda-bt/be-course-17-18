@@ -203,17 +203,8 @@ The below table breaks down the general time needed per week
     _Node.js in Action_.
     Manning, 2017.
     (**optional**)
-*   🆓 [Chacon, Scott, and Ben Straub.
-    _Pro Git_.
-    Apress, 2014](https://git-scm.com/book/en/v2).
-    (**optional**)
-*   🆓 Demaree, David.
-    _Git for Humans_.
-    A Book Apart, 2016.
-    (**optional**)
 
-> 💁 The optional books are either linked to or free for AUAS students through
-> [Safari Books][safari].
+> 💁 The optional book is free for AUAS students through [Safari Books][safari].
 
 #### Resources to refresh your memory
 

@@ -822,6 +822,10 @@ In this assignment you’ll learn the basics of Git.
 *   [Git in Practice](https://github.com/GitInPractice/GitInPractice)
     (**book**)
     — Opinionated intermediate / advanced Git book
+*   [Chacon, Scott, and Ben Straub.
+    _Pro Git_.
+    Apress, 2014](https://git-scm.com/book/en/v2).
+    (**book**)
 
 #### Tips
 
