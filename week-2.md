@@ -1,3 +1,5 @@
+<!--lint disable no-html-->
+
 # Week 2
 
 > Always bet on JavaScript.
@@ -65,6 +67,7 @@ You’re expected to spend about 6 hours on assignments outside of class.
 Submit your assignments by 3 a.m. the day of [lab 3][w3lab].
 
 *   [learnyounode](#learnyounode) (**practice**)
+*   [Package](#package) (**homework**)
 
 See [week 1][w1a] for assignments due before this lab.
 
@@ -83,7 +86,13 @@ In this assignment you’ll learn the basics of Node.
 *   **Goals**: [**subgoal 5**][s5]
 *   **Due**: 3 a.m. the day of [lab 3][w3lab]
 
+<!--
 #### Extra Resources
+
+*   Alpha
+*   Bravo
+*   Charlie
+-->
 
 #### Tips
 
@@ -115,6 +124,117 @@ Electron, and much more.  Feel free to peruse the
 Awesome!  If you completed the workshopper, mark this assignment as complete by
 opening an issue on our [GitHub issue tracker][learnyounode-issue].
 Let us know in the issue what you thought of the exercises.
+
+### Package
+
+[![][package-cover]][package-cover-source]
+
+> Parcel, package, candy cane and string by
+> [**@moonshinechild**][package-cover-author].
+
+In this assignment you’ll learn the basics of node modules and npm packages.
+
+#### Extra Resources
+
+*   [`package.json` docs](https://docs.npmjs.com/files/package.json)
+    (**article**)
+    — Specifics of npm’s `package.json` handling
+
+#### Tips
+
+Stuck?  See the [Bugs][] section of the course readme to find a list of
+troubleshooting tips.
+
+#### Description
+
+Take ± 3 hours to create a project around the below code:
+
+<details>
+<summary><code>index.js</code> (click the arrow to expand)</summary>
+
+```javascript
+'use strict';
+
+var repeat = require('repeat-string');
+
+/* Expose `vowel` as default function: vowel = require('this package'). */
+module.exports = vowel;
+
+/* Add other functions on `vowel`: inner = require('this package').inner. */
+vowel.vowel = vowel;
+vowel.inner = inner;
+vowel.grawlix = grawlix;
+
+var floor = Math.floor;
+var defaultCharacter = '*';
+var grawlixPattern = '@#$%!&?';
+var vowels = /[aeiouy]/g;
+
+/* `butt` > `b*tt` */
+function vowel(value, character) {
+  return value.replace(vowels, character || defaultCharacter);
+}
+
+/* `butt` > `b**t` */
+function inner(value, character) {
+  if (value.length <= 2) {
+    return value;
+  }
+
+  return value.charAt(0) +
+    repeat(character || defaultCharacter, value.length - 2) +
+    value.charAt(value.length - 1);
+}
+
+/* `butt` > `@#$%` */
+function grawlix(value, pattern) {
+  var chars = pattern || grawlixPattern;
+  var length = typeof value === 'number' ? value : value.length;
+  var count = chars.length;
+  return repeat(chars, floor(length / count)) + chars.slice(0, length % count);
+}
+```
+
+</details>
+
+Hand in your project as a new repository on GitHub under your username.
+
+In your repository, include the `index.js` file given above: don’t change it.
+
+Include a `package.json` with a correct name, version, dependencies, and other
+metadata.
+For examples of `package.json` files, see
+[`repeat-string`](https://github.com/jonschlinkert/repeat-string/blob/master/package.json),
+[`longest-streak`](https://github.com/wooorm/longest-streak/blob/master/package.json),
+or [`skin-tone`](https://github.com/sindresorhus/skin-tone/blob/master/package.json).
+
+Add a `readme.md` as well, documenting the code: how to install it, how to use
+it (with examples), a license.
+For examples of `readme.md` files, see
+[`concat-stream`](https://github.com/maxogden/concat-stream#readme),
+[`ccount`](https://github.com/wooorm/ccount#readme),
+or [`normalize-url`](https://github.com/sindresorhus/normalize-url#readme).
+
+Finally, push your project, `index.js`, `package.json`, and `readme.md` to
+GitHub.
+
+If you have some time left and would like to dig further, you can:
+
+*   Add a [license](https://help.github.com/articles/licensing-a-repository/)
+*   Add a [`.gitignore`](https://help.github.com/articles/ignoring-files/)
+*   Add unit tests (tape, mocha, …)
+*   Add code linting (xo, standard, prettier, …)
+*   Add a [`.editorconfig`](http://editorconfig.org)
+
+…most of the previously linked to projects have the above in place, look at
+them for examples.
+
+#### Complete
+
+Awesome!  If you pushed your work, mark this assignment as complete by opening
+an issue on our [GitHub issue tracker][package-issue].
+Include a link to your repository.
+Let us know in the issue if you liked this assignment, and give us any feedback.
 
 [bugs]: readme.md#bugs
 
@@ -157,3 +277,11 @@ Let us know in the issue what you thought of the exercises.
 [nsa]: https://nodeschool.io/amsterdam/
 
 [workshoppers]: https://nodeschool.io/#workshopper-list
+
+[package-cover]: images/package.jpg
+
+[package-cover-source]: https://unsplash.com/photos/fV4-DdSdcpI
+
+[package-cover-author]: https://unsplash.com/@moonshinechild
+
+[package-issue]: https://github.com/cmda-be/course-17-18/issues/new?title=Package%20assignment&labels=week-2%2Cweek-2%3Apackage

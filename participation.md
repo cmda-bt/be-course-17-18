@@ -13,6 +13,7 @@ Assignments make up 30 hours in this course (± 36%).
 *   [Week 1 × Octocat](week-1.md#octocat)
 *   [Week 1 × Profile](week-1.md#profile)
 *   [Week 2 × learnyounode](week-2.md#learnyounode)
+*   [Week 2 × Package](week-2.md#package)
 
 <!--
 TODO: Fill out assignments.

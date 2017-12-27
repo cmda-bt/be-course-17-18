@@ -15,6 +15,9 @@
 *   [`octocat.jpg`](octocat.jpg)
     ([**source**](https://unsplash.com/photos/Bb_X4JgSqIM))
     — Scaled
+*   [`package.jpg`](package.jpg)
+    ([**source**](https://unsplash.com/photos/fV4-DdSdcpI))
+    — Scaled
 *   [`profile.jpg`](profile.jpg)
     ([**source**](https://unsplash.com/photos/HFkTGu30w5E))
     — Scaled
