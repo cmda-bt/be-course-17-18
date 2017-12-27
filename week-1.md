@@ -888,8 +888,8 @@ troubleshooting tips.
 
 Take ± 30 minutes to follow the [Introduction to
 GitHub][octocat-intro-to-github] exercise.
-Then, take ± 30 minutes to follow the [GitHub Pages from the Command Line
-][octocat-github-cli] exercise.
+Then, take ± 30 minutes to follow the [GitHub Pages from the Command
+Line][octocat-github-cli] exercise.
 
 #### Complete
 
