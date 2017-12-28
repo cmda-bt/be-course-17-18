@@ -54,9 +54,9 @@ This course is chosen alongside **Frontend 2** and **Project Tech**, together
 making up **Block Tech**.
 In **Project Tech** you’ll apply your newfound backend skills.
 
-If you’d like to continue with web development after this course, make sure to
-pick a tech internship for Q4, choose [**Frontend 3**][fe3] in Q1 of next year
-and check out [Minor Web Development][minor].
+If you’d like to continue with web development after this course, do a tech
+internship next quarter (Q4), choose [**Frontend 3**][fe3] in S1 (fall) of next
+year, and pick [Minor Web Development][minor] in S2 (spring) after that.
 
 ## Communication
 
