@@ -941,10 +941,10 @@ As you’ll spend so much time there, it makes sense to make the command line
 more useful, and prettier.
 
 In this assignment you’ll customise your command line by changing a config file.
-The file in question, called your profile, is often called `.bash_profile`,
+The file in question, called your profile, is often named `.bash_profile`,
 `.profile`, or `.bashrc`, depending on your operating system.
-To find the file you need to edit in your case, go to your root directory
-(`cd ~`) and print out hidden files there (`ls -a`).
+To find the file you need to edit, go to your root directory (`cd ~`) and print
+out hidden files there (`ls -a`).
 If one of the previously mentioned files exists, you’re supposed to edit that.
 If multiple files exist, open each and inspect them to find out which one you
 should edit.
@@ -971,7 +971,7 @@ Hand in your project by creating a new repository on GitHub:
 In your repository, include the changed and added files.
 Also include a `readme.md`, documenting how to install your config files, what
 they do, and who you are.
-For example, something like [this](https://github.com/holman/dotfiles#readme).
+For example, something like [this one by **@holman**](https://github.com/holman/dotfiles#readme).
 
 #### Complete
 
