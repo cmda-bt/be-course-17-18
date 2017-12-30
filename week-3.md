@@ -16,7 +16,7 @@
 
 [![][inspiration-cover]][inspiration-link]
 
-> HTTP cat by [**@rogeriopvl**][inspiration-author].
+> HTTP cat by [**@girlie_mac**][inspiration-author].
 
 ## Comic
 
@@ -73,7 +73,7 @@ See [week 2][w2a] for assignments due before this lab.
 
 [inspiration-link]: https://http.cat
 
-[inspiration-author]: https://twitter.com/rogeriopvl
+[inspiration-author]: https://twitter.com/girlie_mac
 
 [comic-cover]: https://imgs.xkcd.com/comics/tech_support_cheat_sheet.png
 
