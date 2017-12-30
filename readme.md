@@ -175,7 +175,7 @@ The below table breaks down the general time needed to complete activities.
 
 ###### Per week
 
-The below table breaks down the general time needed per week
+The below table breaks down the general time needed per week.
 
 | Week | Effort | Topic        | Activities                                             |
 | ---- | -----: | ------------ | ------------------------------------------------------ |
