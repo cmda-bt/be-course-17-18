@@ -5,7 +5,7 @@ whether students engage in assignments.
 
 ## Assignments
 
-Assignments make up 30 hours in this course (± 36%).
+Assignments make up 30 hours in this course (about 36% of total time spent).
 
 *   [Week 1 × Markup](week-1.md#markup)
 *   [Week 1 × Run](week-1.md#run)
