@@ -4,6 +4,11 @@ var fs = require('fs')
 var path = require('path')
 var http = require('http')
 
+var mime = {
+  '.html': 'text/html',
+  '.css': 'text/css'
+}
+
 http.createServer(onrequest).listen(8000)
 
 function onrequest(req, res) {
@@ -22,7 +27,10 @@ function onrequest(req, res) {
       res.statusCode = 404
       res.end('Not found\n')
     } else {
+      var extension = path.extname(route)
+      var type = mime[extension] || 'text/plain'
       res.statusCode = 200
+      res.setHeader('Content-Type', type)
       res.end(buf)
     }
   }
