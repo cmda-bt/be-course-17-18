@@ -1,21 +1,29 @@
 /* eslint-disable semi */
 
+var fs = require('fs')
+var path = require('path')
 var http = require('http')
-
-var routes = {
-  '/about': 'This is my website\n',
-  '/': 'Hello World\n'
-}
 
 http.createServer(onrequest).listen(8000)
 
 function onrequest(req, res) {
-  res.setHeader('Content-Type', 'text/html')
-  if (req.url in routes) {
-    res.statusCode = 200
-    res.end(routes[req.url])
-  } else {
-    res.statusCode = 404
-    res.end('Not found\n')
+  var route = req.url
+
+  if (route === '/') {
+    route = 'index.html'
+  }
+
+  fs.readFile(path.join('static', route), onread)
+
+  function onread(err, buf) {
+    res.setHeader('Content-Type', 'text/html')
+
+    if (err) {
+      res.statusCode = 404
+      res.end('Not found\n')
+    } else {
+      res.statusCode = 200
+      res.end(buf)
+    }
   }
 }
