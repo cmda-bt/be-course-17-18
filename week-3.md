@@ -62,12 +62,63 @@
 You’re expected to spend about 6 hours on assignments outside of class.
 Submit your assignments by 3 a.m. the day of [lab 4][w4lab].
 
+*   [transfer](#transfer) (**practice**)
+
 <!--
-*   Alpha (**practice**)
 *   Bravo (**homework**)
 -->
 
 See [week 2][w2a] for assignments due before this lab.
+
+### transfer
+
+[![][transfer-cover]][transfer-cover-source]
+
+> Downtown & Brooklyn by [**@trapnation**][transfer-cover-author].
+
+In this assignment you’ll learn the basics of HTTP.
+
+#### Synopsis
+
+*   **Practice**
+*   **Time**: 1:00h
+*   **Goals**: [**subgoal 7**][s7]
+*   **Due**: 3 a.m. the day of [lab 4][w4lab]
+
+<!--
+#### Extra Resources
+
+*   Alpha
+*   Bravo
+*   Charlie
+-->
+
+#### Tips
+
+Stuck?  See the [Bugs][] section of the course readme to find a list of
+troubleshooting tips.
+
+#### Description
+
+Take about 1 hour to follow the [transfer][] tutorial through to completion.
+
+Install it with:
+
+```sh
+npm install cmda-be/transfer --global
+```
+
+…and then start it by running `transfer`.
+This tutorial is interactive.
+Answer any questions it asks you, until completion.
+
+#### Complete
+
+Sweet!  If you completed the tutorial, mark this assignment as complete by
+opening an issue on our [GitHub issue tracker][transfer-issue].
+Let us know in the issue what you thought of the exercises.
+
+[bugs]: readme.md#bugs
 
 [inspiration-cover]: https://http.cat/403
 
@@ -90,3 +141,13 @@ See [week 2][w2a] for assignments due before this lab.
 [s5]: readme.md#subgoal-5
 
 [s7]: readme.md#subgoal-7
+
+[transfer]: https://github.com/cmda-be/transfer
+
+[transfer-cover]: images/transfer.jpg
+
+[transfer-cover-source]: https://unsplash.com/photos/XAqaeyzj3NM
+
+[transfer-cover-author]: https://unsplash.com/@trapnation
+
+[transfer-issue]: https://github.com/cmda-be/course-17-18/issues/new?title=Transfer%20assignment&labels=week-3%2Cweek-3%3Atransfer
