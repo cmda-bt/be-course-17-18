@@ -60,11 +60,10 @@ year, and pick [Minor Web Development][minor] in S2 (spring) after that.
 
 ## Communication
 
-<!-- TODO: Add link to examples when published. -->
-
 *   [GitHub][gh-be] — Main source of information, assignments, important dates,
     and more
-*   [Slack][slack] — General chatter and Q&A
+*   [Examples][] — Example code from slides
+*   [Slack][] — General chatter and Q&A
 *   [Moodle][moodle-be] — Schedulers
 
 ## Goals
@@ -266,10 +265,6 @@ The below table breaks down the general time needed per week.
 
 If you have questions:
 
-<!--
-  TODO: [Browse examples][examples] (before search)
--->
-
 *   Read the manual for the technology in question
     ([Git](https://git-scm.com/docs),
     [GitHub](https://guides.github.com),
@@ -278,6 +273,7 @@ If you have questions:
     [express](http://expressjs.com/en/4x/api.html),
     [MySQL](https://dev.mysql.com/doc/refman/5.7/en/),
     [MongoDB](https://docs.mongodb.com))
+*   [Browse examples][examples]
 *   [Search StackOverflow][stackoverflow]
 *   Use a search engine (like [DuckDuckGo][])
 *   [Ask questions on Slack][slack]
@@ -346,7 +342,9 @@ docs and images are [CC-BY-4.0][].
 
 [git]: https://git-scm.com
 
-[stackoverflow]: https://stackoverflow.com/questions/tagged/d3.js
+[examples]: examples
+
+[stackoverflow]: https://stackoverflow.com
 
 [duckduckgo]: https://duckduckgo.com
 
