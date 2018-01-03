@@ -1,0 +1,20 @@
+{
+  "private": true,
+  "name": "plain-server",
+  "version": "1.0.0",
+  "description": "Simple server example.",
+  "license": "MIT",
+  "keywords": [],
+  "homepage": "https://github.com/cmda-be/course-17-18/tree/master/examples/plain-server",
+  "repository": "cmda-be/course-17-18",
+  "bugs": "https://github.com/cmda-be/course-17-18/issues",
+  "author": "Titus Wormer <tituswormer@gmail.com> (wooorm.com)",
+  "contributors": [
+    "Titus Wormer <tituswormer@gmail.com> (http://wooorm.com)"
+  ],
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "start": "node ."
+  }
+}
