@@ -14,6 +14,7 @@ Assignments make up 30 hours in this course (about 36% of total time spent).
 *   [Week 1 × Profile](week-1.md#profile)
 *   [Week 2 × learnyounode](week-2.md#learnyounode)
 *   [Week 2 × Package](week-2.md#package)
+*   [Week 3 × Transfer](week-3.md#transfer)
 
 <!--
 TODO: Fill out assignments.
