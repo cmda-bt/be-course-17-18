@@ -62,7 +62,7 @@
 You’re expected to spend about 6 hours on assignments outside of class.
 Submit your assignments by 3 a.m. the day of [lab 4][w4lab].
 
-*   [transfer](#transfer) (**practice**)
+*   [Transfer](#transfer) (**practice**)
 
 <!--
 *   Bravo (**homework**)
@@ -70,7 +70,7 @@ Submit your assignments by 3 a.m. the day of [lab 4][w4lab].
 
 See [week 2][w2a] for assignments due before this lab.
 
-### transfer
+### Transfer
 
 [![][transfer-cover]][transfer-cover-source]
 
