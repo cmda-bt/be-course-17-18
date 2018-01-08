@@ -32,7 +32,7 @@
 
 ### Synopsis
 
-*   **Date**: 19-03 (BT 1) or 13-03 (BT 2 and BT 3)
+*   **Date**: 13-03 (BT 1, BT 2, and BT 3)
 *   **Time**: 1:40h
 
 <!--

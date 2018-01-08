@@ -8,7 +8,7 @@
 
 *   **Weight**: 50%
 *   **Type**: Oral test
-*   **Date**: 09-04, 10-04, or 12-04
+*   **Date**: 09-04 or 10-04, or 12-04
 *   **Resit**: 25-07, 26-07, or 28-07
 *   **Time**: 0:15h
 *   **Grade**: At least 5.5 to pass this course
