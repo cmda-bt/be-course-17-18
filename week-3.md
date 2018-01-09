@@ -131,13 +131,11 @@ server.
 *   **Goals**: [subgoal 5][s5] and [subgoal 7][s7]
 *   **Due**: 3 a.m. the day of [lab 4][w4lab]
 
-<!--
 #### Extra Resources
 
-*   Alpha
-*   Bravo
-*   Charlie
--->
+*   [`plain-server`](examples/plain-server)
+    (**example**)
+    — Simple server example covered in lecture
 
 #### Tips
 
