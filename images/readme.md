@@ -21,6 +21,9 @@
 *   [`package.jpg`](package.jpg)
     ([**source**](https://unsplash.com/photos/fV4-DdSdcpI))
     — Scaled
+*   [`plain-server.png`](plain-server.png)
+    ([**source**](../examples/plain-server))
+    — Screenshot
 *   [`profile.jpg`](profile.jpg)
     ([**source**](https://unsplash.com/photos/HFkTGu30w5E))
     — Scaled
