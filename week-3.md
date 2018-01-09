@@ -135,7 +135,7 @@ file server.
 
 *   [`plain-server`](examples/plain-server)
     (**example**)
-    — Simple server example covered in lecture
+    — Simple server example covered in [lecture 3][w3lec]
 
 #### Tips
 
@@ -227,3 +227,5 @@ Let us know in the issue if you liked this assignment, and give us any feedback.
 [listing-issue]: https://github.com/cmda-be/course-17-18/issues/new?title=Listing%20assignment&labels=week-3%2Cweek-3%3Alisting
 
 [mime-types]: https://www.npmjs.com/package/mime-types
+
+[w3lec]: #lecture
