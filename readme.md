@@ -86,9 +86,9 @@ In practice you’ll learn to:
 2.  <a name="subgoal-2"></a>
     Version control with Git ([**week 1**][w1])
 3.  <a name="subgoal-3"></a>
-    Collaborate on GitHub ([**week 1**][w1])
+    Collaborate on GitHub ([**week 1**][w1] and [**week 2**][w2])
 4.  <a name="subgoal-4"></a>
-    Write docs in Markdown ([**week 1**][w1])
+    Write docs in Markdown ([**week 1**][w1] and [**week 2**][w2])
 5.  <a name="subgoal-5"></a>
     Understand Node principles ([**week 2**][w2] and [**week 3**][w3])
 6.  <a name="subgoal-6"></a>

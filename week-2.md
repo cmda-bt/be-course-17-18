@@ -134,6 +134,13 @@ Let us know in the issue what you thought of the exercises.
 
 In this assignment you’ll learn the basics of node modules and npm packages.
 
+#### Synopsis
+
+*   **Homework**
+*   **Time**: 3:00h
+*   **Goals**: [subgoal 3][s3], [subgoal 4][s4], and [subgoal 6][s6]
+*   **Due**: 3 a.m. the day of [lab 3][w3lab]
+
 #### Extra Resources
 
 *   [`package.json` docs](https://docs.npmjs.com/files/package.json)
@@ -257,6 +264,10 @@ Let us know in the issue if you liked this assignment, and give us any feedback.
 [w3lab]: week-3.md#lab
 
 [w1a]: week-1.md#assignments
+
+[s3]: readme.md#subgoal-3
+
+[s4]: readme.md#subgoal-4
 
 [s5]: readme.md#subgoal-5
 
