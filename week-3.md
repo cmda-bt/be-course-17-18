@@ -121,8 +121,8 @@ Let us know in the issue what you thought of the exercises.
 
 > Plan a lifetime adventure by [**@glenncarstenspeters**][listing-cover-author].
 
-In this assignment you’ll apply your HTTP in Node by building a static file
-server.
+In this assignment you’ll apply your HTTP knowledge in Node by building a static
+file server.
 
 #### Synopsis
 
