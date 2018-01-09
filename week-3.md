@@ -79,7 +79,7 @@ In this assignment you’ll learn the basics of HTTP.
 
 *   **Practice**
 *   **Time**: 1:00h
-*   **Goals**: [**subgoal 7**][s7]
+*   **Goals**: [subgoal 7][s7]
 *   **Due**: 3 a.m. the day of [lab 4][w4lab]
 
 <!--
@@ -128,7 +128,7 @@ server.
 
 *   **Practice**
 *   **Time**: 5:00h
-*   **Goals**: [**subgoal 5**][s5] and [**subgoal 7**][s7]
+*   **Goals**: [subgoal 5][s5] and [subgoal 7][s7]
 *   **Due**: 3 a.m. the day of [lab 4][w4lab]
 
 <!--

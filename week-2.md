@@ -83,7 +83,7 @@ In this assignment you’ll learn the basics of Node.
 
 *   **Practice**
 *   **Time**: 3:00h
-*   **Goals**: [**subgoal 5**][s5]
+*   **Goals**: [subgoal 5][s5]
 *   **Due**: 3 a.m. the day of [lab 3][w3lab]
 
 <!--

@@ -90,7 +90,7 @@ In this assignment you’ll learn the basics of Markdown.
 
 *   **Practice**
 *   **Time**: 0:10h
-*   **Goals**: [**subgoal 4**][s4]
+*   **Goals**: [subgoal 4][s4]
 *   **Due**: 3 a.m. the day of [lab 2][w2lab]
 
 #### Extra Resources
@@ -141,7 +141,7 @@ In this assignment you’ll learn the basics of the command line.
 
 *   **Practice**
 *   **Time**: 0:20h
-*   **Goals**: [**subgoal 1**][s1]
+*   **Goals**: [subgoal 1][s1]
 *   **Due**: 3 a.m. the day of [lab 2][w2lab]
 
 #### Extra Resources
@@ -807,7 +807,7 @@ In this assignment you’ll learn the basics of Git.
 
 *   **Practice**
 *   **Time**: 0:15h
-*   **Goals**: [**subgoal 2**][s2]
+*   **Goals**: [subgoal 2][s2]
 *   **Due**: 3 a.m. the day of [lab 2][w2lab]
 
 #### Extra Resources
@@ -857,7 +857,7 @@ of Git.
 
 *   **Practice**
 *   **Time**: 1:00h
-*   **Goals**: [**subgoal 3**][s3]
+*   **Goals**: [subgoal 3][s3]
 *   **Due**: 3 a.m. the day of [lab 2][w2lab]
 
 #### Extra Resources
@@ -911,8 +911,8 @@ Markdown skills.
 
 *   **Homework**
 *   **Time**: 4:00h
-*   **Goals**: [**subgoal 1**][s1], [**subgoal 2**][s2], [**subgoal 3**][s3],
-    and [**subgoal 4**][s4]
+*   **Goals**: [subgoal 1][s1], [subgoal 2][s2], [subgoal 3][s3], and
+    [subgoal 4][s4]
 *   **Due**: 3 a.m. the day of [lab 2][w2lab]
 
 #### Extra Resources

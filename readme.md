@@ -38,7 +38,7 @@ The course **Backend** is given at [**@CMDA**][cmda] in 2018 between
 
 ## Description
 
-In **Backend** we peek behind the curtains and inspect what’s behind the web.
+In Backend we peek behind the curtains and inspect what’s behind the web.
 You build web apps with [Node.js][node], communicate with [HTTP][], and store
 data in a database with [SQL][] and [NoSQL][].
 Additionally, you’ll navigate the [command line][command-line], version control
@@ -56,7 +56,7 @@ In **Project Tech** you’ll apply your newfound backend skills.
 
 If you’d like to continue with web development after this course, do a tech
 internship next quarter (Q4), choose [**Frontend 3**][fe3] in S1 (fall) of next
-year, and pick [Minor Web Development][minor] in S2 (spring) after that.
+year, and pick [**Minor Web Development**][minor] in S2 (spring) after that.
 
 ## Communication
 
@@ -112,12 +112,12 @@ In practice you’ll learn to:
 
 ## Grade
 
-| Task                               | Weight |
-| ---------------------------------- | -----: |
-| [Participation][]                  |    10% |
-| [Assessment 1※][a1] (digital test) |    40% |
-| [Assessment 2※][a2] (oral test)    |    50% |
-| **Total**                          |   100% |
+| Task                               |   Weight |
+| ---------------------------------- | -------: |
+| [Participation][]                  |      10% |
+| [Assessment 1※][a1] (digital test) |      40% |
+| [Assessment 2※][a2] (oral test)    |      50% |
+| **Total**                          | **100%** |
 
 > ※ passing both tests (min 5.5) is required
 
@@ -281,7 +281,7 @@ If you have questions:
 
 ## Programme
 
-**Backend** is given at [Communication and Multimedia Design][bachelor], a
+This course is given at [Communication and Multimedia Design][bachelor], a
 design bachelor focused on interactive digital products and services.  CMD is
 part of the [Faculty of Digital Media and Creative Industries][faculty] at the
 [Amsterdam University of Applied Sciences][university].
