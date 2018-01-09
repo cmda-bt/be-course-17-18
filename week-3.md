@@ -146,6 +146,39 @@ troubleshooting tips.
 
 #### Description
 
+Take ± 5 hours to create a static file server in Node.js without any frameworks
+(so no express).
+You may use small modules (such as [`mime-types`][mime-types]) but make sure
+to hand in considerable own work.
+Hand in your project as a new repository on GitHub under your username.
+In your project, create a `package.json` manifest with relevant metadata and
+make sure all your dependencies are listed.
+Document your project, its features, and usage in a `readme.md` file.
+
+Your static server should:
+
+*   Respond with 200 OK and a file if it’s requested (if `/about.html`
+    is requested the server should respond with the contents of that file so
+    the browser can render it)
+*   Respond with a correct `Content-Type` header (if `/images/avatar.png`
+    is requested the server should respond `Content-Type: image/png` so the
+    browser can show it)
+*   Respond with 404 Not Found and a useful (for non-technical people) HTML
+    page saying that the file could not be found (if `/nonexistent-file.html`
+    is requested the server should send a nice document that the browser can
+    display)
+*   Respond with 200 OK and an `index.html` file if it exists (if `/assets` is
+    requested and `/assets/index.html` exists, the server should respond with
+    the contents of that file as if `/assets/index.html` was requested instead)
+*   Respond with 200 OK and a list of files in the directory if no `index.html`
+    exists (if `/images` is requested and `/images/index.html` **does not**
+    exists, the server should respond with a nice looking list of files in the
+    `/images` directory)
+
+If you have some time left, add a license, a `.gitignore`, and other useful
+files.
+Finally, push your project to GitHub.
+
 #### Complete
 
 Very good!  If you pushed your work, mark this assignment as complete by opening
@@ -194,3 +227,5 @@ Let us know in the issue if you liked this assignment, and give us any feedback.
 [listing-cover-author]: https://unsplash.com/@glenncarstenspeters
 
 [listing-issue]: https://github.com/cmda-be/course-17-18/issues/new?title=Listing%20assignment&labels=week-3%2Cweek-3%3Alisting
+
+[mime-types]: https://www.npmjs.com/package/mime-types
