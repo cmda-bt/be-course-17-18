@@ -63,10 +63,7 @@ You’re expected to spend about 6 hours on assignments outside of class.
 Submit your assignments by 3 a.m. the day of [lab 4][w4lab].
 
 *   [Transfer](#transfer) (**practice**)
-
-<!--
-*   Bravo (**homework**)
--->
+*   [Listing](#listing) (**homework**)
 
 See [week 2][w2a] for assignments due before this lab.
 
@@ -118,6 +115,44 @@ Sweet!  If you completed the tutorial, mark this assignment as complete by
 opening an issue on our [GitHub issue tracker][transfer-issue].
 Let us know in the issue what you thought of the exercises.
 
+### Listing
+
+[![][listing-cover]][listing-cover-source]
+
+> Plan a lifetime adventure by [**@glenncarstenspeters**][listing-cover-author].
+
+In this assignment you’ll apply your HTTP in Node by building a static file
+server.
+
+#### Synopsis
+
+*   **Practice**
+*   **Time**: 5:00h
+*   **Goals**: [**subgoal 5**][s5] and [**subgoal 7**][s7]
+*   **Due**: 3 a.m. the day of [lab 4][w4lab]
+
+<!--
+#### Extra Resources
+
+*   Alpha
+*   Bravo
+*   Charlie
+-->
+
+#### Tips
+
+Stuck?  See the [Bugs][] section of the course readme to find a list of
+troubleshooting tips.
+
+#### Description
+
+#### Complete
+
+Very good!  If you pushed your work, mark this assignment as complete by opening
+an issue on our [GitHub issue tracker][listing-issue].
+Include a link to your repository.
+Let us know in the issue if you liked this assignment, and give us any feedback.
+
 [bugs]: readme.md#bugs
 
 [inspiration-cover]: https://http.cat/403
@@ -151,3 +186,11 @@ Let us know in the issue what you thought of the exercises.
 [transfer-cover-author]: https://unsplash.com/@trapnation
 
 [transfer-issue]: https://github.com/cmda-be/course-17-18/issues/new?title=Transfer%20assignment&labels=week-3%2Cweek-3%3Atransfer
+
+[listing-cover]: images/listing.jpg
+
+[listing-cover-source]: https://unsplash.com/photos/RLw-UC03Gwc
+
+[listing-cover-author]: https://unsplash.com/@glenncarstenspeters
+
+[listing-issue]: https://github.com/cmda-be/course-17-18/issues/new?title=Listing%20assignment&labels=week-3%2Cweek-3%3Alisting
