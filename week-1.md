@@ -1013,7 +1013,7 @@ Let us know in the issue what you thought of the exercises.
 
 [learn-markdown]: http://commonmark.org/help/tutorial/
 
-[markup-issue]: https://github.com/cmda-be/course-17-18/issues/new?title=Learn%20Markdown%20assignment&labels=week-1%2Cweek-1%3Alearn-markdown
+[markup-issue]: https://github.com/cmda-be/course-17-18/issues/new?title=Learn%20Markdown%20assignment&labels=week-1%2Cweek-1%3Amarkup
 
 [run-cover]: images/run.jpg
 
