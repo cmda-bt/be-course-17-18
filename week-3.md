@@ -80,18 +80,10 @@ In this assignment you’ll learn the basics of HTTP.
 *   **Goals**: [subgoal 7][s7]
 *   **Due**: 3 a.m. the day of [lab 4][w4lab]
 
-<!--
-#### Extra Resources
-
-*   Alpha
-*   Bravo
-*   Charlie
--->
-
 #### Tips
 
-Stuck?  See the [Bugs][] section of the course readme to find a list of
-troubleshooting tips.
+*   Stuck?  See the [Bugs][] section of the course readme to find a list of
+    troubleshooting tips
 
 #### Description
 
@@ -107,10 +99,8 @@ npm install cmda-be/transfer --global
 This tutorial is interactive.
 Answer any questions it asks you, until completion.
 
-#### Complete
-
-Sweet!  If you completed the tutorial, mark this assignment as complete by
-opening an issue on our [GitHub issue tracker][transfer-issue].
+If you completed the tutorial, mark this assignment as complete by opening an
+issue on our [GitHub issue tracker][transfer-issue].
 Let us know in the issue what you thought of the exercises.
 
 ### Listing
@@ -129,16 +119,13 @@ file server.
 *   **Goals**: [subgoal 5][s5] and [subgoal 7][s7]
 *   **Due**: 3 a.m. the day of [lab 4][w4lab]
 
-#### Extra Resources
+#### Tips
 
 *   [`plain-server`](examples/plain-server)
     (**example**)
     — Simple server example covered in [lecture 3][w3lec]
-
-#### Tips
-
-Stuck?  See the [Bugs][] section of the course readme to find a list of
-troubleshooting tips.
+*   Stuck?  See the [Bugs][] section of the course readme to find a list of
+    troubleshooting tips
 
 #### Description
 
@@ -175,10 +162,8 @@ If you have some time left, add a license, a `.gitignore`, and other useful
 files.
 Finally, push your project to GitHub.
 
-#### Complete
-
-Very good!  If you pushed your work, mark this assignment as complete by opening
-an issue on our [GitHub issue tracker][listing-issue].
+If you pushed your work, mark this assignment as complete by opening an issue
+on our [GitHub issue tracker][listing-issue].
 Include a link to your repository.
 Let us know in the issue if you liked this assignment, and give us any feedback.
 
