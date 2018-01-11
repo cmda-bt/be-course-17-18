@@ -12,4 +12,15 @@ labs.
 *   **Topics**: Routing, status codes, mime types, serving static files,
     all without npm packages or frameworks
 
-[plain-server]: plain-server/readme.md
+## Express Server
+
+[![](../images/express-server.png)][express-server]
+
+*   **Example**: [`express-server`][express-server]
+*   **Class**: [Lecture 4](../week-4.md#lecture)
+*   **Topics**: Routes, not found, serving static files, render data with
+    templates, post data with forms, upload images, delete things with XHR
+
+[plain-server]: plain-server#readme
+
+[express-server]: express-server#readme
