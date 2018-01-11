@@ -19,6 +19,7 @@ var data = [
 ]
 
 express()
+  .use(express.static('static'))
   .get('/', movies)
   .get('/:id', movie)
   .use(notFound)
@@ -31,6 +32,7 @@ function movies(req, res) {
   var movie
 
   doc += '<title>My movie website</title>'
+  doc += '<link rel=stylesheet href=/index.css>'
   doc += '<h1>Movies</h1>'
 
   while (++index < length) {
@@ -55,6 +57,7 @@ function movie(req, res, next) {
   }
 
   doc += '<title>' + movie.title + ' - My movie website</title>'
+  doc += '<link rel=stylesheet href=/index.css>'
   doc += '<h1>' + movie.title + '</h1>'
   doc += '<p>' + movie.description + '</p>'
 
@@ -65,6 +68,7 @@ function notFound(req, res) {
   var doc = '<!doctype html>'
 
   doc += '<title>Not found - My movie website</title>'
+  doc += '<link rel=stylesheet href=/index.css>'
   doc += '<h1>Not found</h1>'
   doc += '<p>Uh oh! We couldn’t find this page!</p>'
 

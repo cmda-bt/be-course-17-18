@@ -1,0 +1,11 @@
+body {
+  font-family: sans-serif;
+  background: black;
+  color: white;
+  max-width: 36em;
+  margin: 0 auto
+}
+
+a {
+  color: lime
+}
