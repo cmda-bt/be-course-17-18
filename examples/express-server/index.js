@@ -21,6 +21,7 @@ var data = [
 express()
   .get('/', movies)
   .get('/:id', movie)
+  .use(notFound)
   .listen(8000)
 
 function movies(req, res) {
@@ -41,16 +42,31 @@ function movies(req, res) {
   res.send(doc)
 }
 
-function movie(req, res) {
+function movie(req, res, next) {
   var id = req.params.id
   var doc = '<!doctype html>'
   var movie = find(data, function (value) {
     return value.id === id
   })
 
+  if (!movie) {
+    next()
+    return
+  }
+
   doc += '<title>' + movie.title + ' - My movie website</title>'
   doc += '<h1>' + movie.title + '</h1>'
   doc += '<p>' + movie.description + '</p>'
 
   res.send(doc)
+}
+
+function notFound(req, res) {
+  var doc = '<!doctype html>'
+
+  doc += '<title>Not found - My movie website</title>'
+  doc += '<h1>Not found</h1>'
+  doc += '<p>Uh oh! We couldn’t find this page!</p>'
+
+  res.status(404).send(doc)
 }
