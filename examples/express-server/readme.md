@@ -11,6 +11,7 @@
 ```bash
 git clone git@github.com:cmda-be/course-17-18.git
 cd course-17-18/examples/express-server
+npm install
 npm start
 ```
 
