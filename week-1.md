@@ -51,6 +51,7 @@ It is not possible to partake in lab if these are not completed.
 
 *   [GitHub](#github)
 *   [Text Editor](#text-editor)
+*   [Subshell](#subshell)
 
 ### GitHub
 
@@ -70,6 +71,13 @@ If you don’t have on yet, install a text editor.
 choices.
 Other ones, like VS Code, are nice but lecturers may not be able to help you
 with problems.
+
+### Subshell
+
+If you’re on Windows, you should upgrade to Windows 10 (64 bit) and install
+the Windows Subsystem for Linux using [this
+guide](https://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/)
+(takes about 15 minutes).
 
 ## Lab
 
