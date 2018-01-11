@@ -84,18 +84,10 @@ In this assignment you’ll learn the basics of Node.
 *   **Goals**: [subgoal 5][s5]
 *   **Due**: 3 a.m. the day of [lab 3][w3lab]
 
-<!--
-#### Extra Resources
-
-*   Alpha
-*   Bravo
-*   Charlie
--->
-
 #### Tips
 
-Stuck?  See the [Bugs][] section of the course readme to find a list of
-troubleshooting tips.
+*   Stuck?  See the [Bugs][] section of the course readme to find a list of
+    troubleshooting tips
 
 #### Description
 
@@ -117,10 +109,8 @@ Other than `learnyounode`, workshoppers exist for JavaScript, npm, Express,
 Electron, and much more.  Feel free to peruse the
 [list of workshoppers][workshoppers] and try anything that sounds interesting.
 
-#### Complete
-
-Awesome!  If you completed the workshopper, mark this assignment as complete by
-opening an issue on our [GitHub issue tracker][learnyounode-issue].
+If you completed the workshopper, mark this assignment as complete by opening
+an issue on our [GitHub issue tracker][learnyounode-issue].
 Let us know in the issue what you thought of the exercises.
 
 ### Package
@@ -139,16 +129,13 @@ In this assignment you’ll learn the basics of node modules and npm packages.
 *   **Goals**: [subgoal 3][s3], [subgoal 4][s4], and [subgoal 6][s6]
 *   **Due**: 3 a.m. the day of [lab 3][w3lab]
 
-#### Extra Resources
+#### Tips
 
 *   [`package.json` docs](https://docs.npmjs.com/files/package.json)
     (**article**)
     — Specifics of npm’s `package.json` handling
-
-#### Tips
-
-Stuck?  See the [Bugs][] section of the course readme to find a list of
-troubleshooting tips.
+*   Stuck?  See the [Bugs][] section of the course readme to find a list of
+    troubleshooting tips
 
 #### Description
 
@@ -234,10 +221,8 @@ If you have some time left and would like to dig further, you can:
 …most of the previously linked to projects have the above in place, look at
 them for examples.
 
-#### Complete
-
-Awesome!  If you pushed your work, mark this assignment as complete by opening
-an issue on our [GitHub issue tracker][package-issue].
+If you pushed your work, mark this assignment as complete by opening an issue
+on our [GitHub issue tracker][package-issue].
 Include a link to your repository.
 Let us know in the issue if you liked this assignment, and give us any feedback.
 
