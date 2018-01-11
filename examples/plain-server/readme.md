@@ -16,7 +16,7 @@ npm start
 
 ## Changes
 
-The following list of commits lists how this example was created:
+The following commits show how this example was created:
 
 *   [`a201109`](https://github.com/cmda-be/course-17-18/commit/a201109)
     add initial code
