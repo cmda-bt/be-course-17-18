@@ -2,6 +2,8 @@
 
 var express = require('express')
 var find = require('array-find')
+var slug = require('slug')
+var bodyParser = require('body-parser')
 
 var data = [
   {
@@ -20,9 +22,11 @@ var data = [
 
 express()
   .use(express.static('static'))
+  .use(bodyParser.urlencoded({extended: true}))
   .set('view engine', 'ejs')
   .set('views', 'view')
   .get('/', movies)
+  .post('/', add)
   .get('/add', form)
   .get('/:id', movie)
   .use(notFound)
@@ -48,6 +52,19 @@ function movie(req, res, next) {
 
 function form(req, res) {
   res.render('add.ejs')
+}
+
+function add(req, res) {
+  var id = slug(req.body.title).toLowerCase()
+
+  data.push({
+    id: id,
+    title: req.body.title,
+    plot: req.body.plot,
+    description: req.body.description
+  })
+
+  res.redirect('/' + id)
 }
 
 function notFound(req, res) {
