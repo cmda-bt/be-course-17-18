@@ -20,33 +20,19 @@ var data = [
 
 express()
   .use(express.static('static'))
+  .set('view engine', 'ejs')
+  .set('views', 'view')
   .get('/', movies)
   .get('/:id', movie)
   .use(notFound)
   .listen(8000)
 
 function movies(req, res) {
-  var doc = '<!doctype html>'
-  var length = data.length
-  var index = -1
-  var movie
-
-  doc += '<title>My movie website</title>'
-  doc += '<link rel=stylesheet href=/index.css>'
-  doc += '<h1>Movies</h1>'
-
-  while (++index < length) {
-    movie = data[index]
-    doc += '<h2><a href="/' + movie.id + '">' + movie.title + '</a></h2>'
-    doc += '<p>' + movie.plot + '</p>'
-  }
-
-  res.send(doc)
+  res.render('list.ejs', {data: data})
 }
 
 function movie(req, res, next) {
   var id = req.params.id
-  var doc = '<!doctype html>'
   var movie = find(data, function (value) {
     return value.id === id
   })
@@ -56,21 +42,9 @@ function movie(req, res, next) {
     return
   }
 
-  doc += '<title>' + movie.title + ' - My movie website</title>'
-  doc += '<link rel=stylesheet href=/index.css>'
-  doc += '<h1>' + movie.title + '</h1>'
-  doc += '<p>' + movie.description + '</p>'
-
-  res.send(doc)
+  res.render('detail.ejs', {data: movie})
 }
 
 function notFound(req, res) {
-  var doc = '<!doctype html>'
-
-  doc += '<title>Not found - My movie website</title>'
-  doc += '<link rel=stylesheet href=/index.css>'
-  doc += '<h1>Not found</h1>'
-  doc += '<p>Uh oh! We couldn’t find this page!</p>'
-
-  res.status(404).send(doc)
+  res.status(404).render('not-found.ejs')
 }
