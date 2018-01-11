@@ -189,6 +189,8 @@ function grawlix(value, pattern) {
 
 </details>
 
+* * *
+
 Hand in your project as a new repository on GitHub under your username.
 
 In your repository, include the `index.js` file given above: don’t change it.
