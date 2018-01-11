@@ -192,18 +192,10 @@ The below table breaks down the general time needed per week.
 
 #### Resources used in this course
 
-*   🆓 GitHub account (**required**)
-    — [Sign Up](https://help.github.com/articles/signing-up-for-a-new-github-account/)
-*   🆓 Text Editor (**required**)
-    — [Atom](https://atom.io) or [Sublime](https://www.sublimetext.com)
-*   🆓 Installation of [Python](https://www.python.org) or
-    [Ruby](https://www.ruby-lang.org/en/) (**required**)
 *   🆓 Young, Alex, and Mike Cantelon.
     _Node.js in Action_.
     Manning, 2017.
-    (**optional**)
-
-> 💁 The optional book is free for AUAS students through [Safari Books][safari].
+    (**optional**, free for AUAS students through [Safari Books][safari])
 
 #### Resources to refresh your memory
 
