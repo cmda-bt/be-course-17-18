@@ -611,7 +611,7 @@ done
 
 echo "○ $(yellow "$question12")"
 echo
-echo "Now, could you $(bold "move") \`foo.txt\` to \`bar.txt\`?"
+echo "Now, rename \`foo.txt\` to \`bar.txt\` (aka $(bold "move"))?"
 echo
 
 while true; do
@@ -633,7 +633,7 @@ while true; do
   fi
 
   echo
-  echo "$(bold "$(yellow "Not yet done!")")"
+  echo "$(bold "$(yellow "Tip: Moving a file is the same as renaming it.")")"
   echo
 done
 
