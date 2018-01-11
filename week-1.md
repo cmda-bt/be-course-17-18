@@ -91,7 +91,7 @@ In this assignment you’ll learn the basics of Markdown.
 *   **Goals**: [subgoal 4][s4]
 *   **Due**: 3 a.m. the day of [lab 2][w2lab]
 
-#### Extra Resources
+#### Tips
 
 *   [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
     (**Markdown**)
@@ -99,22 +99,16 @@ In this assignment you’ll learn the basics of Markdown.
 *   [Basic writing & formatting syntax](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
     (**Markdown** and **GitHub**)
     — Markdown specifically for GitHub
-
-#### Tips
-
-Stuck?  See the [Bugs][] section of the course readme to find a list of
-troubleshooting tips.
+*   Stuck?  See the [Bugs][] section of the course readme to find a list of
+    troubleshooting tips
 
 #### Description
 
 Take ± 10 minutes to [Learn Markdown][learn-markdown] through an interactive
 tutorial.  Follow it until you see “Congratulations”.
 
-#### Complete
-
-Awesome!  If you completed the markdown tutorial, mark your assignment
-as complete by opening an issue on our [GitHub issue
-tracker][markup-issue].
+If you completed the markdown tutorial, mark your assignment as complete by
+opening an issue on our [GitHub issue tracker][markup-issue].
 In your issue, include some of the markdown you learned (like headings, lists,
 and more).
 
@@ -133,7 +127,7 @@ In this assignment you’ll learn the basics of the command line.
 *   **Goals**: [subgoal 1][s1]
 *   **Due**: 3 a.m. the day of [lab 2][w2lab]
 
-#### Extra Resources
+#### Tips
 
 *   [Terminal Cheatsheet for Mac](https://github.com/0nn0/terminal-mac-cheatsheet)
     (**cheatsheet**)
@@ -144,11 +138,8 @@ In this assignment you’ll learn the basics of the command line.
 *   [tldr](https://github.com/tldr-pages/tldr)
     (**article**)
     — Simplified and community-driven man pages
-
-#### Tips
-
-Stuck?  See the [Bugs][] section of the course readme to find a list of
-troubleshooting tips.
+*   Stuck?  See the [Bugs][] section of the course readme to find a list of
+    troubleshooting tips
 
 #### Step A
 
@@ -757,7 +748,7 @@ $ sh tutorial.sh
 This tutorial is interactive.  Answer any questions it asks you, until it sends
 you back here.
 
-#### Complete
+#### Step E
 
 Sweet!  Welcome back!  If you completed the tutorial, you were given a code.
 Now we’re going to hand in that code to mark your assignment as complete.
@@ -783,7 +774,7 @@ In this assignment you’ll learn the basics of Git.
 *   **Goals**: [subgoal 2][s2]
 *   **Due**: 3 a.m. the day of [lab 2][w2lab]
 
-#### Extra Resources
+#### Tips
 
 *   [Flight rules for Git](https://github.com/k88hudson/git-flight-rules/)
     (**article**)
@@ -794,18 +785,13 @@ In this assignment you’ll learn the basics of Git.
     _Pro Git_.
     Apress, 2014](https://git-scm.com/book/en/v2).
     (**book**)
-
-#### Tips
-
-Stuck?  See the [Bugs][] section of the course readme to find a list of
-troubleshooting tips.
+*   Stuck?  See the [Bugs][] section of the course readme to find a list of
+    troubleshooting tips
 
 #### Description
 
 Take ± 15 minutes to [Try Git][try-git] through GitHub’s interactive tutorial.
 It’s pretty sweet.  Follow it until you see “Congratulations”.
-
-#### Complete
 
 That’s it!  Well done you!  If you completed the tutorial, mark your assignment
 as complete by opening an issue on our [GitHub issue tracker][try-git-issue].
@@ -827,7 +813,7 @@ of Git.
 *   **Goals**: [subgoal 3][s3]
 *   **Due**: 3 a.m. the day of [lab 2][w2lab]
 
-#### Extra Resources
+#### Tips
 
 *   [Understanding the GitHub Flow](https://guides.github.com/introduction/flow/)
     (**article**)
@@ -837,11 +823,8 @@ of Git.
     — List of Git and GitHub specific terms
 *   [5 GitHub tips for new coders](https://medium.freecodecamp.org/5-github-tips-for-new-coders-2f312689ffd5)
     (**article**)
-
-#### Tips
-
-Stuck?  See the [Bugs][] section of the course readme to find a list of
-troubleshooting tips.
+*   Stuck?  See the [Bugs][] section of the course readme to find a list of
+    troubleshooting tips
 
 #### Description
 
@@ -850,10 +833,8 @@ GitHub][octocat-intro-to-github] exercise.
 Then, take ± 30 minutes to follow the [GitHub Pages from the Command
 Line][octocat-github-cli] exercise.
 
-#### Complete
-
-Awesome!  If you completed the exercises, mark this assignment as complete by
-opening an issue on our [GitHub issue tracker][octocat-issue].
+If you completed the exercises, mark this assignment as complete by opening an
+issue on our [GitHub issue tracker][octocat-issue].
 Let us know in the issue what you thought of the exercises.
 
 ### Profile
@@ -873,7 +854,7 @@ Markdown skills.
     [subgoal 4][s4]
 *   **Due**: 3 a.m. the day of [lab 2][w2lab]
 
-#### Extra Resources
+#### Tips
 
 *   [The Perfect Web Development Setup for OS X](https://github.com/jonathanong/osx-webdev-setup)
     (**article**)
@@ -885,11 +866,8 @@ Markdown skills.
 *   [Awesome dotfiles](https://github.com/webpro/awesome-dotfiles)
     (**article**)
     — Curated list of dotfiles resources
-
-#### Tips
-
-Stuck?  See the [Bugs][] section of the course readme to find a list of
-troubleshooting tips.
+*   Stuck?  See the [Bugs][] section of the course readme to find a list of
+    troubleshooting tips
 
 #### Description
 
@@ -932,9 +910,6 @@ Also include a `readme.md`, documenting how to install your config files, what
 they do, and who you are.
 For example, something like [this one by **@holman**](https://github.com/holman/dotfiles#readme).
 
-#### Complete
-
-Sweet, well done!
 Finally, mark this assignment as complete by opening an issue on our
 [GitHub issue tracker][profile-issue].  Include a link to your repository.
 Let us know in the issue what you thought of the exercises.
