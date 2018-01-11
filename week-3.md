@@ -29,7 +29,6 @@
 ### Synopsis
 
 *   **Date**: 19-02
-*   **Time**: 1:40h
 *   [**Slides**][slides-lecture]
 
 ### Schedule
@@ -43,7 +42,6 @@
 ### Synopsis
 
 *   **Date**: 22-02 (BT 1) or 20-02 (BT 2 and BT 3)
-*   **Time**: 1:40h
 
 <!--
 *   **Slides**

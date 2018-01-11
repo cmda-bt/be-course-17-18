@@ -16,7 +16,6 @@
 ### Synopsis
 
 *   **Date**: 03-04 (BT1, BT 2 and BT 3)
-*   **Time**: 1:40h
 
 <!--
 *   **Slides**

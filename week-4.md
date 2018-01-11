@@ -22,7 +22,6 @@
 ### Synopsis
 
 *   **Date**: 05-03
-*   **Time**: 1:40h
 *   [**Slides**][slides-lecture]
 
 ### Schedule
@@ -39,7 +38,6 @@
 ### Synopsis
 
 *   **Date**: 06-03 (BT 1, BT 2 and BT 3)
-*   **Time**: 1:40h
 
 <!--
 *   **Slides**
