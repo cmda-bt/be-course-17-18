@@ -22,3 +22,8 @@ input, textarea, button {
 }
 
 input, textarea { width: 100% }
+
+.danger {
+  background: red;
+  color: white
+}

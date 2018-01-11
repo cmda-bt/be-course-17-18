@@ -29,6 +29,7 @@ express()
   .post('/', add)
   .get('/add', form)
   .get('/:id', movie)
+  .delete('/:id', remove)
   .use(notFound)
   .listen(8000)
 
@@ -65,6 +66,16 @@ function add(req, res) {
   })
 
   res.redirect('/' + id)
+}
+
+function remove(req, res) {
+  var id = req.params.id
+
+  data = data.filter(function (value) {
+    return value.id !== id
+  })
+
+  res.json({status: 'ok'})
 }
 
 function notFound(req, res) {
