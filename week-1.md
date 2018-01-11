@@ -12,6 +12,7 @@
 *   [Inspiration](#inspiration)
 *   [Comic](#comic)
 *   [Lecture](#lecture)
+*   [Prerequisites](#prerequisites)
 *   [Lab](#lab)
 *   [Assignments](#assignments)
 
@@ -42,6 +43,33 @@
 *   GitHub ([**subgoal 3**][s3])
 *   Markdown ([**subgoal 4**][s4])
 *   Readme ([**subgoal 4**][s4])
+
+## Prerequisites
+
+Finish the following prerequisites before this week’s lab.
+It is not possible to partake in lab if these are not completed.
+
+*   [GitHub](#github)
+*   [Text Editor](#text-editor)
+
+### GitHub
+
+If you haven’t already, [sign up for
+GitHub](https://help.github.com/articles/signing-up-for-a-new-github-account/).
+
+Take some time to set up your [GitHub profile](https://github.com/settings/profile).
+Include your name, a profile picture, and a URL to your homepage.
+You’re allowed to stay anonymous online for this course by omitting sensitive
+information, but a good looking GitHub profile can help you get an internship
+or job later.
+
+### Text Editor
+
+If you don’t have on yet, install a text editor.
+[Atom](https://atom.io) or [Sublime](https://www.sublimetext.com) are good
+choices.
+Other ones, like VS Code, are nice but lecturers may not be able to help you
+with problems.
 
 ## Lab
 
@@ -143,16 +171,6 @@ In this assignment you’ll learn the basics of the command line.
     troubleshooting tips
 
 #### Step A
-
-If you haven’t already, [sign up for GitHub and install a text
-editor][materials].
-
-Take some time to set up your [GitHub profile][profile].  Include your name, a
-profile picture, and a URL to your homepage.  You’re allowed to stay anonymous
-online for this course by omitting sensitive information, but a good looking
-GitHub profile can help you get an internship or job later.
-
-#### Step B
 
 Create a directory on your computer, `run`.  In it, create a file `tutorial.sh`
 and copy-paste the complete following document into it.
@@ -747,7 +765,7 @@ $ sh tutorial.sh
 This tutorial is interactive.  Answer any questions it asks you, until it sends
 you back here.
 
-#### Step C
+#### Step B
 
 Sweet!  Welcome back!  If you completed the tutorial, you were given a code.
 Now we’re going to hand in that code to mark your assignment as complete.
@@ -913,8 +931,6 @@ Finally, mark this assignment as complete by opening an issue on our
 [GitHub issue tracker][profile-issue].  Include a link to your repository.
 Let us know in the issue what you thought of the exercises.
 
-[materials]: readme.md#materials
-
 [bugs]: readme.md#bugs
 
 [quote-author]: https://twitter.com/martinfowler
@@ -952,8 +968,6 @@ Let us know in the issue what you thought of the exercises.
 [run-cover-source]: https://unsplash.com/photos/Zp-wTck-3Zw
 
 [run-cover-author]: https://unsplash.com/@anniespratt
-
-[profile]: https://unsplash.com/@gallarotti
 
 [run-issue]: https://github.com/cmda-be/course-17-18/issues/new?title=Run%20assignment&labels=week-1%2Cweek-1%3Arun
 
