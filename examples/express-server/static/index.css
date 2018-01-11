@@ -1,3 +1,5 @@
+* { box-sizing: border-box }
+
 body {
   font-family: sans-serif;
   background: black;
@@ -9,3 +11,14 @@ body {
 a {
   color: lime
 }
+
+label, input, textarea, button { margin: 1em 0 }
+
+input, textarea, button {
+  font-size: 1em;
+  padding: 0.5em;
+  border-width: 0;
+  border-radius: 0.25em
+}
+
+input, textarea { width: 100% }

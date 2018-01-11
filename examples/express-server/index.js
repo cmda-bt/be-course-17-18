@@ -23,6 +23,7 @@ express()
   .set('view engine', 'ejs')
   .set('views', 'view')
   .get('/', movies)
+  .get('/add', form)
   .get('/:id', movie)
   .use(notFound)
   .listen(8000)
@@ -43,6 +44,10 @@ function movie(req, res, next) {
   }
 
   res.render('detail.ejs', {data: movie})
+}
+
+function form(req, res) {
+  res.render('add.ejs')
 }
 
 function notFound(req, res) {
