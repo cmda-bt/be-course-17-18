@@ -32,7 +32,7 @@ function movies(req, res) {
 
   while (++index < length) {
     movie = data[index]
-    doc += '<h2>' + movie.title + '</h2>'
+    doc += '<h2><a href="/' + movie.id + '">' + movie.title + '</a></h2>'
     doc += '<p>' + movie.plot + '</p>'
   }
 
