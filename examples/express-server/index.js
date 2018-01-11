@@ -1,6 +1,7 @@
 /* eslint-disable semi */
 
 var express = require('express')
+var find = require('array-find')
 
 var data = [
   {
@@ -19,6 +20,7 @@ var data = [
 
 express()
   .get('/', movies)
+  .get('/:id', movie)
   .listen(8000)
 
 function movies(req, res) {
@@ -35,6 +37,20 @@ function movies(req, res) {
     doc += '<h2><a href="/' + movie.id + '">' + movie.title + '</a></h2>'
     doc += '<p>' + movie.plot + '</p>'
   }
+
+  res.send(doc)
+}
+
+function movie(req, res) {
+  var id = req.params.id
+  var doc = '<!doctype html>'
+  var movie = find(data, function (value) {
+    return value.id === id
+  })
+
+  doc += '<title>' + movie.title + ' - My movie website</title>'
+  doc += '<h1>' + movie.title + '</h1>'
+  doc += '<p>' + movie.description + '</p>'
 
   res.send(doc)
 }
