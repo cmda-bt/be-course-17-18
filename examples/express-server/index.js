@@ -4,6 +4,7 @@ var express = require('express')
 var find = require('array-find')
 var slug = require('slug')
 var bodyParser = require('body-parser')
+var multer = require('multer')
 
 var data = [
   {
@@ -20,13 +21,15 @@ var data = [
   }
 ]
 
+var upload = multer({dest: 'static/upload/'})
+
 express()
   .use(express.static('static'))
   .use(bodyParser.urlencoded({extended: true}))
   .set('view engine', 'ejs')
   .set('views', 'view')
   .get('/', movies)
-  .post('/', add)
+  .post('/', upload.single('cover'), add)
   .get('/add', form)
   .get('/:id', movie)
   .delete('/:id', remove)
@@ -61,6 +64,7 @@ function add(req, res) {
   data.push({
     id: id,
     title: req.body.title,
+    cover: req.file.filename,
     plot: req.body.plot,
     description: req.body.description
   })
