@@ -87,7 +87,7 @@ In this assignment you’ll learn the basics of Markdown.
 #### Synopsis
 
 *   **Practice**
-*   **Time**: 0:10h
+*   **Time**: 0:30h
 *   **Goals**: [subgoal 4][s4]
 *   **Due**: 3 a.m. the day of [lab 2][w2lab]
 
@@ -104,8 +104,9 @@ In this assignment you’ll learn the basics of Markdown.
 
 #### Description
 
-Take ± 10 minutes to [Learn Markdown][learn-markdown] through an interactive
-tutorial.  Follow it until you see “Congratulations”.
+Take ± 30 minutes to learn markdown through an [interactive
+tutorial][md-tutorial].
+Follow it until you see “Congratulations”.
 
 If you completed the markdown tutorial, mark your assignment as complete by
 opening an issue on our [GitHub issue tracker][markup-issue].
@@ -123,7 +124,7 @@ In this assignment you’ll learn the basics of the command line.
 #### Synopsis
 
 *   **Practice**
-*   **Time**: 0:20h
+*   **Time**: 0:30h
 *   **Goals**: [subgoal 1][s1]
 *   **Due**: 3 a.m. the day of [lab 2][w2lab]
 
@@ -847,7 +848,7 @@ Markdown skills.
 #### Synopsis
 
 *   **Homework**
-*   **Time**: 4:00h
+*   **Time**: 3:45h
 *   **Goals**: [subgoal 1][s1], [subgoal 2][s2], [subgoal 3][s3], and
     [subgoal 4][s4]
 *   **Due**: 3 a.m. the day of [lab 2][w2lab]
@@ -942,7 +943,7 @@ Let us know in the issue what you thought of the exercises.
 
 [markup-cover-author]: https://unsplash.com/@climatereality
 
-[learn-markdown]: http://commonmark.org/help/tutorial/
+[md-tutorial]: https://www.markdowntutorial.com
 
 [markup-issue]: https://github.com/cmda-be/course-17-18/issues/new?title=Learn%20Markdown%20assignment&labels=week-1%2Cweek-1%3Amarkup
 
