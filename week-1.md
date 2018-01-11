@@ -146,14 +146,12 @@ In this assignment you’ll learn the basics of the command line.
 If you haven’t already, [sign up for GitHub and install a text
 editor][materials].
 
-#### Step B
-
 Take some time to set up your [GitHub profile][profile].  Include your name, a
 profile picture, and a URL to your homepage.  You’re allowed to stay anonymous
 online for this course by omitting sensitive information, but a good looking
 GitHub profile can help you get an internship or job later.
 
-#### Step C
+#### Step B
 
 Create a directory on your computer, `run`.  In it, create a file `tutorial.sh`
 and copy-paste the complete following document into it.
@@ -720,7 +718,7 @@ echo "  $(bold "$code")"
 
 </details>
 
-#### Step D
+* * *
 
 In your terminal, go to the `run` directory and enter it (**hint**: use the
 `cd` command to “change directories”).
@@ -748,7 +746,7 @@ $ sh tutorial.sh
 This tutorial is interactive.  Answer any questions it asks you, until it sends
 you back here.
 
-#### Step E
+#### Step C
 
 Sweet!  Welcome back!  If you completed the tutorial, you were given a code.
 Now we’re going to hand in that code to mark your assignment as complete.
