@@ -56,7 +56,7 @@ It is not possible to partake in lab if these are not completed.
 
 ### Text Editor
 
-If you don’t have on yet, install a text editor.
+If you don’t have one yet, install a text editor.
 [Atom](https://atom.io) or [Sublime](https://www.sublimetext.com) are good
 choices.
 Other ones, like VS Code, are nice but lecturers may not be able to help you
