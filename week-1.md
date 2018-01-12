@@ -52,6 +52,7 @@ It is not possible to partake in lab if these are not completed.
 *   [GitHub](#github)
 *   [Text Editor](#text-editor)
 *   [Subshell](#subshell)
+*   [Git](#git)
 
 ### GitHub
 
@@ -78,6 +79,14 @@ If you’re on Windows, you should upgrade to Windows 10 (64 bit) and install
 the Windows Subsystem for Linux using [this
 guide](https://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/)
 (takes about 15 minutes).
+
+### Git
+
+If you install the [Windows Subsystem for Linux](#subshell) just now, install
+Git by running `apt-get install git` in Bash.
+
+If you are not on Windows, install Git from their website, by [downloading
+the last release](https://git-scm.com).
 
 ## Lab
 
