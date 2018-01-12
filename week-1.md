@@ -49,21 +49,10 @@
 Finish the following prerequisites before this week’s lab.
 It is not possible to partake in lab if these are not completed.
 
-*   [GitHub](#github)
 *   [Text Editor](#text-editor)
 *   [Subshell](#subshell)
 *   [Git](#git)
-
-### GitHub
-
-If you haven’t already, [sign up for
-GitHub](https://help.github.com/articles/signing-up-for-a-new-github-account/).
-
-Take some time to set up your [GitHub profile](https://github.com/settings/profile).
-Include your name, a profile picture, and a URL to your homepage.
-You’re allowed to stay anonymous online for this course by omitting sensitive
-information, but a good looking GitHub profile can help you get an internship
-or job later.
+*   [GitHub](#github)
 
 ### Text Editor
 
@@ -100,6 +89,17 @@ Git by running `apt-get install git` in Bash.
 
 If you are not on Windows, install Git from their website, by [downloading
 the last release](https://git-scm.com).
+
+### GitHub
+
+If you haven’t already, [sign up for
+GitHub](https://help.github.com/articles/signing-up-for-a-new-github-account/).
+
+Take some time to set up your [GitHub profile](https://github.com/settings/profile).
+Include your name, a profile picture, and a URL to your homepage.
+You’re allowed to stay anonymous online for this course by omitting sensitive
+information, but a good looking GitHub profile can help you get an internship
+or job later.
 
 ## Lab
 
