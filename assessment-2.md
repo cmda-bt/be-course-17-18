@@ -1,4 +1,4 @@
-# Assessment 2
+# ![Assessment 2][banner]
 
 ## Table of Contents
 
@@ -24,3 +24,5 @@ defend why it passes this assessments
 ### Rubric
 
 <!-- TODO: Fill out. -->
+
+[banner]: https://cdn.rawgit.com/cmda-be/logo/93c03f43/banner-assessment-1.svg
