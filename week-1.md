@@ -84,7 +84,7 @@ to work inside this `lxss` folder.
 
 ### Git
 
-If you install the [Windows Subsystem for Linux](#subshell) just now, install
+If you installed the [Windows Subsystem for Linux](#subshell) just now, install
 Git by running `apt-get install git` in Bash.
 
 If you are not on Windows, install Git from their website, by [downloading
@@ -100,6 +100,15 @@ Include your name, a profile picture, and a URL to your homepage.
 You’re allowed to stay anonymous online for this course by omitting sensitive
 information, but a good looking GitHub profile can help you get an internship
 or job later.
+
+Connect Git and GitHub together like so:
+
+```sh
+git config --global user.email "mona@lisa.com"
+git config --global user.name "Mona Lisa"
+```
+
+Use the same email for Git as you used to sign up for GitHub.
 
 ## Lab
 
