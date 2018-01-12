@@ -80,6 +80,19 @@ the Windows Subsystem for Linux using [this
 guide](https://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/)
 (takes about 15 minutes).
 
+Now, access your files from your Windows computer, complete the followin steps:
+
+*   Open **File Explorer**
+*   Click on **View**, and make sure **Hidden items** is enabled
+*   Click on the **address box**, copy and paste `%localappdata%\lxss`,
+    and press **Enter**
+*   You’ll be in your Bash directory now.  Drag the `lxss` folder from the
+    **address box** to your **Desktop** (or somewhere else) to make a shortcut
+    link to the Ubuntu files on your computer
+
+In the future, if you are asked to work “on your computer”, you are expected
+to work inside this `lxss` folder.
+
 ### Git
 
 If you install the [Windows Subsystem for Linux](#subshell) just now, install
