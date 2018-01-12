@@ -68,6 +68,7 @@ If you’re on Windows, you should upgrade to Windows 10 (64 bit) and install
 the Windows Subsystem for Linux using [this
 guide](https://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/)
 (takes about 15 minutes).
+Follow it until you see “Installation successful”.
 
 Now, access your files from your Windows computer, complete the followin steps:
 
