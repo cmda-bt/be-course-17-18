@@ -205,6 +205,9 @@ In this assignment you’ll learn the basics of the command line.
 Create a directory on your computer, `run`.  In it, create a file `tutorial.sh`
 and copy-paste the complete following document into it.
 
+> ⚠️ If you are on Windows, make sure the select LF line endings instead of CRLF
+> while saving the file.
+
 <details>
 <summary><code>tutorial.sh</code> (click the arrow to expand)</summary>
 
