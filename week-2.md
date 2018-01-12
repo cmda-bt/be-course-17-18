@@ -11,6 +11,7 @@
 *   [Inspiration](#inspiration)
 *   [Comic](#comic)
 *   [Lecture](#lecture)
+*   [Prerequisites](#prerequisites)
 *   [Lab](#lab)
 *   [Assignments](#assignments)
 
@@ -40,6 +41,38 @@
 *   Principles ([**subgoal 5**][s5])
 *   npm ([**subgoal 6**][s6])
 *   Packages ([**subgoal 6**][s6])
+
+## Prerequisites
+
+Finish the following prerequisites before this week’s lab.
+It is not possible to partake in lab if these are not completed.
+
+*   [Node](#node)
+
+### Node
+
+Open your terminal, and install [nvm](https://github.com/creationix/nvm) like
+so:
+
+```sh
+curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.8/install.sh | bash
+```
+
+Close and re-open your terminal and now run the following:
+
+```sh
+nvm install stable
+```
+
+Node is now installed (and npm with it).  You can check it by running:
+
+```sh
+node -v # Should print 9.4.0 (or a higher version)
+npm -v # Something like 5.6.0 (or a higher version)
+```
+
+You can use **nvm** to update Node in the future.  npm can update itself
+(`npm install -g npm`).
 
 ## Lab
 
