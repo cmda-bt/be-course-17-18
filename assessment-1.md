@@ -1,4 +1,4 @@
-# Assessment 1
+# ![Assessment 1][banner]
 
 ## Table of Contents
 
@@ -22,3 +22,5 @@ This is a digital test that you take on your own computer.
 Bring a charger, identification, and water (no food).
 
 <!-- TODO: Extend. -->
+
+[banner]: https://cdn.rawgit.com/cmda-be/logo/93c03f43/banner-assessment-1.svg
