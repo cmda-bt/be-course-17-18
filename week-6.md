@@ -21,13 +21,9 @@
 
 <!-- *   [**Slides**][slides-lecture] -->
 
-<!--
 ### Schedule
 
-*   Alpha
-*   Bravo
-*   Charlie
--->
+*   **Guest lecture**: [**@danoszz**](https://github.com/danoszz)
 
 ## Lab
 

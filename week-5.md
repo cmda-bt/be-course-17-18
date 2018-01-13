@@ -26,6 +26,7 @@
 *   MySQL ([**subgoal 13**][s13])
 *   NoSQL ([**subgoal 13**][s13])
 *   MongoDB ([**subgoal 13**][s13])
+*   **Guest lecture**: [**@peterpeerdeman**](https://github.com/peterpeerdeman)
 
 ## Lab
 

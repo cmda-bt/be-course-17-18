@@ -36,6 +36,7 @@
 *   HTTP ([**subgoal 7**][s7])
 *   Server ([**subgoal 5**][s5] and [**subgoal 7**][s7])
 *   Request ([**subgoal 5**][s5] and [**subgoal 7**][s7])
+*   **Guest lecture**: [**@dandevri**](https://github.com/dandevri)
 
 ## Lab
 
