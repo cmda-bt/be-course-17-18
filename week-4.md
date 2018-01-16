@@ -56,12 +56,48 @@
 You’re expected to spend about 6 hours on assignments outside of class.
 Submit your assignments by 3 a.m. the day of [lab 5][w5lab].
 
-<!--
-*   Alpha (**practice**)
-*   Bravo (**homework**)
--->
+*   Bookshelf (**practice**)
 
 See [week 3][w3a] for assignments due before this lab.
+
+### Bookshelf
+
+[![][bookshelf-cover]][bookshelf-cover-source]
+
+> Knowledge is key by [**@retropineapple**][bookshelf-cover-author].
+
+In this assignment you’ll apply your knowledge of [express][] by fixing several
+steps in an existing project.
+
+#### Synopsis
+
+*   **Practice**
+*   **Time**: 3:00h
+*   **Goals**: [subgoal 8][s8], [subgoal 9][s9], and [subgoal 10][s10]
+*   **Due**: 3 a.m. the day of [lab 5][w5lab]
+
+#### Tips
+
+*   [`express-server`](examples/express-server)
+    (**example**)
+    — Simple express example covered in [lecture 4][w4lec]
+*   Stuck?  See the [Bugs][] section of the course readme to find a list of
+    troubleshooting tips
+
+#### Description
+
+Take ± 3 hours to fix the [`bookshelf`][bookshelf] code.
+First fork the project.
+Then, follow the steps in its readme to completion.
+Make sure to commit at least each step separately.
+Push your commits to your fork.
+
+Finally, mark this assignment as complete by opening an issue
+on our [GitHub issue tracker][bookshelf-issue].
+Include a link to your fork.
+Let us know in the issue if you liked this assignment, and give us any feedback.
+
+[bugs]: readme.md#bugs
 
 [comic-cover]: https://imgs.xkcd.com/comics/duty_calls.png
 
@@ -84,3 +120,17 @@ See [week 3][w3a] for assignments due before this lab.
 [s11]: readme.md#subgoal-11
 
 [s12]: readme.md#subgoal-12
+
+[bookshelf-cover]: images/bookshelf.jpg
+
+[bookshelf-cover-source]: https://unsplash.com/photos/elFPAMiuxOo
+
+[bookshelf-cover-author]: https://unsplash.com/@retropineapple
+
+[bookshelf]: https://github.com/cmda-be/bookshelf
+
+[bookshelf-issue]: https://github.com/cmda-be/course-17-18/issues/new?title=Bookshelf%20assignment&labels=week-3%2Cweek-4%3Abookshelf
+
+[w4lec]: #lecture
+
+[express]: https://github.com/expressjs/express

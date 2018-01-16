@@ -16,6 +16,7 @@ Assignments make up 30 hours in this course (about 36% of total time spent).
 *   [Week 2 × Package](week-2.md#package)
 *   [Week 3 × Transfer](week-3.md#transfer)
 *   [Week 3 × Listing](week-3.md#listing)
+*   [Week 4 × Bookshelf](week-4.md#bookshelf)
 
 <!--
 TODO: Fill out assignments.
