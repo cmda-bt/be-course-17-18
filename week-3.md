@@ -83,6 +83,8 @@ In this assignment you’ll learn the basics of HTTP.
 
 #### Tips
 
+*   [`httpstatuses.com`](https://httpstatuses.com)
+    (**website**) — List of HTTP status codes
 *   Stuck?  See the [Bugs][] section of the course readme to find a list of
     troubleshooting tips
 
