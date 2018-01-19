@@ -53,6 +53,7 @@ It is not possible to partake in lab if these are not completed.
 *   [Subshell](#subshell)
 *   [Git](#git)
 *   [GitHub](#github)
+*   [Slack](#slack)
 
 ### Text Editor
 
@@ -100,6 +101,17 @@ git config --global user.name "Mona Lisa"
 ```
 
 Use the same email for Git as you used to sign up for GitHub.
+
+## Slack
+
+Sign up for our Slack channel `Backend` on `cmda-tech.slack.com`.
+Get invited by clicking on the invite link on our [class page on
+Moodle][moodle-be].
+
+Get your Slack set up properly, and then send your lecturer a direct message
+including your **real name**, **student number**, **class**, and **GitHub
+username**.
+We’ll use this info to link your GitHub and Slack to our administration files.
 
 ## Lab
 
@@ -803,11 +815,7 @@ you back here.
 Sweet!  Welcome back!  If you completed the tutorial, you were given a code.
 Now we’re going to hand in that code to mark your assignment as complete.
 Create an issue on our [GitHub issue tracker][run-issue].
-In it, include your **real name**※, **class**, and **code**.
-We’ll use this info to link your GitHub username to our administration files.
-
-> ※ if you’d like to remain anonymous in public online, send your real name and
-> other info in a direct message to one of the lecturers on Slack.
+In it, include the **code** you were given.
 
 ### Try Git
 
@@ -1041,3 +1049,5 @@ Let us know in the issue what you thought of the exercises.
 [s3]: readme.md#subgoal-3
 
 [s4]: readme.md#subgoal-4
+
+[moodle-be]: https://moodle.cmd.hva.nl/course/view.php?id=431
