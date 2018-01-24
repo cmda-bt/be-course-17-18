@@ -29,7 +29,7 @@
 
 ### Synopsis
 
-*   **Date**: 19-03 (BT 1) or 20-03 (BT 2 and BT 3)
+*   **Date**: 22-03 (BT 1) or 20-03 (BT 2 and BT 3)
 
 <!--
 *   **Slides**
