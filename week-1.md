@@ -102,7 +102,7 @@ git config --global user.name "Mona Lisa"
 
 Use the same email for Git as you used to sign up for GitHub.
 
-## Slack
+### Slack
 
 Sign up for our Slack channel `Backend` on `cmda-tech.slack.com`.
 Get invited by clicking on the invite link on our [class page on
