@@ -56,7 +56,8 @@
 You’re expected to spend about 6 hours on assignments outside of class.
 Submit your assignments by 3 a.m. the day of [lab 5][w5lab].
 
-*   Bookshelf (**practice**)
+*   [Bookshelf](#bookshelf) (**practice**)
+*   [API](#api) (**homework**)
 
 See [week 3][w3a] for assignments due before this lab.
 
@@ -97,6 +98,33 @@ on our [GitHub issue tracker][bookshelf-issue].
 Include a link to your fork.
 Let us know in the issue if you liked this assignment, and give us any feedback.
 
+### Shelter
+
+[![][shelter-cover]][shelter-cover-source]
+
+> Cat by [**@miklevasilyev**][shelter-cover-author].
+
+In this assignment you’ll create an API with [express][].
+
+#### Synopsis
+
+*   **Practice**
+*   **Time**: 3:00h
+*   **Goals**: [subgoal 12][s12]
+*   **Due**: 3 a.m. the day of [lab 5][w5lab]
+
+#### Tips
+
+*   Stuck?  See the [Bugs][] section of the course readme to find a list of
+    troubleshooting tips
+
+#### Description
+
+Finally, mark this assignment as complete by opening an issue
+on our [GitHub issue tracker][shelter-issue].
+Include a link to your fork.
+Let us know in the issue if you liked this assignment, and give us any feedback.
+
 [bugs]: readme.md#bugs
 
 [comic-cover]: https://imgs.xkcd.com/comics/duty_calls.png
@@ -134,3 +162,11 @@ Let us know in the issue if you liked this assignment, and give us any feedback.
 [w4lec]: #lecture
 
 [express]: https://github.com/expressjs/express
+
+[shelter-cover]: images/shelter.jpg
+
+[shelter-cover-source]: https://unsplash.com/photos/NodtnCsLdTE
+
+[shelter-cover-author]: https://unsplash.com/@miklevasilyev
+
+[shelter-issue]: https://github.com/cmda-be/course-17-18/issues/new?title=Shelter%20assignment&labels=week-3%2Cweek-4%3Ashelter
