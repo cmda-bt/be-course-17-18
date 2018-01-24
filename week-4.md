@@ -98,6 +98,9 @@ on our [GitHub issue tracker][bookshelf-issue].
 Include a link to your fork.
 Let us know in the issue if you liked this assignment, and give us any feedback.
 
+Your project will be reviewed and receive feedback, so expect people to read it,
+and be ready for tips and tops!
+
 ### Shelter
 
 [![][shelter-cover]][shelter-cover-source]
@@ -124,6 +127,9 @@ Finally, mark this assignment as complete by opening an issue
 on our [GitHub issue tracker][shelter-issue].
 Include a link to your fork.
 Let us know in the issue if you liked this assignment, and give us any feedback.
+
+Your project will be reviewed and receive feedback, so expect people to read it,
+and be ready for tips and tops!
 
 [bugs]: readme.md#bugs
 

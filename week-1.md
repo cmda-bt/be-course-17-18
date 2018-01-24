@@ -972,6 +972,9 @@ Finally, mark this assignment as complete by opening an issue on our
 [GitHub issue tracker][profile-issue].  Include a link to your repository.
 Let us know in the issue what you thought of the exercises.
 
+Your project will be reviewed and receive feedback, so expect people to read it,
+and be ready for tips and tops!
+
 [bugs]: readme.md#bugs
 
 [quote-author]: https://twitter.com/martinfowler

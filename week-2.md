@@ -261,6 +261,9 @@ on our [GitHub issue tracker][package-issue].
 Include a link to your repository.
 Let us know in the issue if you liked this assignment, and give us any feedback.
 
+Your project will be reviewed and receive feedback, so expect people to read it,
+and be ready for tips and tops!
+
 [bugs]: readme.md#bugs
 
 [quote-author]: https://twitter.com/BrendanEich
