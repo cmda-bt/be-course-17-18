@@ -1,8 +1,5 @@
 # Images
 
-*   [`bookshelf.jpg`](bookshelf.jpg)
-    ([**source**](https://unsplash.com/photos/elFPAMiuxOo))
-    — Scaled and cropped
 *   [`cmd.jpg`](cmd.jpg)
     ([**source**](https://moodle.cmd.hva.nl/mod/page/view.php?id=1746))
     — Scaled and cropped
