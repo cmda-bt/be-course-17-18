@@ -228,7 +228,7 @@ and copy-paste the complete following document into it.
 
 ###
 ### Hi students! Please don’t change this file,
-### run it with `sh check.sh` instead.
+### run it with `sh tutorial.sh` instead.
 ###
 
 function bold {
