@@ -591,7 +591,7 @@ while true; do
   echo
   echo "$(ls | sed "/^$currentScript$/d")"
   echo
-  printf "Type the code needed to remove one of the files untill everything is gone: "
+  printf "Type the code needed to remove one of the files until everything is gone: "
   read -e cmd
 
   if [[ "$cmd" == rm* ]]; then
