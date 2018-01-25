@@ -14,7 +14,7 @@
   ],
   "dependencies": {},
   "devDependencies": {
-    "remark-cli": "^4.0.0",
+    "remark-cli": "^5.0.0",
     "remark-lint-no-dead-urls": "^0.3.0",
     "remark-preset-wooorm": "^4.0.0",
     "xo": "^0.18.0"
