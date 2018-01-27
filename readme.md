@@ -94,7 +94,7 @@ In practice you’ll learn to:
 6.  <a name="subgoal-6"></a>
     Use packages from npm ([**week 2**][w2])
 7.  <a name="subgoal-7"></a>
-    Communicate over HTTP ([**week 3**][w3])
+    Communicate over HTTP ([**week 3**][w3] and [**week 4**][w4])
 8.  <a name="subgoal-8"></a>
     Use web frameworks like express ([**week 4**][w4])
 9.  <a name="subgoal-9"></a>

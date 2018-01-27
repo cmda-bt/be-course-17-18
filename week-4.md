@@ -66,13 +66,14 @@ See [week 3][w3a] for assignments due before this lab.
 
 > Cat by [**@miklevasilyev**][shelter-cover-author].
 
-In this assignment you’ll create an API with [express][].
+In this assignment you’ll create a web server and API with [express][].
 
 #### Synopsis
 
-*   **Practice**
-*   **Time**: 3:00h
-*   **Goals**: [subgoal 12][s12]
+*   **Homework**
+*   **Time**: 6:00h
+*   **Goals**: [subgoal 7][s7], [subgoal 8][s8], [subgoal 9][s9],
+    [subgoal 10][s10], and [subgoal 12][s12]
 *   **Due**: 3 a.m. the day of [lab 5][w5lab]
 
 #### Tips
@@ -85,10 +86,56 @@ In this assignment you’ll create an API with [express][].
 
 #### Description
 
+Take ± 6 hours to build out the [`cmda-be/shelter`][shelter] project.
+First fork it and then clone it.
+Commit your work early and often.
+Push your work to GitHub.
+Don’t worry if it’s not perfect.
+Try and get as far as you can.
+Document your process by replacing the readme with your own docs: describe what
+you worked on, what failed, and what succeeded.
+
+The **shelter** project has a custom database documented in `db/readme.md`.
+
+Your web app should:
+
+*   There’s a problem when you first start to run the app, fix it by changing
+    something in `package.json`.
+*   Serving images does not work yet.
+    Use [`express.static`][static] with [`app.use()`][use] to serve them.
+*   Implement `GET /:id` by rendering an animal with the `view/detail.ejs`
+    template (tip: `db.get()`).
+    Look at the implementation of `GET /` (the `all` function in the server)
+    for inspiration.
+*   Handle **404 Not Found** errors (if an animal is not found, such as with
+    `localhost:1902/123`) by creating an error object and rendering it with
+    the `view/error.ejs` template.
+*   Respond with JSON if requested on `GET /:id`.
+    Look at the implementation of `GET /` (the `all` function in the server)
+    for inspiration on how to respond with either HTML or JSON based on the
+    request.
+    Test it out with Curl: `curl localhost:1902` and `localhost:1902/88473`
+    should return JSON.
+*   Implement `DELETE /:id` by removing an animal (tip: `db.remove()`).
+    Handle any errors (tip: 404, 400, 410) that may occur.
+    Respond with a **204 No Content** if successful.
+*   Implement `POST /` to add an animal.
+    Create a new template to render a form and make the form post to `/`
+    (tip: [`body-parser`][body-parser]).
+*   Implement `PUT /:id` and `POST /:id` too.
+*   Add support for uploading images as well (tip: [`multer`][multer]).
+*   Accept requests bodies in JSON _and_ `application/x-www-form-urlencoded`
+*   Return **400 Bad Request** for all invalid requests to identifiers
+    (such as `curl localhost:1902/-`).
+*   Return **410 Gone** instead of **404 Not Found** for unfound animals
+    that used to exist (see the docs on `db.removed(id)` for more info).
+*   Return **422 Unprocessable Entity** for **PUT**, **POST**, and **PATCH**
+    requests with unexpected data.
+
 Finally, mark this assignment as complete by opening an issue
 on our [GitHub issue tracker][shelter-issue].
 Include a link to your fork.
-Let us know in the issue if you liked this assignment, and give us any feedback.
+Let us know in the issue if you liked this assignment and give us any feedback.
 
 Your project will be reviewed and receive feedback, so expect people to read it,
 and be ready for tips and tops!
@@ -107,6 +154,8 @@ and be ready for tips and tops!
 
 [w3a]: week-3.md#assignments
 
+[s7]: readme.md#subgoal-7
+
 [s8]: readme.md#subgoal-8
 
 [s9]: readme.md#subgoal-9
@@ -121,10 +170,20 @@ and be ready for tips and tops!
 
 [express]: https://github.com/expressjs/express
 
+[shelter]: https://github.com/cmda-be/shelter
+
 [shelter-cover]: images/shelter.jpg
 
 [shelter-cover-source]: https://unsplash.com/photos/NodtnCsLdTE
 
 [shelter-cover-author]: https://unsplash.com/@miklevasilyev
 
+[static]: http://expressjs.com/en/4x/api.html#express.static
+
+[use]: http://expressjs.com/en/4x/api.html#app.use
+
 [shelter-issue]: https://github.com/cmda-be/course-17-18/issues/new?title=Shelter%20assignment&labels=week-3%2Cweek-4%3Ashelter
+
+[body-parser]: https://github.com/expressjs/body-parser
+
+[multer]: https://github.com/expressjs/multer
