@@ -148,6 +148,13 @@ Let us know in the issue if you liked this assignment and give us any feedback.
 Your project will be reviewed and receive feedback, so expect people to read it,
 and be ready for tips and tops!
 
+#### Extra resources
+
+*   [Debugging Express](https://expressjs.com/en/guide/debugging.html)
+*   [Express production performance](https://expressjs.com/en/advanced/best-practice-performance.html)
+*   [Express production security](https://expressjs.com/en/advanced/best-practice-security.html)
+*   [`helmetjs/helmet`](https://github.com/helmetjs/helmet)
+
 [bugs]: readme.md#bugs
 
 [inspiration-cover]: images/git-fire.jpg
