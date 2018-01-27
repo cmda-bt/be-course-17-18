@@ -19,7 +19,7 @@
 
 [![][inspiration-cover]][inspiration-link]
 
-> Understanding npm by [**@hughsk**][inspiration-author].
+> Visualisation of npm dependencies by [**@anvaka**][inspiration-author].
 
 ## Comic
 
@@ -268,11 +268,11 @@ and be ready for tips and tops!
 
 [quote-author]: https://twitter.com/BrendanEich
 
-[inspiration-cover]: images/unpm.png
+[inspiration-cover]: images/npmgraph.png
 
-[inspiration-link]: https://unpm.nodesource.com
+[inspiration-link]: http://npm.anvaka.com/#/view/2d/express
 
-[inspiration-author]: https://github.com/hughsk
+[inspiration-author]: https://github.com/anvaka
 
 [comic-cover]: https://imgs.xkcd.com/comics/compiling.png
 

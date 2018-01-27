@@ -20,6 +20,9 @@
 *   [`note.jpg`](note.jpg)
     ([**source**](https://unsplash.com/photos/Hb6uWq0i4MI))
     — Scaled
+*   [`npmgraph.jpg`](npmgraph.jpg)
+    ([**source**](http://npm.anvaka.com))
+    — Screenshot of website
 *   [`octocat.jpg`](octocat.jpg)
     ([**source**](https://unsplash.com/photos/Bb_X4JgSqIM))
     — Scaled
