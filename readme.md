@@ -214,6 +214,8 @@ The below table breaks down the general time needed per week.
     (**book**) — Modern intro to programming
 *   🆓 [Basics of HTML & CSS](http://webdive.ktam.org/web/basics)
     (**tutorial**) — Learn how to use HTML & CSS
+*   🆓 [Programming 101: Learn English](https://youtu.be/pOwnBPaW5zE)
+    (**video**)
 *   💸 [Tutoring](http://piratepad.net/HeB4FUsI0t)
     — Match up with another CMD student
 
