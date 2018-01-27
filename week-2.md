@@ -264,6 +264,14 @@ Let us know in the issue if you liked this assignment, and give us any feedback.
 Your project will be reviewed and receive feedback, so expect people to read it,
 and be ready for tips and tops!
 
+#### Extra resources
+
+*   [Introduction to Node with Ryan Dahl](https://youtu.be/jo_B4LTHi3I)
+*   [I hate almost all software](http://tinyclouds.org/rant.html)
+*   [Node Guides](https://nodejs.org/en/docs/guides/)
+*   [The Art of Node](https://github.com/maxogden/art-of-node)
+*   [11 npm tricks](https://nodesource.com/blog/eleven-npm-tricks-that-will-knock-your-wombat-socks-off/)
+
 [bugs]: readme.md#bugs
 
 [quote-author]: https://twitter.com/BrendanEich
