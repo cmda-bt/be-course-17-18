@@ -6,10 +6,18 @@
 
 ## Table of Contents
 
+*   [Inspiration](#inspiration)
 *   [Comic](#comic)
 *   [Lecture](#lecture)
 *   [Lab](#lab)
 *   [Assignments](#assignments)
+
+## Inspiration
+
+[![][inspiration-cover]][inspiration-link]
+
+> [`qw3rtman/git-fire`][inspiration-link] by
+> [**@qw3rtman**][inspiration-author].
 
 ## Comic
 
@@ -141,6 +149,12 @@ Your project will be reviewed and receive feedback, so expect people to read it,
 and be ready for tips and tops!
 
 [bugs]: readme.md#bugs
+
+[inspiration-cover]: images/git-fire.jpg
+
+[inspiration-link]: https://github.com/qw3rtman/git-fire
+
+[inspiration-author]: https://github.com/qw3rtman
 
 [comic-cover]: https://imgs.xkcd.com/comics/duty_calls.png
 

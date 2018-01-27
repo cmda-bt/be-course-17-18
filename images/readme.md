@@ -6,6 +6,8 @@
 *   [`express-server.png`](express-server.png)
     ([**source**](../examples/express-server))
     — Screenshot
+*   [`git-fire.jpg`](git-fire.jpg)
+    ([**source**](https://github.com/qw3rtman/git-fire))
 *   [`hackertyper.png`](hackertyper.png)
     ([**source**](http://hackertyper.net))
     — Screenshot of website
