@@ -173,6 +173,12 @@ Let us know in the issue if you liked this assignment, and give us any feedback.
 Your project will be reviewed and receive feedback, so expect people to read it,
 and be ready for tips and tops!
 
+#### Extra resources
+
+*   [Tiny guide to non fancy node](https://github.com/yoshuawuyts/tiny-guide-to-non-fancy-node)
+*   [Node Best Practices](https://github.com/i0natan/nodebestpractices)
+*   [Get a better understanding of Buffer in Node](https://medium.freecodecamp.org/do-you-want-a-better-understanding-of-buffer-in-node-js-check-this-out-2e29de2968e8)
+
 [bugs]: readme.md#bugs
 
 [inspiration-cover]: https://http.cat/403
