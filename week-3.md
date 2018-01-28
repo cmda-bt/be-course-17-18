@@ -106,6 +106,12 @@ If you completed the tutorial, mark this assignment as complete by opening an
 issue on our [GitHub issue tracker][transfer-issue].
 Let us know in the issue what you thought of the exercises.
 
+#### Extra resources
+
+*   [Choosing an HTTP Status Code](http://racksburg.com/choosing-an-http-status-code/)
+*   [Answers for Young People by Tim Berners-Lee](https://www.w3.org/People/Berners-Lee/Kids.html)
+*   [`httpbin.org`](https://httpbin.org)
+
 ### Listing
 
 [![][listing-cover]][listing-cover-source]

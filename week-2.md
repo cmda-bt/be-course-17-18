@@ -146,6 +146,14 @@ If you completed the workshopper, mark this assignment as complete by opening
 an issue on our [GitHub issue tracker][learnyounode-issue].
 Let us know in the issue what you thought of the exercises.
 
+#### Extra resources
+
+*   [Introduction to Node with Ryan Dahl](https://youtu.be/jo_B4LTHi3I)
+*   [I hate almost all software](http://tinyclouds.org/rant.html)
+*   [Node Guides](https://nodejs.org/en/docs/guides/)
+*   [The Art of Node](https://github.com/maxogden/art-of-node)
+*   [javascript.info](https://javascript.info)
+
 ### Package
 
 [![][package-cover]][package-cover-source]
@@ -266,11 +274,10 @@ and be ready for tips and tops!
 
 #### Extra resources
 
-*   [Introduction to Node with Ryan Dahl](https://youtu.be/jo_B4LTHi3I)
-*   [I hate almost all software](http://tinyclouds.org/rant.html)
-*   [Node Guides](https://nodejs.org/en/docs/guides/)
-*   [The Art of Node](https://github.com/maxogden/art-of-node)
 *   [11 npm tricks](https://nodesource.com/blog/eleven-npm-tricks-that-will-knock-your-wombat-socks-off/)
+*   [Participating in Open Source](https://github.com/btford/participating-in-open-source)
+*   [Guide to Idiomatic Contributing](https://github.com/jonschlinkert/idiomatic-contributing)
+*   [Start your open source career](https://blog.algolia.com/start-your-open-source-career/)
 
 [bugs]: readme.md#bugs
 

@@ -163,7 +163,7 @@ In this assignment you’ll learn the basics of Markdown.
 
 #### Tips
 
-*   [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+*   [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
     (**Markdown**)
     — Quick reference and showcase
 *   [Basic writing & formatting syntax](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
@@ -200,15 +200,9 @@ In this assignment you’ll learn the basics of the command line.
 
 #### Tips
 
-*   [Terminal Cheatsheet for Mac](https://github.com/0nn0/terminal-mac-cheatsheet)
-    (**cheatsheet**)
+*   [Terminal Cheat Sheet for Mac](https://github.com/0nn0/terminal-mac-cheatsheet)
+    (**cheat sheet**)
     — List of my most used commands and shortcuts in the terminal for Mac
-*   [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial)
-    (**book**)
-    — A tutorial introduction to the Unix command line
-*   [tldr](https://github.com/tldr-pages/tldr)
-    (**article**)
-    — Simplified and community-driven man pages
 *   Stuck?  See the [Bugs][] section of the course readme to find a list of
     troubleshooting tips
 
@@ -817,6 +811,12 @@ Now we’re going to hand in that code to mark your assignment as complete.
 Create an issue on our [GitHub issue tracker][run-issue].
 In it, include the **code** you were given.
 
+#### Extra resources
+
+*   [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial)
+*   [tldr](https://github.com/tldr-pages/tldr)
+*   [thefuck](https://github.com/nvbn/thefuck#readme)
+
 ### Try Git
 
 [![][try-git-cover]][try-git-cover-source]
@@ -834,15 +834,8 @@ In this assignment you’ll learn the basics of Git.
 
 #### Tips
 
-*   [Flight rules for Git](https://github.com/k88hudson/git-flight-rules/)
-    (**article**)
-    — Guide for programmers using Git about what to do when things go wrong
 *   [GitHub Guides](https://guides.github.com)
     (**article**)
-*   [Chacon, Scott, and Ben Straub.
-    _Pro Git_.
-    Apress, 2014](https://git-scm.com/book/en/v2).
-    (**book**)
 *   Stuck?  See the [Bugs][] section of the course readme to find a list of
     troubleshooting tips
 
@@ -854,6 +847,12 @@ It’s pretty sweet.  Follow it until you see “Congratulations”.
 That’s it!  Well done you!  If you completed the tutorial, mark your assignment
 as complete by opening an issue on our [GitHub issue tracker][try-git-issue].
 Let us know in the issue if you liked this assignment, and give us any feedback.
+
+#### Extra resources
+
+*   [Flight rules for Git](https://github.com/k88hudson/git-flight-rules/)
+*   [Git Tips](https://github.com/git-tips/tips)
+*   [Pro Git](https://git-scm.com/book/en/v2)
 
 ### Octocat
 
@@ -873,14 +872,12 @@ of Git.
 
 #### Tips
 
-*   [Understanding the GitHub Flow](https://guides.github.com/introduction/flow/)
-    (**article**)
-    — Guide explaining how to use the GitHub float
 *   [GitHub Glossary](https://help.github.com/articles/github-glossary/)
     (**article**)
     — List of Git and GitHub specific terms
-*   [5 GitHub tips for new coders](https://medium.freecodecamp.org/5-github-tips-for-new-coders-2f312689ffd5)
-    (**article**)
+*   [Git Cheat Sheets](https://services.github.com/on-demand/resources/cheatsheets/)
+    (**cheat sheet**)
+    — Reference sheets covering Git commands and features
 *   Stuck?  See the [Bugs][] section of the course readme to find a list of
     troubleshooting tips
 
@@ -894,6 +891,13 @@ Line][octocat-github-cli] exercise.
 If you completed the exercises, mark this assignment as complete by opening an
 issue on our [GitHub issue tracker][octocat-issue].
 Let us know in the issue what you thought of the exercises.
+
+#### Extra resources
+
+*   [Understanding the GitHub Flow](https://guides.github.com/introduction/flow/)
+*   [Git Style Guide](https://github.com/jonathanong/git-style-guide)
+*   [5 GitHub tips for new coders](https://medium.freecodecamp.org/5-github-tips-for-new-coders-2f312689ffd5)
+*   [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet)
 
 ### Profile
 
@@ -949,6 +953,8 @@ For this assignment:
 *   Add aliases (for example, I have `alias ..="cd .."` set up)
 *   Modify your prompt (for example, I have `PS1="🚀 \$(basename \$(pwd))"` set
     up)
+*   Add a welcome message, such as the weather with `curl wttr.in/Amsterdam?0q`
+    (see `curl wttr.in/:help` for more info) or [cowsay][]
 *   And add other configuration you see fit
 
 …in your profile.
@@ -975,6 +981,13 @@ Let us know in the issue what you thought of the exercises.
 
 Your project will be reviewed and receive feedback, so expect people to read it,
 and be ready for tips and tops!
+
+#### Extra resources
+
+*   [Mac OS X Dev Setup](https://github.com/nicolashery/mac-dev-setup)
+*   [`StevenBlack/hosts`](https://github.com/StevenBlack/hosts)
+*   [`l1k/osxparanoia`](https://github.com/l1k/osxparanoia)
+*   [macOS Security and Privacy Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide)
 
 [bugs]: readme.md#bugs
 
@@ -1055,3 +1068,5 @@ and be ready for tips and tops!
 [s4]: readme.md#subgoal-4
 
 [moodle-be]: https://moodle.cmd.hva.nl/course/view.php?id=431
+
+[cowsay]: https://github.com/piuccio/cowsay

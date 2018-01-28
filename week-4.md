@@ -154,6 +154,8 @@ and be ready for tips and tops!
 *   [Express production performance](https://expressjs.com/en/advanced/best-practice-performance.html)
 *   [Express production security](https://expressjs.com/en/advanced/best-practice-security.html)
 *   [`helmetjs/helmet`](https://github.com/helmetjs/helmet)
+*   [How to think like a programmer](https://zellwk.com/blog/think/)
+*   [Rubber Duck Debugging](https://rubberduckdebugging.com)
 
 [bugs]: readme.md#bugs
 
