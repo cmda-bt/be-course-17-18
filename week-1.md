@@ -956,7 +956,8 @@ For this assignment:
 See the aforementioned extra resources for tips to get started.
 You’re expected to review a lot of existing examples, and do a lot of searching
 online.
-You can change other files, such as `.gitconfig`, if you feel like it.
+You can change other files, such as `.gitconfig`, `.curlrc` or `.vimrc`, if you
+feel like it.
 Make sure to document anything you add with comments (`#` starts a line comment
 in Bash).
 
