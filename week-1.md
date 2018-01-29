@@ -933,6 +933,10 @@ Markdown skills.
 
 #### Description
 
+> **Warning**: Don’t blindly use someones code.  Copy-paste code only if you
+> know what it does.  Dotfiles are often very personal: they are often not what
+> _you_ want but they can serve as inspiration.
+
 In this course, you’ll find yourself staring at that black screen with green
 letters a lot.
 You’ll type the same commands over and over again.
