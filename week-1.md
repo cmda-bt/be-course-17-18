@@ -118,18 +118,18 @@ We’ll use this info to link your GitHub and Slack to our administration files.
 ### Synopsis
 
 *   **Date**: 08-02 (BT 1) or 06-02 (BT 2 and BT 3)
+*   [**Slides**][slides-lab]
 
-<!--
-*   **Slides**
--->
-
-<!--
 ### Schedule
 
-*   Alpha
-*   Bravo
-*   Charlie
--->
+*   Recap
+*   Markdown ([**subgoal 4**][s3])
+*   [Markup](#markup) (**practice**)
+*   Command line ([**subgoal 1**][s1])
+*   [Run](#run) (**practice**)
+*   Git & GitHub ([**subgoal 2**][s2] and [**subgoal 3**][s3])
+*   [Try Git](#try-git) and [Octocat](#octocat) (**practice**)
+*   Toolbox
 
 ## Assignments
 
@@ -1012,6 +1012,8 @@ and be ready for tips and tops!
 [refresh]: readme.md#resources-to-refresh-your-memory
 
 [slides-lecture]: https://docs.google.com/presentation/d/1iozO2yIjCPoMztV8td0h1MEoM2O0VjmLzzMI0xfSTDg/edit?usp=sharing
+
+[slides-lab]: https://docs.google.com/presentation/d/1FQrPU-T4j4xChCuUekXQPxs0DPYw-TRRTbV7IPJ9Tbk/edit?usp=sharing
 
 [w2lab]: week-2.md#lab
 
