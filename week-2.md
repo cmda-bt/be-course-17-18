@@ -79,18 +79,15 @@ You can use **nvm** to update Node in the future.  npm can update itself
 ### Synopsis
 
 *   **Date**: 15-02 (BT 1) or 13-02 (BT 2 and BT 3)
+*   [**Slides**][slides-lab]
 
-<!--
-*   **Slides**
--->
-
-<!--
 ### Schedule
 
-*   Alpha
-*   Bravo
-*   Charlie
--->
+*   Recap
+*   Node ([**subgoal 5**][s5])
+*   npm ([**subgoal 6**][s6])
+*   [learnyounode](#learnyounode) (**practice**)
+*   Toolbox
 
 ## Assignments
 
@@ -296,6 +293,8 @@ and be ready for tips and tops!
 [comic-author]: https://xkcd.com
 
 [slides-lecture]: https://docs.google.com/presentation/d/16uT5GMOcTcs2xcbqvlCb3RetpFATil5nmXyZK7uvEdc/edit?usp=sharing
+
+[slides-lab]: https://docs.google.com/presentation/d/1cTwY3K4cvL1lObbCjgg2hCGbzdTCWEfIEMyiubzrOCU/edit?usp=sharing
 
 [w3lab]: week-3.md#lab
 
