@@ -890,6 +890,9 @@ Line][octocat-github-cli] exercise.
 
 If you completed the exercises, mark this assignment as complete by opening an
 issue on our [GitHub issue tracker][octocat-issue].
+Include two links in your issue: one to the closed PR from the [Introduction to
+GitHub][octocat-intro-to-github] exercise, the other to the GitHub Pages website
+from [GitHub Pages from the Command Line][octocat-github-cli] exercise.
 Let us know in the issue what you thought of the exercises.
 
 #### Extra resources
