@@ -245,9 +245,6 @@ For examples of `readme.md` files, see
 [`ccount`](https://github.com/wooorm/ccount#readme),
 or [`normalize-url`](https://github.com/sindresorhus/normalize-url#readme).
 
-Finally, push your project, `index.js`, `package.json`, and `readme.md` to
-GitHub.
-
 If you have some time left and would like to dig further, you can:
 
 *   Add a [license](https://help.github.com/articles/licensing-a-repository/)
@@ -258,6 +255,9 @@ If you have some time left and would like to dig further, you can:
 
 …most of the previously linked to projects have the above in place, look at
 them for examples.
+
+Finally push your project (including at least `index.js`, `package.json`, and
+`readme.md`) to GitHub.
 
 If you pushed your work, mark this assignment as complete by opening an issue
 on our [GitHub issue tracker][package-issue].
