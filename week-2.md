@@ -169,9 +169,6 @@ In this assignment you’ll learn the basics of node modules and npm packages.
 
 #### Tips
 
-*   [`package.json` docs](https://docs.npmjs.com/files/package.json)
-    (**article**)
-    — Specifics of npm’s `package.json` handling
 *   Stuck?  See the [Bugs][] section of the course readme to find a list of
     troubleshooting tips
 
@@ -235,6 +232,7 @@ In your repository, include the `index.js` file given above: don’t change it.
 
 Include a `package.json` with a correct name, version, dependencies, and other
 metadata.
+See npm’s documentation on [`package.json`](https://docs.npmjs.com/files/package.json).
 For examples of `package.json` files, see
 [`repeat-string`](https://github.com/jonschlinkert/repeat-string/blob/master/package.json),
 [`longest-streak`](https://github.com/wooorm/longest-streak/blob/master/package.json),
