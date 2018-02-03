@@ -1,5 +1,10 @@
 # Week 5
 
+> An SSL error has occurred and a secure connection to the server
+> cannot be made.
+>
+> — [William Shakespeare][quote-author]
+
 ## Table of Contents
 
 *   [Comic](#comic)
@@ -57,6 +62,8 @@ Submit your assignments by 3 a.m. the day of [lab 6][w6lab].
 -->
 
 See [week 4][w4a] for assignments due before this lab.
+
+[quote-author]: https://twitter.com/shatterfront/status/816065700577972224
 
 [comic-cover]: https://imgs.xkcd.com/comics/exploits_of_a_mom.png
 
