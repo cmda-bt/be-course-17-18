@@ -211,7 +211,7 @@ The below table breaks down the general time needed per week.
     (**book**) — Intro to JavaScript for new programmers
 *   🆓 [JavaScript 30](https://javascript30.com)
     (**course**) — 30 day vanilla JavaScript coding challenge
-*   🆓 [Eloquent JavaScript](https://eloquentjavascript.net)
+*   🆓 [Eloquent JavaScript](https://eloquentjavascript.net/3rd_edition/)
     (**book**) — Modern intro to programming
 *   🆓 [Basics of HTML & CSS](http://webdive.ktam.org/web/basics)
     (**tutorial**) — Learn how to use HTML & CSS
