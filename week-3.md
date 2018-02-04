@@ -45,18 +45,16 @@
 ### Synopsis
 
 *   **Date**: 22-02 (BT 1) or 20-02 (BT 2 and BT 3)
+*   [**Slides**][slides-lab]
 
-<!--
-*   **Slides**
--->
-
-<!--
 ### Schedule
 
-*   Alpha
-*   Bravo
-*   Charlie
--->
+*   Recap
+*   HTTP ([**subgoal 7**][s7])
+*   [Transfer](#transfer) (**practice**)
+*   Server ([**subgoal 5**][s5] and [**subgoal 7**][s7])
+*   Request ([**subgoal 5**][s5] and [**subgoal 7**][s7])
+*   Toolbox
 
 ## Assignments
 
@@ -202,6 +200,8 @@ and be ready for tips and tops!
 [comic-author]: https://xkcd.com
 
 [slides-lecture]: https://docs.google.com/presentation/d/1Mf53VP-YNeTSSKIg0BlOALiGbGZ0LDvHC7-RTED89DY/edit?usp=sharing
+
+[slides-lab]: https://docs.google.com/presentation/d/1ULgWLcJunEXrLx13gzIfxKRf4tpAucRW_CfM_8ii2ww/edit?usp=sharing
 
 [w4lab]: week-4.md#lab
 
