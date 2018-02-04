@@ -1,10 +1,10 @@
 # Week 3
 
-> Roses are red
-> Violets are blue
+> Roses are red\
+> Violets are blue\
 > Unexpected `{` on line 32
 >
-> [@kvlly](https://twitter.com/kvlly/status/959827106384490496)
+> — [@kvlly](https://twitter.com/kvlly/status/959827106384490496)
 
 ## Table of Contents
 

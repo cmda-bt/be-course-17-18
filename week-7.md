@@ -3,7 +3,7 @@
 > The most effective debugging tool is still careful thought, coupled with
 > judiciously placed print statements.
 >
-> Brian Kernighan, Unix for Beginners
+> — Brian Kernighan, Unix for Beginners
 
 ## Table of Contents
 
