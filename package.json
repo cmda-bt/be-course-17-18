@@ -30,6 +30,9 @@
     "esnext": false
   },
   "remarkConfig": {
+    "settings": {
+      "commonmark": true
+    },
     "plugins": [
       "preset-wooorm",
       [
