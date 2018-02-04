@@ -1,16 +1,9 @@
 # Week 7
 
-> Your documentation is complete when someone can use your module without ever
-> having to look at its code.
-> This is very important.
-> This makes it possible for you to separate your module’s documented interface
-> from its internal implementation (guts).
-> This is good because it means that you are free to change the module’s
-> internals as long as the interface remains the same.
+> The most effective debugging tool is still careful thought, coupled with
+> judiciously placed print statements.
 >
-> Remember: the documentation, not the code, defines what a module does.
->
-> — [Ken Williams][quote-author]
+> Brian Kernighan, Unix for Beginners
 
 ## Table of Contents
 
@@ -40,8 +33,6 @@
 *   Bravo
 *   Charlie
 -->
-
-[quote-author]: http://mathforum.org/ken/perl_modules.html#document
 
 [comic-cover]: http://78.media.tumblr.com/cbdb4a27902ffbf30ae68cf8b365b851/tumblr_p0tghg7vX11qiuiebo1_540.jpg
 

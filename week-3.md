@@ -1,8 +1,10 @@
 # Week 3
 
-> ```txt
-> TypeError: undefined is not a function. (In 'undefined()', 'undefined' is undefined)
-> ```
+> Roses are red
+> Violets are blue
+> Unexpected `{` on line 32
+>
+> [@kvlly](https://twitter.com/kvlly/status/959827106384490496)
 
 ## Table of Contents
 

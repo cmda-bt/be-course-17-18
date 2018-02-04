@@ -2,10 +2,10 @@
 
 # Week 1
 
-> Any fool can write code that a computer can understand.
-> Good programmers write code that humans can understand.
+> Never memorise something that you can look up
 >
-> — [**@martinfowler**][quote-author]
+> — [Albert Einstein, on trying to
+> exit vim](https://twitter.com/denniscode/status/957847866445385728)
 
 ## Table of Contents
 
@@ -997,8 +997,6 @@ and be ready for tips and tops!
 *   [macOS Security and Privacy Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide)
 
 [bugs]: readme.md#bugs
-
-[quote-author]: https://twitter.com/martinfowler
 
 [inspiration-cover]: images/hackertyper.png
 
