@@ -270,7 +270,7 @@ If you have questions:
     [MongoDB](https://docs.mongodb.com))
 *   [Browse examples][examples]
 *   [Search StackOverflow][stackoverflow]
-*   Use a search engine (like [DuckDuckGo][])
+*   [Use a search engine like DuckDuckGo][duckduckgo]
 *   [Ask questions on Slack][slack]
 *   [Contact a lecturer][synopsis]
 
