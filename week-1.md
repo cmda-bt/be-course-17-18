@@ -96,8 +96,8 @@ or job later.
 Connect Git and GitHub together like so:
 
 ```sh
-git config --global user.email "mona@lisa.com"
 git config --global user.name "Mona Lisa"
+git config --global user.email "mona@lisa.com"
 ```
 
 Use the same email for Git as you used to sign up for GitHub.
