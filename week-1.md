@@ -80,7 +80,7 @@ If you installed the [Windows Subsystem for Linux](#subshell) just now, install
 Git by running `apt-get install git` in Bash.
 
 If you are not on Windows, install Git from their website, by [downloading
-the last release](https://git-scm.com).
+the latest release](https://git-scm.com).
 
 ### GitHub
 
