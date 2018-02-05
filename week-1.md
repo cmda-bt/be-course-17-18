@@ -104,9 +104,10 @@ Use the same email for Git as you used to sign up for GitHub.
 
 ### Slack
 
-Sign up for our Slack channel `Backend` on `cmda-tech.slack.com`.
+Sign up for our Slack workspace on `cmda-tech.slack.com`.
 Get invited by clicking on the invite link on our [class page on
 Moodle][moodle-be].
+Join the `Backend` channel in our workspace.
 
 Get your Slack set up properly, and then send your lecturer a direct message
 including your **real name**, **student number**, **class**, and **GitHub
