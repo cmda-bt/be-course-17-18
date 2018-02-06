@@ -223,7 +223,7 @@ and copy-paste the complete following document into it.
 
 ###
 ### Hi students! Please don’t change this file,
-### run it with `sh tutorial.sh` instead.
+### run it with `bash tutorial.sh` instead.
 ###
 
 function bold {
@@ -790,12 +790,12 @@ $ ls
 # tutorial.sh
 ```
 
-Now, run the tutorial with `sh tutorial.sh`:
+Now, run the tutorial with `bash tutorial.sh`:
 
 ```sh
-$ sh tutorial.sh
+$ bash tutorial.sh
 # Hi! 👋
-# Follow this tutorial by running `sh tutorial.sh`.  Stuck?  Use `man` (such
+# Follow this tutorial by running `bash tutorial.sh`.  Stuck?  Use `man` (such
 # as `man ls`) in another tab for help!
 #
 # Results (0/14)
