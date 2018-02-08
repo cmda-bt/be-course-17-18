@@ -1027,7 +1027,7 @@ and be ready for tips and tops!
 
 [md-tutorial]: https://www.markdowntutorial.com
 
-[markup-issue]: https://github.com/cmda-be/course-17-18/issues/new?title=Learn%20Markdown%20assignment&labels=week-1%2Cweek-1%3Amarkup
+[markup-issue]: https://github.com/cmda-be/course-17-18/issues/new?title=Markup%20assignment&labels=week-1%2Cweek-1%3Amarkup
 
 [run-cover]: images/run.jpg
 
