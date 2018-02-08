@@ -56,8 +56,9 @@ In **Project Tech** you’ll apply your newfound backend skills.
 
 If you’d like to continue with web development after this course, do a tech
 internship next quarter (Q4), choose **Information Design** (includes
-[**Frontend 3**][fe3]) for the fall semester next year, and pick
-[**Minor Everything Web**][minor] in the fall semester after that.
+**Frontend Apps**, **Functional Programming**, and  [**Frontend Data**][fe3])
+for the fall semester next year, and pick [**Minor Everything Web**][minor] in
+the fall semester after that.
 
 ## Communication
 
