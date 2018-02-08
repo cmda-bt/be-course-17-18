@@ -181,8 +181,8 @@ Follow it until you see “Congratulations”.
 
 If you completed the markdown tutorial, mark your assignment as complete by
 opening an issue on our [GitHub issue tracker][markup-issue].
-In your issue, include some of the markdown you learned (like headings, lists,
-and more).
+In your issue, include some of the markdown you have learned (like headings,
+lists, and more).
 
 ### Run
 
