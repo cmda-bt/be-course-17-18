@@ -212,8 +212,10 @@ In this assignment you’ll learn the basics of the command line.
 Create a directory on your computer, `run`.  In it, create a file `tutorial.sh`
 and copy-paste the complete following document into it.
 
-> ⚠️ If you are on Windows, make sure the select LF line endings instead of CRLF
-> while saving the file.
+> ⚠️ If you are on Windows, make sure the select LF line endings (Unix) instead
+> of CRLF (Windows) while saving the file.  In Atom, you can click on CRLF in
+> the status bar and switch to LF.  In SublimeText, go to the View menu, and
+> click Line Endings.
 
 <details>
 <summary><code>tutorial.sh</code> (click the arrow to expand)</summary>
