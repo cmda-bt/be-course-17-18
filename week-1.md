@@ -988,6 +988,8 @@ For example, something like [this one by **@holman**](https://github.com/holman/
 Finally, mark this assignment as complete by opening an issue on our
 [GitHub issue tracker][profile-issue].  Include a link to your repository.
 Let us know in the issue what you thought of the exercises.
+If you feel like being awesome, share a screenshot of your terminal setup as
+well!
 
 Your project will be reviewed and receive feedback, so expect people to read it,
 and be ready for tips and tops!
