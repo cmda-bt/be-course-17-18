@@ -955,6 +955,8 @@ The file in question, called your profile, is often named `.bash_profile`,
 To find the file you need to edit, go to your root directory (`cd ~`) and print
 out hidden files there (`ls -a`).
 If one of the previously mentioned files exists, you’re supposed to edit that.
+If none of the them do, you can probably create a `.bashrc` in your home
+directory and use that.
 If multiple files exist, open each and inspect them to find out which one you
 should edit.
 
