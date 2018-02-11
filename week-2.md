@@ -141,7 +141,9 @@ Electron, and much more.  Feel free to peruse the
 
 If you completed the workshopper, mark this assignment as complete by opening
 an issue on our [GitHub issue tracker][learnyounode-issue].
-Let us know in the issue what you thought of the exercises.
+In your issue, provide a screenshot of the final step, and describe which steps
+were particularly hard, exciting, or otherwise interesting!
+Additionally, let us know what you thought of the exercise.
 
 #### Extra resources
 
@@ -261,8 +263,10 @@ Finally push your project (including at least `index.js`, `package.json`, and
 
 If you pushed your work, mark this assignment as complete by opening an issue
 on our [GitHub issue tracker][package-issue].
-Include a link to your repository.
-Let us know in the issue if you liked this assignment, and give us any feedback.
+Include a link to your repository, what resources you used, and what part of
+your project you spend a lot of time on!
+Additionally, let us know what you thought of the exercise, and give us any
+feedback.
 
 Your project will be reviewed and receive feedback, so expect people to read it,
 and be ready for tips and tops!
