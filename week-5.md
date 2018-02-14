@@ -7,10 +7,18 @@
 
 ## Table of Contents
 
+*   [Inspiration](#inspiration)
 *   [Comic](#comic)
 *   [Lecture](#lecture)
 *   [Lab](#lab)
 *   [Assignments](#assignments)
+
+## Inspiration
+
+[![][inspiration-cover]][inspiration-link]
+
+> [`qw3rtman/git-fire`][inspiration-link] by
+> [**@qw3rtman**][inspiration-author].
 
 ## Comic
 
@@ -64,6 +72,12 @@ Submit your assignments by 3 a.m. the day of [lab 6][w6lab].
 See [week 4][w4a] for assignments due before this lab.
 
 [quote-author]: https://twitter.com/shatterfront/status/816065700577972224
+
+[inspiration-cover]: images/git-fire.jpg
+
+[inspiration-link]: https://github.com/qw3rtman/git-fire
+
+[inspiration-author]: https://github.com/qw3rtman
 
 [comic-cover]: https://imgs.xkcd.com/comics/exploits_of_a_mom.png
 

@@ -3,6 +3,9 @@
 *   [`cmd.jpg`](cmd.jpg)
     ([**source**](https://moodle.cmd.hva.nl/mod/page/view.php?id=1746))
     — Scaled and cropped
+*   [`dog-ceo.png`](dog-ceo.png)
+    ([**source**](https://dog.ceo))
+    — Screenshot
 *   [`express-server.png`](express-server.png)
     ([**source**](../examples/express-server))
     — Screenshot

@@ -16,8 +16,7 @@
 
 [![][inspiration-cover]][inspiration-link]
 
-> [`qw3rtman/git-fire`][inspiration-link] by
-> [**@qw3rtman**][inspiration-author].
+> `dog-ceo-api` by [**@ElliottLandsborough**][inspiration-author].
 
 ## Comic
 
@@ -159,11 +158,11 @@ and be ready for tips and tops!
 
 [bugs]: readme.md#bugs
 
-[inspiration-cover]: images/git-fire.jpg
+[inspiration-cover]: images/dog-ceo.png
 
-[inspiration-link]: https://github.com/qw3rtman/git-fire
+[inspiration-link]: https://dog.ceo
 
-[inspiration-author]: https://github.com/qw3rtman
+[inspiration-author]: https://github.com/ElliottLandsborough
 
 [comic-cover]: https://imgs.xkcd.com/comics/duty_calls.png
 
