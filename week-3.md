@@ -53,7 +53,6 @@
 *   HTTP ([**subgoal 7**][s7])
 *   [Transfer](#transfer) (**practice**)
 *   Server ([**subgoal 5**][s5] and [**subgoal 7**][s7])
-*   Request ([**subgoal 5**][s5] and [**subgoal 7**][s7])
 *   Toolbox
 
 ## Assignments
