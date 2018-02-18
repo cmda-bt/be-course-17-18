@@ -40,6 +40,24 @@
 *   API & XHR ([**subgoal 11**][s11] and [**subgoal 12**][s12])
 *   File ([**subgoal 10**][s10])
 
+## Prerequisites
+
+Finish the following prerequisites before this week’s lab.
+It is not possible to partake in lab if these are not completed.
+
+*   [Alternatives to Express](#alternatives-to-express)
+
+### Alternatives to Express
+
+Take about 0:45h to investigate the alternatives to [Express][].
+
+Make sure your research answers questions like:
+
+*   What alternatives are there?
+*   How do alternatives and Express compare to each other in features,
+    popularity, funding, ease of use, or other factors?
+*   Which of those factors do or do not matter to you?
+
 ## Lab
 
 ### Synopsis
