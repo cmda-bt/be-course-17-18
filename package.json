@@ -17,7 +17,7 @@
     "remark-cli": "^5.0.0",
     "remark-lint-no-dead-urls": "^0.3.0",
     "remark-preset-wooorm": "^4.0.0",
-    "xo": "^0.18.0"
+    "xo": "^0.20.0"
   },
   "scripts": {
     "build-md": "remark . -qo",
@@ -27,7 +27,12 @@
   },
   "xo": {
     "space": true,
-    "esnext": false
+    "esnext": false,
+    "rules": {
+      "no-var": "off",
+      "object-shorthand": "off",
+      "prefer-arrow-callback": "off"
+    }
   },
   "remarkConfig": {
     "settings": {
