@@ -103,7 +103,7 @@ Answer any questions it asks you, until completion.
 
 If you completed the tutorial, mark this assignment as complete by opening an
 issue on our [GitHub issue tracker][transfer-issue].
-Let us know in the issue what you thought of the exercises.
+In your issue, show us a cheat sheet you made of HTTP and how it works.
 
 #### Extra resources
 
