@@ -32,7 +32,7 @@
 
 *   **Date**: 19-02
 *   [**Slides**][slides-lecture]
-*   [**Slides - Danny de Vries**](https://dandevri.github.io/slid.es/cmda-be/)
+*   [**Guest Lecture Slides (@dandevri)**](https://dandevri.github.io/slid.es/cmda-be/)
 
 ### Schedule
 
