@@ -5,6 +5,20 @@ var find = require('array-find')
 var slug = require('slug')
 var bodyParser = require('body-parser')
 var multer = require('multer')
+var mongo = require('mongodb')
+
+require('dotenv').config()
+
+var db = null
+var url = 'mongodb://' + process.env.DB_HOST + ':' + process.env.DB_PORT
+
+mongo.MongoClient.connect(url, function (err, client) {
+  if (err) {
+    throw err
+  }
+
+  db = client.db(process.env.DB_NAME)
+})
 
 var data = [
   {
