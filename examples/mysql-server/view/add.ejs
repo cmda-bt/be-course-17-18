@@ -1,0 +1,27 @@
+<% include head.ejs %>
+<title>Add a movie - My movie website</title>
+<h1>Add a new movie</h1>
+<form action=/ method=post enctype=multipart/form-data>
+  <label>Title <input name=title></label>
+  <label>
+    Cover
+    <input
+      name=cover
+      type=file
+      accept=image/*
+    >
+  </label>
+  <label>
+    Plot (short)
+    <input name=plot>
+  </label>
+  <label>
+    Description (long)
+    <textarea
+      name=description
+      rows=5
+    ></textarea>
+  </label>
+  <button>Add</button>
+</form>
+<% include tail.ejs %>
