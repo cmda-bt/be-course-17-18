@@ -29,8 +29,19 @@ labs.
 *   **Class**: [Lecture 5](../week-5.md#lecture)
 *   **Topics**: Database, Express, dotenv, MySQL, SQL (select, insert, delete)
 
+## MongoDB Server
+
+[![](../images/mongodb-server.png)][mongodb-server]
+
+*   **Example**: [`mongodb-server`][mongodb-server]
+*   **Class**: [Lecture 5](../week-5.md#lecture)
+*   **Topics**: Database, Express, dotenv, MongoDB (find, findOne, insertOne,
+    deleteOne)
+
 [plain-server]: plain-server#readme
 
 [express-server]: express-server#readme
 
 [mysql-server]: mysql-server#readme
+
+[mongodb-server]: mongodb-server#readme
