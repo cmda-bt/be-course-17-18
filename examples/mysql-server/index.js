@@ -97,14 +97,18 @@ function add(req, res, next) {
   }
 }
 
-function remove(req, res) {
+function remove(req, res, next) {
   var id = req.params.id
 
-  data = data.filter(function (value) {
-    return value.id !== id
-  })
+  connection.query('DELETE FROM movies WHERE id = ?', id, done)
 
-  res.json({status: 'ok'})
+  function done(err) {
+    if (err) {
+      next(err)
+    } else {
+      res.json({status: 'ok'})
+    }
+  }
 }
 
 function notFound(req, res) {
