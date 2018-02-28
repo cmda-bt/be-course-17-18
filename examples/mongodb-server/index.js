@@ -82,18 +82,21 @@ function form(req, res) {
   res.render('add.ejs')
 }
 
-function add(req, res) {
-  var id = slug(req.body.title).toLowerCase()
-
-  data.push({
-    id: id,
+function add(req, res, next) {
+  db.collection('movies').insertOne({
     title: req.body.title,
     cover: req.file ? req.file.filename : null,
     plot: req.body.plot,
     description: req.body.description
-  })
+  }, done)
 
-  res.redirect('/' + id)
+  function done(err, data) {
+    if (err) {
+      next(err)
+    } else {
+      res.redirect('/' + data.insertedId)
+    }
+  }
 }
 
 function remove(req, res) {
