@@ -1,8 +1,6 @@
 /* eslint-disable semi */
 
 var express = require('express')
-var find = require('array-find')
-var slug = require('slug')
 var bodyParser = require('body-parser')
 var multer = require('multer')
 var mongo = require('mongodb')
