@@ -64,7 +64,7 @@ function add(req, res) {
   data.push({
     id: id,
     title: req.body.title,
-    cover: req.file.filename,
+    cover: req.file ? req.file.filename : null,
     plot: req.body.plot,
     description: req.body.description
   })
