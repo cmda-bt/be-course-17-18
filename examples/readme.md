@@ -21,6 +21,16 @@ labs.
 *   **Topics**: Routes, not found, serving static files, render data with
     templates, post data with forms, upload images, delete things with XHR
 
+## MySQL Server
+
+[![](../images/mysql-server.png)][mysql-server]
+
+*   **Example**: [`mysql-server`][mysql-server]
+*   **Class**: [Lecture 5](../week-5.md#lecture)
+*   **Topics**: Database, Express, dotenv, MySQL, SQL (select, insert, delete)
+
 [plain-server]: plain-server#readme
 
 [express-server]: express-server#readme
+
+[mysql-server]: mysql-server#readme
