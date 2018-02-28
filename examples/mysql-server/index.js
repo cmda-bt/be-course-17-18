@@ -48,8 +48,16 @@ express()
   .use(notFound)
   .listen(8000)
 
-function movies(req, res) {
-  res.render('list.ejs', {data: data})
+function movies(req, res, next) {
+  connection.query('SELECT * FROM movies', done)
+
+  function done(err, data) {
+    if (err) {
+      next(err)
+    } else {
+      res.render('list.ejs', {data: data})
+    }
+  }
 }
 
 function movie(req, res, next) {
