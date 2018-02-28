@@ -50,6 +50,9 @@
 *   [`shelter.jpg`](shelter.jpg)
     ([**source**](https://unsplash.com/photos/NodtnCsLdTE))
     — Scaled
+*   [`storage.jpg`](storage.jpg)
+    ([**source**](https://unsplash.com/photos/GWOTvo3qq7U))
+    — Scaled
 *   [`transfer.jpg`](transfer.jpg)
     ([**source**](https://unsplash.com/photos/XAqaeyzj3NM))
     — Scaled

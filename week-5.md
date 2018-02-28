@@ -64,12 +64,31 @@
 You’re expected to spend about 6 hours on assignments outside of class.
 Submit your assignments by 3 a.m. the day of [lab 6][w6lab].
 
-<!--
-*   Alpha (**practice**)
-*   Bravo (**homework**)
--->
+*   [Storage](#storage) (**homework**)
 
 See [week 4][w4a] for assignments due before this lab.
+
+### Storage
+
+[![][storage-cover]][storage-cover-source]
+
+> Library by [**@jzamora**][storage-cover-author].
+
+In this assignment you’ll add an SQL database to the project you created for
+last week’s [shelter][] assignment.
+
+#### Synopsis
+
+*   **Homework**
+*   **Time**: 6:00h
+*   **Goals**: [**subgoal 13**][s13]
+*   **Due**: 3 a.m. the day of [lab 6][w6lab]
+
+#### Tips
+
+#### Description
+
+#### Extra resources
 
 [quote-author]: https://twitter.com/shatterfront/status/816065700577972224
 
@@ -92,3 +111,11 @@ See [week 4][w4a] for assignments due before this lab.
 [w4a]: week-4.md#assignments
 
 [s13]: readme.md#subgoal-13
+
+[shelter]: week-4.md#shelter
+
+[storage-cover]: images/storage.jpg
+
+[storage-cover-source]: https://unsplash.com/photos/GWOTvo3qq7U
+
+[storage-cover-author]: https://unsplash.com/@jzamora
