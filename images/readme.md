@@ -20,6 +20,9 @@
 *   [`listing.jpg`](listing.jpg)
     ([**source**](https://unsplash.com/photos/RLw-UC03Gwc))
     — Scaled and cropped
+*   [`mongodb-server.png`](mongodb-server.png)
+    ([**source**](../examples/mongodb-server))
+    — Screenshot
 *   [`mysql-server.png`](mysql-server.png)
     ([**source**](../examples/mysql-server))
     — Screenshot
