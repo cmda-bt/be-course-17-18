@@ -20,6 +20,9 @@
 *   [`listing.jpg`](listing.jpg)
     ([**source**](https://unsplash.com/photos/RLw-UC03Gwc))
     — Scaled and cropped
+*   [`mysql-server.png`](mysql-server.png)
+    ([**source**](../examples/mysql-server))
+    — Screenshot
 *   [`note.jpg`](note.jpg)
     ([**source**](https://unsplash.com/photos/Hb6uWq0i4MI))
     — Scaled
