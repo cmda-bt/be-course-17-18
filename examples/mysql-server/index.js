@@ -80,18 +80,21 @@ function form(req, res) {
   res.render('add.ejs')
 }
 
-function add(req, res) {
-  var id = slug(req.body.title).toLowerCase()
-
-  data.push({
-    id: id,
+function add(req, res, next) {
+  connection.query('INSERT INTO movies SET ?', {
+    cover: req.file ? req.file.filename : null,
     title: req.body.title,
-    cover: req.file.filename,
     plot: req.body.plot,
     description: req.body.description
-  })
+  }, done)
 
-  res.redirect('/' + id)
+  function done(err, data) {
+    if (err) {
+      next(err)
+    } else {
+      res.redirect('/' + data.insertId)
+    }
+  }
 }
 
 function remove(req, res) {
