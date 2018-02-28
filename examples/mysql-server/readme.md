@@ -63,6 +63,8 @@ npm start
 
 ## Changes
 
+The following commits show how this example was created:
+
 *   [`dd116ac`](https://github.com/cmda-be/course-17-18/commit/dd116ac)
     add mysql, dotenv as a dependencies
 *   [`9d49c2d`](https://github.com/cmda-be/course-17-18/commit/9d49c2d)
