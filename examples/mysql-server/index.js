@@ -62,16 +62,18 @@ function movies(req, res, next) {
 
 function movie(req, res, next) {
   var id = req.params.id
-  var movie = find(data, function (value) {
-    return value.id === id
-  })
 
-  if (!movie) {
-    next()
-    return
+  connection.query('SELECT * FROM movies WHERE id = ?', id, done)
+
+  function done(err, data) {
+    if (err) {
+      next(err)
+    } else if (data.length === 0) {
+      next()
+    } else {
+      res.render('detail.ejs', {data: data[0]})
+    }
   }
-
-  res.render('detail.ejs', {data: movie})
 }
 
 function form(req, res) {
