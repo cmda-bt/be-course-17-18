@@ -64,16 +64,18 @@ function movies(req, res, next) {
 
 function movie(req, res, next) {
   var id = req.params.id
-  var movie = find(data, function (value) {
-    return value.id === id
-  })
 
-  if (!movie) {
-    next()
-    return
+  db.collection('movies').findOne({
+    _id: new mongo.ObjectID(id)
+  }, done)
+
+  function done(err, data) {
+    if (err) {
+      next(err)
+    } else {
+      res.render('detail.ejs', {data: data})
+    }
   }
-
-  res.render('detail.ejs', {data: movie})
 }
 
 function form(req, res) {
