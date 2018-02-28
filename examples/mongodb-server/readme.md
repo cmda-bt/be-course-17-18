@@ -63,9 +63,32 @@ Finally, start the server with:
 npm start
 ```
 
-<!--
 ## Changes
--->
+
+The following commits show how this example was created:
+
+*   [`02d1df2`](https://github.com/cmda-be/course-17-18/commit/02d1df2)
+    add example
+*   [`9dfed77`](https://github.com/cmda-be/course-17-18/commit/9dfed77)
+    add mongodb, dotenv as dependencies
+*   [`f69654a`](https://github.com/cmda-be/course-17-18/commit/f69654a)
+    add gitignore
+*   [`cc7eb63`](https://github.com/cmda-be/course-17-18/commit/cc7eb63)
+    replace `id` with `_id`
+*   [`dd672e3`](https://github.com/cmda-be/course-17-18/commit/dd672e3)
+    add mongo connection
+*   [`4cb4221`](https://github.com/cmda-be/course-17-18/commit/4cb4221)
+    use mongo for list of movies
+*   [`1f20d06`](https://github.com/cmda-be/course-17-18/commit/1f20d06)
+    use mongo for detail of movie
+*   [`e429b67`](https://github.com/cmda-be/course-17-18/commit/e429b67)
+    use mongo to add a movie
+*   [`2c7cc94`](https://github.com/cmda-be/course-17-18/commit/2c7cc94)
+    use mongo to remove a movie
+*   [`e569692`](https://github.com/cmda-be/course-17-18/commit/e569692)
+    remove superfluous data
+*   [`17afc59`](https://github.com/cmda-be/course-17-18/commit/17afc59)
+    remove superfluous dependencies
 
 ## License
 
