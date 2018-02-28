@@ -9,6 +9,7 @@
 *   [Inspiration](#inspiration)
 *   [Comic](#comic)
 *   [Lecture](#lecture)
+*   [Prerequisites](#prerequisites)
 *   [Lab](#lab)
 *   [Assignments](#assignments)
 
