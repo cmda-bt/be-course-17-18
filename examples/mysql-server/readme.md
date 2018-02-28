@@ -61,9 +61,26 @@ Finally, start the server with:
 npm start
 ```
 
-<!--
 ## Changes
--->
+
+*   [`dd116ac`](https://github.com/cmda-be/course-17-18/commit/dd116ac)
+    add mysql, dotenv as a dependencies
+*   [`9d49c2d`](https://github.com/cmda-be/course-17-18/commit/9d49c2d)
+    add gitignore
+*   [`390c717`](https://github.com/cmda-be/course-17-18/commit/390c717)
+    add mysql connection
+*   [`88e38b5`](https://github.com/cmda-be/course-17-18/commit/88e38b5)
+    use mysql for list of movies
+*   [`eea52db`](https://github.com/cmda-be/course-17-18/commit/eea52db)
+    use mysql for detail of movie
+*   [`73bb5ac`](https://github.com/cmda-be/course-17-18/commit/73bb5ac)
+    use mysql to add a movie
+*   [`d23133e`](https://github.com/cmda-be/course-17-18/commit/d23133e)
+    use mysql to remove a movie
+*   [`ad6ed8a`](https://github.com/cmda-be/course-17-18/commit/ad6ed8a)
+    remove superfluous data
+*   [`f6cb536`](https://github.com/cmda-be/course-17-18/commit/f6cb536)
+    remove superfluous dependencies
 
 ## License
 
