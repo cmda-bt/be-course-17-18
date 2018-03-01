@@ -129,9 +129,49 @@ last week’s [shelter][] assignment.
 
 #### Tips
 
+*   [`mysql-server`](examples/mysql-server)
+    (**example**)
+    — Simple MySQL example covered in [lecture 5][w5lec]
+*   [SQL tutorial](http://sqlzoo.net/wiki/SQL_Tutorial)
+    (**tutorial**)
+    — Learn SQL interactively in stages
+*   Stuck?  See the [Bugs][] section of the course readme to find a list of
+    troubleshooting tips
+
 #### Description
 
+Take ± 6 hours to add an SQL database to your project from last week’s
+[shelter][] assignment.
+Replace the current “database” (`db`) with a real SQL store.
+Using an SQL database other than MySQL is allowed.
+Other database types, like MongoDB or Level, are not allowed for this
+assignment.
+
+Commit your work early and often.
+Push your work to GitHub.
+Don’t worry if it’s not perfect.
+Try and get as far as you can.
+
+Document your process by replacing the readme with your own docs: describe what
+you worked on, what failed, and what succeeded.
+Include a diagram in your readme that explains how the database works
+(**hint**: [Google Drawings][drawings]).
+
+Your web app should:
+
+*   Include at least eight animals in the database
+*   Include all animal types (dog, cat, and rabbit)
+*   Add support for getting all animals, getting one animal, removing an
+    animal, and adding an animal
+*   Use the correct types for all fields
+*   Use at least three different tables
+
 #### Extra resources
+
+*   [Express Database integration](https://expressjs.com/en/guide/database-integration.html)
+*   [Awesome Falsehood](https://github.com/kdeldycke/awesome-falsehood)
+
+[bugs]: readme.md#bugs
 
 [quote-author]: https://twitter.com/shatterfront/status/816065700577972224
 
@@ -157,6 +197,8 @@ last week’s [shelter][] assignment.
 
 [slides-lab]: https://docs.google.com/presentation/d/1m_iRiha9bwxuEROi1MIxP2atB263sOmQvm6Uq1zRSpU/edit?usp=sharing
 
+[w5lec]: #lecture
+
 [w6lab]: week-6.md#lab
 
 [w4a]: week-4.md#assignments
@@ -172,3 +214,5 @@ last week’s [shelter][] assignment.
 [storage-cover-source]: https://unsplash.com/photos/GWOTvo3qq7U
 
 [storage-cover-author]: https://unsplash.com/@jzamora
+
+[drawings]: https://docs.google.com/drawings
