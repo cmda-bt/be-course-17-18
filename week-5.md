@@ -47,10 +47,10 @@
 Finish the following prerequisites before this week’s lab.
 It is not possible to partake in lab if these are not completed.
 
-*   [Alternatives](#alternatives)
+*   [Alternatives to MySQL](#alternatives-to-mysql)
 *   [MySQL](#mysql)
 
-### Alternatives
+### Alternatives to MySQL
 
 Take about 0:45h to investigate the alternatives to MySQL.
 What databases are out there, and how can they be categorised?
