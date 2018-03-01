@@ -10,6 +10,7 @@
 *   [Inspiration](#inspiration)
 *   [Comic](#comic)
 *   [Lecture](#lecture)
+*   [Prerequisites](#prerequisites)
 *   [Lab](#lab)
 *   [Assignments](#assignments)
 
@@ -40,6 +41,25 @@
 *   NoSQL ([**subgoal 13**][s13])
 *   MongoDB ([**subgoal 13**][s13])
 *   **Guest lecture**: [**@peterpeerdeman**](https://github.com/peterpeerdeman)
+
+## Prerequisites
+
+Finish the following prerequisites before this week’s lab.
+It is not possible to partake in lab if these are not completed.
+
+*   [Alternatives](#alternatives)
+
+### Alternatives
+
+Take about 0:45h to investigate the alternatives to MySQL.
+What databases are out there, and how can they be categorised?
+
+Make sure your research answers questions like:
+
+*   What databases are there?
+*   How do databases compare to each other in features, type (SQL, NoSQL, or
+    something else?), popularity, funding, ease of use, or other factors?
+*   Which of those factors do or do not matter to you?
 
 ## Lab
 
