@@ -1,3 +1,5 @@
+<!-- lint disable no-html -->
+
 # Week 4
 
 > Any sufficiently advanced technology is indistinguishable from magic.
@@ -109,7 +111,7 @@ In this assignment you’ll create a web server and API with [express][].
 #### Description
 
 Take ± 6 hours to build out the [`cmda-be/shelter`][shelter] project.
-First fork it and then clone it.
+First fork it and then clone it to your computer.
 Commit your work early and often.
 Push your work to GitHub.
 Don’t worry if it’s not perfect.
@@ -119,40 +121,143 @@ you worked on, what failed, and what succeeded.
 
 The **shelter** project has a custom database documented in `db/readme.md`.
 
-Your web app should:
+Here’s a list of the most important things to add:
 
-*   There’s a problem when you first start to run the app, fix it by changing
-    something in `package.json`.
 *   Serving images does not work yet.
     Use [`express.static`][static] with [`app.use()`][use] to serve them.
 *   Implement `GET /:id` by rendering an animal with the `view/detail.ejs`
     template (tip: `db.get()`).
     Look at the implementation of `GET /` (the `all` function in the server)
     for inspiration.
-*   Handle **404 Not Found** errors (if an animal is not found, such as with
-    `localhost:1902/123`) by creating an error object and rendering it with
-    the `view/error.ejs` template.
+*   Handle unfound animals (such as `curl localhost:1902/123`) by sending a
+    **404 Not Found** error back (tip: `db.has()`).
+    Creating an error object and rendering it in the `view/error.ejs` template.
+    Look at `view/error.ejs` for how errors should look.
+*   Handle invalid identifiers (such as `curl localhost:1902/-`) by sending a
+    **400 Bad Request** error back.
 *   Respond with JSON if requested on `GET /:id`.
-    Look at the implementation of `GET /` (the `all` function in the server)
-    for inspiration on how to respond with either HTML or JSON based on the
-    request.
+    Look at the implementation of the `all` function for inspiration on how to
+    respond with either HTML or JSON based on the request.
     Test it out with Curl: `curl localhost:1902` and `localhost:1902/88473`
     should return JSON.
 *   Implement `DELETE /:id` by removing an animal (tip: `db.remove()`).
-    Handle any errors (tip: 404, 400, 410) that may occur.
+    Respond with a **404 Not Found** for unfound animals and a **400 Bad
+    Request** for invalid identifiers.
     Respond with a **204 No Content** if successful.
-*   Implement `POST /` to add an animal.
-    Create a new template to render a form and make the form post to `/`
-    (tip: [`body-parser`][body-parser]).
-*   Implement `PUT /:id` and `POST /:id` too.
-*   Add support for uploading images as well (tip: [`multer`][multer]).
-*   Accept requests bodies in JSON _and_ `application/x-www-form-urlencoded`
-*   Return **400 Bad Request** for all invalid requests to identifiers
-    (such as `curl localhost:1902/-`).
-*   Return **410 Gone** instead of **404 Not Found** for unfound animals
-    that used to exist (see the docs on `db.removed(id)` for more info).
-*   Return **422 Unprocessable Entity** for **PUT**, **POST**, and **PATCH**
-    requests with unexpected data.
+    Note: you can just return JSON, as HTML forms don’t support DELETE.
+    Test it out with Curl (`curl --verbose --request DELETE
+    localhost:1902/something`) to see if 204 and 404 are returned.
+*   Handle unfound animals that used to exist in `GET /:id` and `DELETE /:id`
+    by sending a **410 Gone** instead of **404 Not Found** error back.
+*   Create a form and make it post to `/`.
+    You can add an HTML file in `static`, or you could make it a view, but then
+    you need to create a route that renders it.
+    Add a link from the list to the new form.
+    See the definition of `Animal` for which fields are needed,
+    what values they can have, and whether they are required.
+    There is CSS for forms and fields already, but if you’d like to add more
+    make sure to do so in `src/index.css` and to run `npm run build` afterwards.
+*   Implement `POST /` to add an animal from the form (tip:
+    `db.add()` and [`body-parser`][body-parser]).
+    You should clean the data sent to the server before passing it to `db.add`,
+    as there are many cases where adding an animal can fail: such as when
+    required fields are missing or if fields have a wrong data type (age and
+    weight should be numbers, vaccinated and declawed a boolean, declawed must
+    be undefined for dogs and rabbits, or when values are empty strings instead
+    of undefined).
+    Respond with a **422 Unprocessable Entity** if the animal is invalid.
+    Respond with a redirect to the animal if successful.
+
+Here’s a list of some more things to add:
+
+*   Add support for uploading images as well (tip: [`multer`][multer], and
+    don’t forget `enctype="multipart/form-data"` on the form).
+    Store images in `db/images`.
+    Accept only JPEG images: use `accept="image/jpeg"` on file inputs and
+    multer’s `fileFilter`.
+    Remove uploaded images if the POST fails.
+    Move uploaded images to `$id.jpg`, where `$id` is the animal’s identifier,
+    if the post succeeds
+*   Add support for accepting a JSON body on `POST /` as well.
+    Note that HTML forms send strings for everything, but for JSON you should
+    use the values as given.
+    Test it out with something like the following Curl request:
+
+    <details>
+    <summary><code>POST in Curl example</code></summary>
+
+    ```sh
+    curl \
+      localhost:1902 \
+      --verbose \
+      --location \
+      --header 'Content-Type: application/json' \
+      -d '{
+        "name": "Lilo",
+        "type": "cat",
+        "place": "Brooklyn Animal Care Center",
+        "intake": "2014-06-22",
+        "vaccinated": true,
+        "sex": "male",
+        "age": 6,
+        "weight": 4,
+        "primaryColor": "black",
+        "secondaryColor": "white"
+      }'
+    ```
+
+    </details>
+*   Implement `PUT /:id`.
+    You can just accept and return JSON as HTML forms don’t support PUT.
+    Make sure that `:id` from the route and the id in the body are a match.
+    Respond with **200 OK**, **201 Created**, **400 Bad Request**, or
+    **422 Unprocessable Entity** where appropriate.
+    Test it out with something like the following Curl request:
+
+    <details>
+    <summary><code>PUT in Curl example</code></summary>
+
+    ```sh
+    curl \
+      localhost:1902/1 \
+      --verbose \
+      --request PUT \
+      --header 'Content-Type: application/json' \
+      -d '{
+        "id": "1",
+        "name": "Loco",
+        "type": "cat",
+        "place": "Brooklyn Animal Care Center",
+        "intake": "2014-06-22",
+        "vaccinated": true,
+        "sex": "male",
+        "age": 6,
+        "weight": 2,
+        "primaryColor": "black",
+        "secondaryColor": "white"
+      }'
+    ```
+
+    </details>
+*   Implement `PATCH /:id` as well.
+    You can just accept and return JSON as HTML forms don’t support PATCH.
+    Respond with **200 OK**, **400 Bad Request**, **404 Not Found**,
+    **410 Gone**, or **422 Unprocessable Entity** where appropriate.
+    Test it out with something like the following Curl request:
+
+    <details>
+    <summary><code>PATCH in Curl example</code></summary>
+
+    ```sh
+    curl \
+      localhost:1902/1 \
+      --verbose \
+      --request PATCH \
+      --header 'Content-Type: application/json' \
+      -d '{"description": "Loco is a bit weird, but also cute as a button"}'
+    ```
+
+    </details>
 
 Finally, mark this assignment as complete by opening an issue
 on our [GitHub issue tracker][shelter-issue].
