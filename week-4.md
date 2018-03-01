@@ -64,18 +64,14 @@ Make sure your research answers questions like:
 ### Synopsis
 
 *   **Date**: 06-03 (BT 1, BT 2 and BT 3)
+*   [**Slides**][slides-lab]
 
-<!--
-*   **Slides**
--->
-
-<!--
 ### Schedule
 
-*   Alpha
-*   Bravo
-*   Charlie
--->
+*   Recap
+*   [Alternatives to Express](#alternatives-to-express)
+*   Live coding [Shelter](#shelter)
+*   Toolbox
 
 ## Assignments
 
@@ -190,6 +186,8 @@ and be ready for tips and tops!
 [comic-author]: https://xkcd.com
 
 [slides-lecture]: https://docs.google.com/presentation/d/1PfEaV-jQdqKWByca9txp38yD8LWIDEWZzldNYBMwUNI/edit?usp=sharing
+
+[slides-lab]: https://docs.google.com/presentation/d/1PB70qNsWxR0B7EQivBqB6ofHmktIlgfzV8B-a6XUFAU/edit?usp=sharing
 
 [w5lab]: week-5.md#lab
 
