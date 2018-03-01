@@ -131,7 +131,7 @@ Here’s a list of the most important things to add:
     for inspiration.
 *   Handle unfound animals (such as `curl localhost:1902/123`) by sending a
     **404 Not Found** error back (tip: `db.has()`).
-    Creating an error object and rendering it in the `view/error.ejs` template.
+    Create an error object and render it in the `view/error.ejs` template.
     Look at `view/error.ejs` for how errors should look.
 *   Handle invalid identifiers (such as `curl localhost:1902/-`) by sending a
     **400 Bad Request** error back.
