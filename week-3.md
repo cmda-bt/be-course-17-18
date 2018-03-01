@@ -37,8 +37,8 @@
 ### Schedule
 
 *   HTTP ([**subgoal 7**][s7])
-*   Server ([**subgoal 5**][s5] and [**subgoal 7**][s7])
-*   Request ([**subgoal 5**][s5] and [**subgoal 7**][s7])
+*   Server ([**subgoal 7**][s7])
+*   Request ([**subgoal 7**][s7])
 *   **Guest lecture**: [**@dandevri**](https://github.com/dandevri)
 
 ## Lab
@@ -53,7 +53,7 @@
 *   Recap
 *   HTTP ([**subgoal 7**][s7])
 *   [Transfer](#transfer) (**practice**)
-*   Server ([**subgoal 5**][s5] and [**subgoal 7**][s7])
+*   Server ([**subgoal 7**][s7])
 *   Toolbox
 
 ## Assignments
@@ -125,7 +125,7 @@ file server.
 
 *   **Practice**
 *   **Time**: 5:00h
-*   **Goals**: [subgoal 5][s5] and [subgoal 7][s7]
+*   **Goals**: [subgoal 7][s7]
 *   **Due**: 3 a.m. the day of [lab 4][w4lab]
 
 #### Tips
@@ -206,8 +206,6 @@ and be ready for tips and tops!
 [w4lab]: week-4.md#lab
 
 [w2a]: week-2.md#assignments
-
-[s5]: readme.md#subgoal-5
 
 [s7]: readme.md#subgoal-7
 
