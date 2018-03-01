@@ -48,6 +48,7 @@ Finish the following prerequisites before this week’s lab.
 It is not possible to partake in lab if these are not completed.
 
 *   [Alternatives](#alternatives)
+*   [MySQL](#mysql)
 
 ### Alternatives
 
@@ -60,6 +61,32 @@ Make sure your research answers questions like:
 *   How do databases compare to each other in features, type (SQL, NoSQL, or
     something else?), popularity, funding, ease of use, or other factors?
 *   Which of those factors do or do not matter to you?
+
+### MySQL
+
+#### Mac
+
+First install [Homebrew][brew] if you don’t have it yet.
+
+Now, open your terminal and install MySQL like so:
+
+```sh
+brew install mysql
+brew services start mysql
+```
+
+This makes sure MySQL starts when your computer starts.
+You can run `brew services stop mysql` to stop that.
+
+#### Windows
+
+First install the [Windows Subsystem for Linux][subshell] if you don’t have it
+yet.
+Then, follow the steps for [Linux][].
+
+#### Linux
+
+<!-- TODO -->
 
 ## Lab
 
@@ -125,6 +152,12 @@ last week’s [shelter][] assignment.
 [comic-author]: https://xkcd.com
 
 [slides-lecture]: https://docs.google.com/presentation/d/1QVPTtENQ8d6td9ioNZHnbSoiilUZdsZ8n_F5naxw_Rw/edit?usp=sharing
+
+[brew]: https://brew.sh
+
+[subshell]: week-1.md#subshell
+
+[linux]: #linux
 
 [w6lab]: week-6.md#lab
 
