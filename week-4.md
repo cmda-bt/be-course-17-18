@@ -138,7 +138,7 @@ Here’s a list of the most important things to add:
 *   Respond with JSON if requested on `GET /:id`.
     Look at the implementation of the `all` function for inspiration on how to
     respond with either HTML or JSON based on the request.
-    Test it out with Curl: `curl localhost:1902` and `localhost:1902/88473`
+    Test it out with Curl: `curl localhost:1902` and `localhost:1902/88996`
     should return JSON.
 *   Implement `DELETE /:id` by removing an animal (tip: `db.remove()`).
     Respond with a **404 Not Found** for unfound animals and a **400 Bad
