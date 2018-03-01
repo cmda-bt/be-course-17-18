@@ -98,7 +98,7 @@ In practice you’ll learn to:
 7.  <a name="subgoal-7"></a>
     Communicate over HTTP ([**week 3**][w3] and [**week 4**][w4])
 8.  <a name="subgoal-8"></a>
-    Use web frameworks like express ([**week 4**][w4])
+    Use web frameworks like express ([**week 4**][w4] and [**week 5**][w5])
 9.  <a name="subgoal-9"></a>
     Render data server-side ([**week 4**][w4])
 10. <a name="subgoal-10"></a>

@@ -124,7 +124,7 @@ last week’s [shelter][] assignment.
 
 *   **Homework**
 *   **Time**: 6:00h
-*   **Goals**: [**subgoal 13**][s13]
+*   **Goals**: [**subgoal 8**][s8] and [**subgoal 13**][s13]
 *   **Due**: 3 a.m. the day of [lab 6][w6lab]
 
 #### Tips
@@ -160,6 +160,8 @@ last week’s [shelter][] assignment.
 [w6lab]: week-6.md#lab
 
 [w4a]: week-4.md#assignments
+
+[s8]: readme.md#subgoal-8
 
 [s13]: readme.md#subgoal-13
 
