@@ -93,18 +93,14 @@ Then, follow the steps for [Linux][].
 ### Synopsis
 
 *   **Date**: 13-03 (BT 1, BT 2, and BT 3)
+*   [**Slides**][slides-lab]
 
-<!--
-*   **Slides**
--->
-
-<!--
 ### Schedule
 
-*   Alpha
-*   Bravo
-*   Charlie
--->
+*   Recap
+*   [Alternatives to MySQL](#alternatives-to-mysql)
+*   Start work on [Storage](#storage)
+*   Toolbox
 
 ## Assignments
 
@@ -158,6 +154,8 @@ last week’s [shelter][] assignment.
 [subshell]: week-1.md#subshell
 
 [linux]: #linux
+
+[slides-lab]: https://docs.google.com/presentation/d/1m_iRiha9bwxuEROi1MIxP2atB263sOmQvm6Uq1zRSpU/edit?usp=sharing
 
 [w6lab]: week-6.md#lab
 
