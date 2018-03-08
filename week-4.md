@@ -148,7 +148,8 @@ Here’s a list of the most important things to add:
     Test it out with Curl (`curl --verbose --request DELETE
     localhost:1902/something`) to see if 204 and 404 are returned.
 *   Handle unfound animals that used to exist in `GET /:id` and `DELETE /:id`
-    by sending a **410 Gone** instead of **404 Not Found** error back.
+    by sending a **410 Gone** instead of **404 Not Found** error back (tip:
+    `db.removed`).
 *   Create a form and make it post to `/`.
     You can add an HTML file in `static`, or you could make it a view, but then
     you need to create a route that renders it.
