@@ -121,6 +121,9 @@ you worked on, what failed, and what succeeded.
 
 The **shelter** project has a custom database documented in `db/readme.md`.
 
+Note that if you make changes to the database, such as adding, changing, or
+removing animals, these changes will be lost when you restart the server.
+
 Here’s a list of the most important things to add:
 
 *   Serving images does not work yet.
@@ -147,6 +150,7 @@ Here’s a list of the most important things to add:
     Note: you can just return JSON, as HTML forms don’t support DELETE.
     Test it out with Curl (`curl --verbose --request DELETE
     localhost:1902/something`) to see if 204 and 404 are returned.
+    Note: restarting the server restores the removed animals.
 *   Handle unfound animals that used to exist in `GET /:id` and `DELETE /:id`
     by sending a **410 Gone** instead of **404 Not Found** error back (tip:
     `db.removed`).
@@ -168,6 +172,7 @@ Here’s a list of the most important things to add:
     of undefined).
     Respond with a **422 Unprocessable Entity** if the animal is invalid.
     Respond with a redirect to the animal if successful.
+    Note: restarting the server removes the added animals.
 
 Here’s a list of some more things to add:
 
@@ -244,7 +249,9 @@ Here’s a list of some more things to add:
     You can just accept and return JSON as HTML forms don’t support PATCH.
     Respond with **200 OK**, **400 Bad Request**, **404 Not Found**,
     **410 Gone**, or **422 Unprocessable Entity** where appropriate.
-    Test it out with something like the following Curl request:
+    Test it out with something like the following Curl request (note that you
+    first need to do the previous PUT again, as restarting the server clears
+    added animals):
 
     <details>
     <summary><code>PATCH in Curl example</code></summary>
