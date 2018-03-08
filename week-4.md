@@ -213,6 +213,7 @@ Here’s a list of some more things to add:
     ```
 
     </details>
+
 *   Implement `PUT /:id`.
     You can just accept and return JSON as HTML forms don’t support PUT.
     Make sure that `:id` from the route and the id in the body are a match.
@@ -245,6 +246,7 @@ Here’s a list of some more things to add:
     ```
 
     </details>
+
 *   Implement `PATCH /:id` as well.
     You can just accept and return JSON as HTML forms don’t support PATCH.
     Respond with **200 OK**, **400 Bad Request**, **404 Not Found**,
