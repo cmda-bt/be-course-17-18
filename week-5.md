@@ -164,7 +164,7 @@ Your web app should:
 *   Add support for getting all animals, getting one animal, removing an
     animal, and adding an animal
 *   Use the correct types for all fields
-*   Use at least three different tables
+*   Use at least two different tables
 
 #### Extra resources
 
