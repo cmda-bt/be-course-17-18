@@ -13,6 +13,7 @@
     "Titus Wormer <tituswormer@gmail.com> (http://wooorm.com)"
   ],
   "dependencies": {
+    "argon2": "^0.17.2",
     "body-parser": "^1.18.2",
     "dotenv": "^5.0.1",
     "ejs": "^2.5.7",
