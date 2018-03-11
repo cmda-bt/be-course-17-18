@@ -32,7 +32,8 @@
 
 *   **Date**: 19-02
 *   [**Slides**][slides-lecture]
-*   [**Guest Lecture Slides (@dandevri)**](https://dandevri.github.io/slid.es/cmda-be/)
+*   [**Guest lecture slides**](https://dandevri.github.io/slid.es/cmda-be/)
+    ([**@dandevri**](https://github.com/dandevri))
 
 ### Schedule
 
