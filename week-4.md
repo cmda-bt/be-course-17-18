@@ -153,7 +153,7 @@ Here’s a list of the most important things to add:
     Note: restarting the server restores the removed animals.
 *   Handle unfound animals that used to exist in `GET /:id` and `DELETE /:id`
     by sending a **410 Gone** instead of **404 Not Found** error back (tip:
-    `db.removed`).
+    `db.removed()`).
 *   Create a form and make it post to `/`.
     You can add an HTML file in `static`, or you could make it a view, but then
     you need to create a route that renders it.
