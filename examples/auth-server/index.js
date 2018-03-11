@@ -65,7 +65,7 @@ function movie(req, res, next) {
     } else if (data.length === 0) {
       next()
     } else {
-      res.render('detail.ejs', {data: data[0]})
+      res.render('detail.ejs', {data: data[0], user: req.session.user})
     }
   }
 }

@@ -8,12 +8,14 @@
 >
 <% } %>
 <p><%= data.description %></p>
-<p>
-  <button
-    id=js-remove
-    data-id="<%= data.id %>"
-    class=danger
-  >Remove</button>
-</p>
+<% if (user) { %>
+  <p>
+    <button
+      id=js-remove
+      data-id="<%= data.id %>"
+      class=danger
+    >Remove</button>
+  </p>
+<% } %>
 <p><a href="/">Back to list</a></p>
 <% include tail.ejs %>
