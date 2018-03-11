@@ -1,3 +1,5 @@
+<!--lint disable no-html-->
+
 # Week 5
 
 > An SSL error has occurred and a secure connection to the server
@@ -48,7 +50,6 @@ Finish the following prerequisites before this week’s lab.
 It is not possible to partake in lab if these are not completed.
 
 *   [Alternatives to MySQL](#alternatives-to-mysql)
-*   [MySQL](#mysql)
 
 ### Alternatives to MySQL
 
@@ -61,32 +62,6 @@ Make sure your research answers questions like:
 *   How do databases compare to each other in features, type (SQL, NoSQL, or
     something else?), popularity, funding, ease of use, or other factors?
 *   Which of those factors do or do not matter to you?
-
-### MySQL
-
-#### Mac
-
-First install [Homebrew][brew] if you don’t have it yet.
-
-Now, open your terminal and install MySQL like so:
-
-```sh
-brew install mysql
-brew services start mysql
-```
-
-This makes sure MySQL starts when your computer starts.
-You can run `brew services stop mysql` to stop that.
-
-#### Windows
-
-First install the [Windows Subsystem for Linux][subshell] if you don’t have it
-yet.
-Then, follow the steps for [Linux][].
-
-#### Linux
-
-<!-- TODO -->
 
 ## Lab
 
@@ -167,6 +142,41 @@ Your web app should:
 *   Use the correct types for all fields
 *   Use at least two different tables
 
+#### How to install MySQL
+
+<details>
+<summary>macOS</summary>
+
+First install [Homebrew][brew] if you don’t have it yet.
+
+Now, open your terminal and install MySQL like so:
+
+```sh
+brew install mysql
+brew services start mysql
+```
+
+This makes sure MySQL starts when your computer starts.
+You can run `brew services stop mysql` to stop that.
+
+</details>
+
+<details>
+<summary>Windows</summary>
+
+First install the [Windows Subsystem for Linux][subshell] if you don’t have it
+yet.
+Then, follow the steps for Linux.
+
+</details>
+
+<details>
+<summary>Linux</summary>
+
+<!-- TODO -->
+
+</details>
+
 #### Extra resources
 
 *   [Express Database integration](https://expressjs.com/en/guide/database-integration.html)
@@ -193,8 +203,6 @@ Your web app should:
 [brew]: https://brew.sh
 
 [subshell]: week-1.md#subshell
-
-[linux]: #linux
 
 [slides-lab]: https://docs.google.com/presentation/d/1m_iRiha9bwxuEROi1MIxP2atB263sOmQvm6Uq1zRSpU/edit?usp=sharing
 
