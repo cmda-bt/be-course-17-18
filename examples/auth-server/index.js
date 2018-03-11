@@ -39,6 +39,7 @@ express()
   .post('/sign-up', signup)
   .get('/log-in', loginForm)
   .post('/log-in', login)
+  .get('/log-out', logout)
   .use(notFound)
   .listen(8000)
 
@@ -200,6 +201,16 @@ function login(req, res, next) {
       }
     }
   }
+}
+
+function logout(req, res, next) {
+  req.session.destroy(function (err) {
+    if (err) {
+      next(err)
+    } else {
+      res.redirect('/')
+    }
+  })
 }
 
 function notFound(req, res) {

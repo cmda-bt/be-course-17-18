@@ -4,6 +4,7 @@
 <p>
   <% if (user) { %>
     Hello <%= user.username %>!
+    <a href=/log-out>Log out</a>
   <% } else { %>
     <a href=/log-in>Log in</a>
     or
