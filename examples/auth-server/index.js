@@ -49,7 +49,7 @@ function movies(req, res, next) {
     if (err) {
       next(err)
     } else {
-      res.render('list.ejs', {data: data})
+      res.render('list.ejs', {data: data, user: req.session.user})
     }
   }
 }
