@@ -151,7 +151,35 @@ function loginForm(req, res) {
 }
 
 function login(req, res, next) {
-  // …
+  var username = req.body.username
+  var password = req.body.password
+
+  if (!username || !password) {
+    return res.status(400).send('Username or password are missing')
+  }
+
+  connection.query('SELECT * FROM users WHERE username = ?', username, done)
+
+  function done(err, data) {
+    var user = data && data[0]
+
+    if (err) {
+      next(err)
+    } else if (user) {
+      argon2.verify(user.hash, password).then(onverify, next)
+    } else {
+      res.status(401).send('Username does not exist')
+    }
+
+    function onverify(match) {
+      if (match) {
+        // Logged in!
+        res.redirect('/')
+      } else {
+        res.status(401).send('Password incorrect')
+      }
+    }
+  }
 }
 
 function notFound(req, res) {
