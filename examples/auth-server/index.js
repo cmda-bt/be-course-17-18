@@ -71,10 +71,19 @@ function movie(req, res, next) {
 }
 
 function form(req, res) {
-  res.render('add.ejs')
+  if (req.session.user) {
+    res.render('add.ejs')
+  } else {
+    res.status(401).send('Credentials required')
+  }
 }
 
 function add(req, res, next) {
+  if (!req.session.user) {
+    res.status(401).send('Credentials required')
+    return
+  }
+
   connection.query('INSERT INTO movies SET ?', {
     cover: req.file ? req.file.filename : null,
     title: req.body.title,
@@ -93,6 +102,11 @@ function add(req, res, next) {
 
 function remove(req, res, next) {
   var id = req.params.id
+
+  if (!req.session.user) {
+    res.status(401).send('Credentials required')
+    return
+  }
 
   connection.query('DELETE FROM movies WHERE id = ?', id, done)
 
