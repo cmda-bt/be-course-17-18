@@ -1,5 +1,8 @@
 # Images
 
+*   [`auth-server.png`](auth-server.png)
+    ([**source**](../examples/auth-server))
+    — Screenshot
 *   [`cmd.jpg`](cmd.jpg)
     ([**source**](https://moodle.cmd.hva.nl/mod/page/view.php?id=1746))
     — Scaled and cropped
