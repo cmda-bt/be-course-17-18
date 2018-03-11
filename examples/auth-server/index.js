@@ -31,6 +31,8 @@ express()
   .delete('/:id', remove)
   .get('/sign-up', signupForm)
   .post('/sign-up', signup)
+  .get('/log-in', loginForm)
+  .post('/log-in', login)
   .use(notFound)
   .listen(8000)
 
@@ -142,6 +144,14 @@ function signup(req, res, next) {
       }
     }
   }
+}
+
+function loginForm(req, res) {
+  res.render('log-in.ejs')
+}
+
+function login(req, res, next) {
+  // …
 }
 
 function notFound(req, res) {
