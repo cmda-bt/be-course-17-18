@@ -146,6 +146,7 @@ Replace the current “database” (`db`) with a real SQL store.
 Using an SQL database other than MySQL is allowed.
 Other database types, like MongoDB or Level, are not allowed for this
 assignment.
+You are free to add data that wasn’t in shelter before to your database.
 
 Commit your work early and often.
 Push your work to GitHub.
