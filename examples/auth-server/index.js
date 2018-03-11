@@ -102,7 +102,46 @@ function signupForm(req, res) {
 }
 
 function signup(req, res, next) {
-  // …
+  var username = req.body.username
+  var password = req.body.password
+  var min = 8
+  var max = 160
+
+  if (!username || !password) {
+    return res.status(400).send('Username or password are missing')
+  }
+
+  if (password.length < min || password.length > max) {
+    return res.status(400).send(
+      'Password must be between ' + min +
+      ' and ' + max + ' characters'
+    )
+  }
+
+  connection.query('SELECT * FROM users WHERE username = ?', username, done)
+
+  function done(err, data) {
+    if (err) {
+      next(err)
+    } else if (data.length !== 0) {
+      res.status(409).send('Username already in use')
+    } else {
+      argon2.hash(password).then(onhash, next)
+    }
+  }
+
+  function onhash(hash) {
+    connection.query('INSERT INTO users SET ?', {username: username, hash: hash}, oninsert)
+
+    function oninsert(err) {
+      if (err) {
+        next(err)
+      } else {
+        // Signed up!
+        res.redirect('/')
+      }
+    }
+  }
 }
 
 function notFound(req, res) {
