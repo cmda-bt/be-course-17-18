@@ -1,0 +1,11 @@
+<% include head.ejs %>
+<title>Movies - My movie website</title>
+<h1>Movies</h1>
+<% for (var index = 0; index < data.length; index++) { %>
+<h2><a href="/<%= data[index].id %>"><%= data[index].title %></a></h2>
+<p><%= data[index].plot %></p>
+<% } %>
+<p>
+  <a href=/add>Add a movie</a>
+</p>
+<% include tail.ejs %>

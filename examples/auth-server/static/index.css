@@ -1,0 +1,32 @@
+* { box-sizing: border-box }
+
+body {
+  font-family: sans-serif;
+  background: black;
+  color: white;
+  max-width: 36em;
+  margin: 0 auto
+}
+
+a { color: lime }
+
+label, input, textarea, button { margin: 1em 0 }
+
+input, textarea, button {
+  font-size: 1em;
+  padding: 0.5em;
+  border-width: 0;
+  border-radius: 0.25em
+}
+
+input, textarea { width: 100% }
+
+img {
+  max-width: 100%;
+  max-height: 15em
+}
+
+.danger {
+  background: red;
+  color: white
+}

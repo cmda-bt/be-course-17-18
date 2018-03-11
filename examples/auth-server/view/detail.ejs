@@ -1,0 +1,19 @@
+<% include head.ejs %>
+<title><%= data.title %> - My movie website</title>
+<h1><%= data.title %></h1>
+<% if (data.cover) { %>
+<img
+  alt
+  src="/upload/<%= data.cover %>"
+>
+<% } %>
+<p><%= data.description %></p>
+<p>
+  <button
+    id=js-remove
+    data-id="<%= data.id %>"
+    class=danger
+  >Remove</button>
+</p>
+<p><a href="/">Back to list</a></p>
+<% include tail.ejs %>
