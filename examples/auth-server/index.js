@@ -4,6 +4,7 @@ var express = require('express')
 var bodyParser = require('body-parser')
 var multer = require('multer')
 var mysql = require('mysql')
+var argon2 = require('argon2')
 
 require('dotenv').config()
 
@@ -28,6 +29,8 @@ express()
   .get('/add', form)
   .get('/:id', movie)
   .delete('/:id', remove)
+  .get('/sign-up', signupForm)
+  .post('/sign-up', signup)
   .use(notFound)
   .listen(8000)
 
@@ -92,6 +95,14 @@ function remove(req, res, next) {
       res.json({status: 'ok'})
     }
   }
+}
+
+function signupForm(req, res) {
+  res.render('sign-up.ejs')
+}
+
+function signup(req, res, next) {
+  // …
 }
 
 function notFound(req, res) {
