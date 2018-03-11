@@ -1,6 +1,7 @@
 /* eslint-disable semi */
 
 var express = require('express')
+var session = require('express-session')
 var bodyParser = require('body-parser')
 var multer = require('multer')
 var mysql = require('mysql')
@@ -22,6 +23,11 @@ var upload = multer({dest: 'static/upload/'})
 express()
   .use(express.static('static'))
   .use(bodyParser.urlencoded({extended: true}))
+  .use(session({
+    resave: false,
+    saveUninitialized: true,
+    secret: process.env.SESSION_SECRET
+  }))
   .set('view engine', 'ejs')
   .set('views', 'view')
   .get('/', movies)
@@ -139,7 +145,7 @@ function signup(req, res, next) {
       if (err) {
         next(err)
       } else {
-        // Signed up!
+        req.session.user = {username: username}
         res.redirect('/')
       }
     }
@@ -173,7 +179,7 @@ function login(req, res, next) {
 
     function onverify(match) {
       if (match) {
-        // Logged in!
+        req.session.user = {username: user.username};
         res.redirect('/')
       } else {
         res.status(401).send('Password incorrect')
