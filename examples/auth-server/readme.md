@@ -14,9 +14,14 @@ npm install
 ```
 
 Follow the installation steps for the [mysql-server][] (adding movies),
-and then add a table for users.
+and add a session secret to `.env`:
 
-Log into mysql:
+```txt
+...
+SESSION_SECRET=some-secret
+```
+
+Then, add a user table.  Log into mysql:
 
 ```sh
 mysql -u your-username -p
