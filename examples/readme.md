@@ -38,6 +38,15 @@ labs.
 *   **Topics**: Database, Express, dotenv, MongoDB (find, findOne, insertOne,
     deleteOne)
 
+## Auth Server
+
+[![](../images/auth-server.png)][auth-server]
+
+*   **Example**: [`auth-server`][auth-server]
+*   **Class**: [Lecture 6](../week-6.md#lecture)
+*   **Topics**: Database, Express, dotenv, MySQL, SQL (select, insert, delete),
+    argon2, signing up, logging in, staying logged in, logging out
+
 [plain-server]: plain-server#readme
 
 [express-server]: express-server#readme
@@ -45,3 +54,5 @@ labs.
 [mysql-server]: mysql-server#readme
 
 [mongodb-server]: mongodb-server#readme
+
+[auth-server]: auth-server#readme
