@@ -35,6 +35,7 @@
 
 *   **Date**: 12-03
 *   [**Slides**][slides-lecture]
+*   [**Guest Lecture Slides (@peterpeerdeman)**](http://hashbang.nl/datamodels-apis-and-graphql-in-practice)
 
 ### Schedule
 
