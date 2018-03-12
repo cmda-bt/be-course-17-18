@@ -146,10 +146,10 @@ function signup(req, res, next) {
   function done(err, data) {
     if (err) {
       next(err)
-    } else if (data.length !== 0) {
-      res.status(409).send('Username already in use')
-    } else {
+    } else if (data.length === 0) {
       argon2.hash(password).then(onhash, next)
+    } else {
+      res.status(409).send('Username already in use')
     }
   }
 
