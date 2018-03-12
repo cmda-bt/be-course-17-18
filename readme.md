@@ -110,7 +110,7 @@ In practice you’ll learn to:
 13. <a name="subgoal-13"></a>
     Use SQL and NoSQL databases like MySQL and MongoDB ([**week 5**][w5])
 14. <a name="subgoal-14"></a>
-    Deploy web apps ([**week 8**][w8])
+    Let users sign up, log in, be logged in, and log out ([**week 6**][w6])
 
 ## Grade
 
@@ -396,7 +396,7 @@ docs and images are [CC-BY-4.0][].
 
 [w5]: week-5.md
 
-[w8]: week-8.md
+[w6]: week-6.md
 
 [w1lec]: week-1.md#lecture
 
