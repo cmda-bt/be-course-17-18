@@ -32,11 +32,16 @@
 ### Synopsis
 
 *   **Date**: 19-03
-
-<!-- *   [**Slides**][slides-lecture] -->
+*   [**Slides**][slides-lecture]
 
 ### Schedule
 
+*   Sign up ([**subgoal 14**][s14])
+*   Log in ([**subgoal 14**][s14])
+*   Session ([**subgoal 14**][s14])
+*   Course
+*   Production
+*   Deploy
 *   **Guest lecture**: [**@hansdezwart**](https://twitter.com/hansdezwart)
 
 ## Lab
@@ -75,4 +80,8 @@ See [week 5][w5a] for assignments due before this lab.
 
 [comic-author]: https://xkcd.com
 
+[slides-lecture]: https://docs.google.com/presentation/d/1BHMqO9UV5ePt29n8cnjaznvye8Gu_HrdzhzC3h5rgOI/edit?usp=sharing
+
 [w5a]: week-5.md#assignments
+
+[s14]: readme.md#subgoal-14
