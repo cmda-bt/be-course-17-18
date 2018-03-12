@@ -50,6 +50,9 @@
 *   [`run.jpg`](run.jpg)
     ([**source**](https://unsplash.com/photos/Zp-wTck-3Zw))
     — Scaled
+*   [`samy-is-my-hero.png`](samy-is-my-hero.png)
+    ([**source**](http://samy.pl/popular/))
+    — Screenshot
 *   [`shelter.jpg`](shelter.jpg)
     ([**source**](https://unsplash.com/photos/NodtnCsLdTE))
     — Scaled

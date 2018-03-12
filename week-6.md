@@ -8,10 +8,18 @@
 
 ## Table of Contents
 
+*   [Inspiration](#inspiration)
 *   [Comic](#comic)
 *   [Lecture](#lecture)
 *   [Lab](#lab)
 *   [Assignments](#assignments)
+
+## Inspiration
+
+[![][inspiration-cover]][inspiration-link]
+
+> [The MySpace Worm][inspiration-link] by
+> [@samyk][inspiration-author].
 
 ## Comic
 
@@ -54,6 +62,12 @@
 There are no assignments due this week (or any future week).
 
 See [week 5][w5a] for assignments due before this lab.
+
+[inspiration-cover]: images/samy-is-my-hero.png
+
+[inspiration-link]: http://samy.pl/popular/
+
+[inspiration-author]: https://github.com/samyk
 
 [comic-cover]: https://imgs.xkcd.com/comics/computer_problems.png
 
