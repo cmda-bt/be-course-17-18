@@ -175,7 +175,7 @@ Then, follow the steps for Linux.
 <details>
 <summary>Linux</summary>
 
-Open your terminal, update apt-get, and install `mysql-server`
+Open your terminal, update apt-get, and install `mysql-server` like so:
 
 ```sh
 apt-get update
@@ -190,7 +190,7 @@ Now start mysql as a service:
 service mysql start
 ```
 
-Finally, run the following command to secure MySQL:
+Finally, run the following command to set up MySQL securely:
 
 ```bash
 /usr/bin/mysql_secure_installation
