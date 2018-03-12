@@ -29,7 +29,7 @@
 
 ### Schedule
 
-*   **Guest lecture**: [**@danoszz**](https://github.com/danoszz)
+*   **Guest lecture**: [**@hansdezwart**](https://twitter.com/hansdezwart)
 
 ## Lab
 
