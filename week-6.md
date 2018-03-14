@@ -41,7 +41,6 @@
 *   Session ([**subgoal 14**][s14])
 *   Course
 *   Production
-*   Deploy
 *   **Guest lecture**: [**@hansdezwart**](https://twitter.com/hansdezwart)
 
 ## Lab
