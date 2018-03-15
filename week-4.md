@@ -336,7 +336,7 @@ and be ready for tips and tops!
 
 [use]: http://expressjs.com/en/4x/api.html#app.use
 
-[shelter-issue]: https://github.com/cmda-be/course-17-18/issues/new?title=Shelter%20assignment&labels=week-3%2Cweek-4%3Ashelter
+[shelter-issue]: https://github.com/cmda-be/course-17-18/issues/new?title=Shelter%20assignment&labels=week-4%2Cweek-4%3Ashelter
 
 [body-parser]: https://github.com/expressjs/body-parser
 
