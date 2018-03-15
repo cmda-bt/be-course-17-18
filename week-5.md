@@ -144,6 +144,21 @@ Your web app should:
 *   Use the correct types for all fields
 *   Use at least two different tables
 
+Include an exported version of your database in your project.
+With MySQL, you can export a database like so:
+
+```sh
+mysqldump database-name -u username -p > some-file-name.sql
+```
+
+Finally, mark this assignment as complete by opening an issue
+on our [GitHub issue tracker][storage-issue].
+Include a link to your fork.
+Let us know in the issue if you liked this assignment and give us any feedback.
+
+Your project will be reviewed and receive feedback, so expect people to read it,
+and be ready for tips and tops!
+
 #### How to install MySQL
 
 <details>
@@ -244,5 +259,7 @@ Finally, run the following command to set up MySQL securely:
 [storage-cover-source]: https://unsplash.com/photos/GWOTvo3qq7U
 
 [storage-cover-author]: https://unsplash.com/@jzamora
+
+[storage-issue]: https://github.com/cmda-be/course-17-18/issues/new?title=Storage%20assignment&labels=week-5%2Cweek-5%3Astorage
 
 [drawings]: https://docs.google.com/drawings
