@@ -13,6 +13,7 @@
 *   [Lecture](#lecture)
 *   [Lab](#lab)
 *   [Assignments](#assignments)
+*   [Assessment](#assessment)
 
 ## Inspiration
 
@@ -62,6 +63,10 @@ There are no assignments due next week (or any future week).
 
 See [week 5][w5a] for assignments due before this week’s lab.
 
+## Assessment
+
+Next week [**assessment 1**][a1] will take place.
+
 [inspiration-cover]: images/samy-is-my-hero.png
 
 [inspiration-link]: http://samy.pl/popular/
@@ -81,3 +86,5 @@ See [week 5][w5a] for assignments due before this week’s lab.
 [w5a]: week-5.md#assignments
 
 [s14]: readme.md#subgoal-14
+
+[a1]: assessment-1.md
