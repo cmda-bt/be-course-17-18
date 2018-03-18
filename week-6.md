@@ -63,9 +63,9 @@
 
 ## Assignments
 
-There are no assignments due this week (or any future week).
+There are no assignments due next week (or any future week).
 
-See [week 5][w5a] for assignments due before this lab.
+See [week 5][w5a] for assignments due before this week’s lab.
 
 [inspiration-cover]: images/samy-is-my-hero.png
 

@@ -86,7 +86,7 @@ Submit your assignments by 3 a.m. the day of [lab 6][w6lab].
 
 *   [Storage](#storage) (**homework**)
 
-See [week 4][w4a] for assignments due before this lab.
+See [week 4][w4a] for assignments due before this week’s lab.
 
 ### Storage
 

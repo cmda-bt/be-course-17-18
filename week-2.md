@@ -97,7 +97,7 @@ Submit your assignments by 3 a.m. the day of [lab 3][w3lab].
 *   [learnyounode](#learnyounode) (**practice**)
 *   [Package](#package) (**homework**)
 
-See [week 1][w1a] for assignments due before this lab.
+See [week 1][w1a] for assignments due before this week’s lab.
 
 ### learnyounode
 

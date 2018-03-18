@@ -82,7 +82,7 @@ Submit your assignments by 3 a.m. the day of [lab 5][w5lab].
 
 *   [Shelter](#shelter) (**homework**)
 
-See [week 3][w3a] for assignments due before this lab.
+See [week 3][w3a] for assignments due before this week’s lab.
 
 ### Shelter
 

@@ -65,7 +65,7 @@ Submit your assignments by 3 a.m. the day of [lab 4][w4lab].
 *   [Transfer](#transfer) (**practice**)
 *   [Listing](#listing) (**homework**)
 
-See [week 2][w2a] for assignments due before this lab.
+See [week 2][w2a] for assignments due before this week’s lab.
 
 ### Transfer
 
