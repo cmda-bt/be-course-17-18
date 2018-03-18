@@ -7,8 +7,35 @@
 
 ## Table of Contents
 
+*   [Inspiration](#inspiration)
 *   [Comic](#comic)
 *   [Lab](#lab)
+
+## Inspiration
+
+```js
+function func(x)
+{
+ if (x == 1) {
+  if (x == 2) {
+   if (x == 3) {
+     if (x == 5) {
+        if (x == 8) {
+             if (x == 13) {
+                      if (x == 21) {
+                                  if (x == 34) {
+                                  }
+                      }
+             }
+        }
+     }
+   }
+  }
+ }
+}
+```
+
+> [Fibonacci indentation][inspiration-link] by [@jklmnn][inspiration-author].
 
 ## Comic
 
@@ -33,6 +60,10 @@
 *   Bravo
 *   Charlie
 -->
+
+[inspiration-link]: https://github.com/jklmnn/fibonacci-indentation
+
+[inspiration-author]: https://github.com/jklmnn
 
 [comic-cover]: http://78.media.tumblr.com/cbdb4a27902ffbf30ae68cf8b365b851/tumblr_p0tghg7vX11qiuiebo1_540.jpg
 
