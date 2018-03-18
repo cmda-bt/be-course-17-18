@@ -48,18 +48,13 @@
 ### Synopsis
 
 *   **Date**: 22-03 (BT 1) or 20-03 (BT 2 and BT 3)
+*   [**Slides**][slides-lab]
 
-<!--
-*   **Slides**
--->
-
-<!--
 ### Schedule
 
-*   Alpha
-*   Bravo
-*   Charlie
--->
+*   Recap
+*   Dragnet discussion
+*   Shelter / storage / demand-driven
 
 ## Assignments
 
@@ -80,6 +75,8 @@ See [week 5][w5a] for assignments due before this week’s lab.
 [comic-author]: https://xkcd.com
 
 [slides-lecture]: https://docs.google.com/presentation/d/1BHMqO9UV5ePt29n8cnjaznvye8Gu_HrdzhzC3h5rgOI/edit?usp=sharing
+
+[slides-lab]: https://docs.google.com/presentation/d/1VP8OSUwF12-St3Q0AeK3pi1QeEkM_muidiZj2pqpqTY/edit?usp=sharing
 
 [w5a]: week-5.md#assignments
 
