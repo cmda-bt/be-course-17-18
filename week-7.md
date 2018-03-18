@@ -53,13 +53,12 @@ function func(x)
 *   **Slides**
 -->
 
-<!--
 ### Schedule
 
-*   Alpha
-*   Bravo
-*   Charlie
--->
+*   Course recap
+*   Clean code
+*   Debug
+*   [Assessment 2][a2]
 
 [inspiration-link]: https://github.com/jklmnn/fibonacci-indentation
 
@@ -70,3 +69,5 @@ function func(x)
 [comic-link]: https://twitter.com/SarahCAndersen/status/940967297526661120
 
 [comic-author]: https://twitter.com/SarahCAndersen
+
+[a2]: assessment-2.md
