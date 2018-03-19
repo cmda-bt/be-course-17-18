@@ -34,6 +34,8 @@
 
 *   **Date**: 19-03
 *   [**Slides**][slides-lecture]
+*   [**Guest lecture slides**](https://talks.hansdezwart.nl/cmda-2018)
+    ([**@hansdezwart**](https://twitter.com/hansdezwart))
 
 ### Schedule
 
