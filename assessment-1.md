@@ -14,7 +14,7 @@ date, time, and place.
 *   **Weight**: 40%
 *   **Type**: Digital test
 *   **Date**: 26-03
-*   **Resit**: 29-07
+*   **Resit**: 29-06
 *   **Time**: 1:40h (2:30 w/ extra time)
 *   **Grade**: At least 5.5 to pass this course
 *   **Bring**: Laptop, charger, and identification
