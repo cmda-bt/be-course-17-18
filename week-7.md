@@ -48,10 +48,7 @@ function func(x)
 ### Synopsis
 
 *   **Date**: 27-03 (BT 1, BT 2 and BT 3)
-
-<!--
-*   **Slides**
--->
+*   [**Slides**][slides-lab]
 
 ### Schedule
 
@@ -71,3 +68,5 @@ function func(x)
 [comic-author]: https://twitter.com/SarahCAndersen
 
 [a2]: assessment-2.md
+
+[slides-lab]: https://docs.google.com/presentation/d/1j9ZKRp9gKcDb0mhouUpecn8xcY5bPZpB5u5LlKs3Wmg/edit?usp=sharing
