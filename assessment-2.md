@@ -93,20 +93,20 @@ a full definition, but here are a few cases that count as plagiarism:
   <tbody>
     <tr>
       <th align="center" scope="row"><strong>Application</strong> of subject matter</th>
-      <td align="center">Git, npm, a database, or Node are not used; the web server does not run without errors</td>
-      <td align="center">Data is not read from (HTTP GET, SQL SELECT※), removed from (HTTP DELETE, SQL DELETE※), or created in (HTTP POST, SQL INSERT※) the database through the web app; users cannot sign up, log in, or log out</td>
-      <td align="center">Data is not changed in (SQL UPDATE※) the database through the web app; users cannot stay logged in through sessions; files cannot be uploaded</td>
+      <td align="center">Git, npm, a database, or Node are used; the web server runs without errors</td>
+      <td align="center">Data is read from (HTTP GET, SQL SELECT※), removed from (HTTP DELETE, SQL DELETE※), and created in (HTTP POST, SQL INSERT※) the database through the web app; users can sign up, log in, and log out</td>
+      <td align="center">Data is changed in (SQL UPDATE※) the database through the web app; users can stay logged in through sessions; files can be uploaded</td>
       <td align="center">The web app and database contain well-chosen features or methods of interaction; special care was taken to create a performant or secure web app; the web app is deployed</td>
       <td align="center">
         😱<br>
-        The way the student applies Git, npm, databases, and Node are more advanced than what they were taught in class; let’s switch places
+        The way the student applies Git, npm, databases, and Node is more advanced than what they were taught in class; let’s switch places
       </td>
     </tr>
     <tr>
       <th align="center" scope="row">Understanding</th>
-      <td align="center">There is no substantial own code; the student cannot explain the code that exists</td>
-      <td align="center">The student cannot explain most parts of their code, how it all works together, or tech stack</td>
-      <td align="center">The student cannot explain some parts of their code, how some parts work together, tech stack, or why software is used instead of alternatives; the project is not structured logically</td>
+      <td align="center">There is substantial own code; the student can explain the code that exists</td>
+      <td align="center">The student can explain some parts of their code, how some parts works together, and tech stack</td>
+      <td align="center">The student can explain every part of their code, how everything works together, and why software is used instead of alternatives; the project is structured logically</td>
       <td align="center">The project is complex but still understandable; the student carefully chose every part of their stack; software is used that was not covered in class; the student can make live changes</td>
       <td align="center">
         🤓<br>
@@ -115,10 +115,10 @@ a full definition, but here are a few cases that count as plagiarism:
     </tr>
     <tr>
       <th align="center" scope="row">Quality</th>
-      <td align="center">The project is handed in undocumented, late, broken, not on GitHub, or otherwise improper</td>
-      <td align="center">Code style is inconsistent (semi-colons or not? double or single quotes? spaces or tabs? how many spaces? nesting…); code is partially documented; process is partially documented</td>
-      <td align="center">Code does not adhere to standards, docs do not cover what the project is and does or the students process and choices</td>
-      <td align="center">Code quality is consistently good and enforced; docs are useful and professional</td>
+      <td align="center">The project is handed in documented, on time, working, and on GitHub; in other words: proper</td>
+      <td align="center">Code style is consistent (semicolons or not? double or single quotes? spaces or tabs? how many spaces? nesting…); code, project, and process are partially documented</td>
+      <td align="center">Code adheres to standards; docs cover what the project is and does and the students process and choices</td>
+      <td align="center">Code quality is good and enforced; docs are useful and professional</td>
       <td align="center">
         📚<br>
         Code and docs both read like great books
