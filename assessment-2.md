@@ -127,6 +127,12 @@ a full definition, but here are a few cases that count as plagiarism:
   </tbody>
 </table>
 
+> ※ This rubric’s references to SQL should be treated as examples if you’re
+> not using an SQL database.
+>
+> Note: each of this rubric’s rows is cumulative: for example, to get a 5-6
+> on application, you also need to have a 1-2 and 3-4.
+
 <!--lint enable no-html maximum-line-length-->
 
 [banner]: https://cdn.rawgit.com/cmda-be/logo/93c03f43/banner-assessment-1.svg
