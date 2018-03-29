@@ -194,10 +194,12 @@ The below table breaks down the general time needed per week.
 
 #### Resources used in this course
 
-*   🆓 Young, Alex, and Mike Cantelon.
-    _Node.js in Action_.
-    Manning, 2017.
-    (**optional**, free for AUAS students through [Safari Books][safari])
+*   🆓 Young, Alex, and Mike Cantelon.  _Node.js in Action_.  Manning, 2017
+    (**optional**※)
+*   🆓 Hahn, Evan.  _Express in Action_.  Manning, 2016
+    (**optional**※)
+
+> ※ free for AUAS students through [Safari Books][safari]
 
 #### Resources to refresh your memory
 
