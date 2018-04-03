@@ -28,18 +28,19 @@
 ### Synopsis
 
 *   **Date**: 03-04 (BT1, BT 2 and BT 3)
+*   [**Slides**][slides-lab]
 
-<!--
-*   **Slides**
--->
-
-<!--
 ### Schedule
 
-*   Alpha
-*   Bravo
-*   Charlie
--->
+*   Intro
+*   Test rounds
+*   Project presentations
+*   Outro
+
+## Assessment
+
+Next week [**assessment 2**][a2] will take place.
+Make sure to make a reservation on Moodle.
 
 [quote-author]: http://mathforum.org/ken/perl_modules.html#document
 
@@ -48,3 +49,7 @@
 [comic-link]: https://blog.toggl.com/world-created-programmer/
 
 [comic-author]: https://twitter.com/arcaderage
+
+[slides-lab]: https://docs.google.com/presentation/d/17acFykwNaTmiiPZJElAqBfz-9XlvuRf6KNU2t-Bm5w0/edit?usp=sharing
+
+[a2]: assessment-2.md
