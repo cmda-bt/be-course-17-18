@@ -135,7 +135,7 @@ a full definition, but here are a few cases that count as plagiarism:
 
 <!--lint enable no-html maximum-line-length-->
 
-[banner]: https://cdn.rawgit.com/cmda-be/logo/93c03f43/banner-assessment-1.svg
+[banner]: https://cdn.rawgit.com/cmda-be/logo/93c03f43/banner-assessment-2.svg
 
 [rooster]: https://rooster.hva.nl
 
