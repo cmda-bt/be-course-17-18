@@ -2,6 +2,23 @@
 
 # ![Backend - Course 2017-2018][banner]
 
+> **Note**: This course is done.
+> Next year will be a new, changed, curriculum.
+> Here are a few results of this year though:
+
+<!--lint disable maximum-line-length-->
+
+<table>
+  <tr valign="top">
+    <td width="25%"><a href="https://github.com/theonejonahgold"><strong>@theonejonahgold</strong></a><br><a href="https://github.com/theonejonahgold/be-assessment-2"><img src="https://raw.githubusercontent.com/theonejonahgold/be-assessment-2/master/screenshot.png"></a></td>
+    <td width="25%"><a href="https://github.com/MonikaaS"><strong>@MonikaaS</strong></a><br><a href="https://github.com/MonikaaS/be-assessment-2"><img src="https://raw.githubusercontent.com/MonikaaS/be-assessment-2/master/screenshot.png"></a></td>
+    <td width="25%"><a href="https://github.com/Denniswegereef"><strong>@Denniswegereef</strong></a><br><a href="https://github.com/Denniswegereef/be-assessment-2"><img src="https://raw.githubusercontent.com/Denniswegereef/be-assessment-2/master/screen.png"></a></td>
+    <td width="25%"><a href="https://github.com/olli208"><strong>@olli208</strong></a><br><a href="https://github.com/olli208/weather-app"><img src="https://raw.githubusercontent.com/olli208/weather-app/master/readme/screenshot.png"></a></td>
+  </tr>
+</table>
+
+<!--lint enable maximum-line-length-->
+
 ## Table of Contents
 
 *   [Synopsis](#synopsis)
