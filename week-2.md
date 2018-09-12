@@ -314,7 +314,7 @@ and be ready for tips and tops!
 
 [learnyounode-cover-source]: https://unsplash.com/photos/GX8KBbVmC6c
 
-[learnyounode-cover-author]: https://unsplash.com/@claybanks1989
+[learnyounode-cover-author]: https://unsplash.com/@claybanks
 
 [learnyounode-issue]: https://github.com/cmda-be/course-17-18/issues/new?title=learnyounode%20assignment&labels=week-2%2Cweek-2%3Alearnyounode
 

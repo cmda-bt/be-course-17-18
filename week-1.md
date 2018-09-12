@@ -1069,7 +1069,7 @@ and be ready for tips and tops!
 
 [profile-cover-source]: https://unsplash.com/photos/HFkTGu30w5E
 
-[profile-cover-author]: https://unsplash.com/@o_j_cole
+[profile-cover-author]: https://unsplash.com/@oliver_photographer
 
 [profile-issue]: https://github.com/cmda-be/course-17-18/issues/new?title=Profile%20assignment&labels=week-1%2Cweek-1%3Aprofile
 

@@ -16,6 +16,7 @@
 
 *   [Comic](#comic)
 *   [Lab](#lab)
+*   [Assessment](#assessment)
 
 ## Comic
 
