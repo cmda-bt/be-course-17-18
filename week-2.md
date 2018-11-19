@@ -158,7 +158,7 @@ Additionally, let us know what you thought of the exercise.
 [![][package-cover]][package-cover-source]
 
 > Parcel, package, candy cane and string by
-> [**@moonshinechild**][package-cover-author].
+> [**@kadh**][package-cover-author].
 
 In this assignment you’ll learn the basics of node modules and npm packages.
 
@@ -330,6 +330,6 @@ and be ready for tips and tops!
 
 [package-cover-source]: https://unsplash.com/photos/fV4-DdSdcpI
 
-[package-cover-author]: https://unsplash.com/@moonshinechild
+[package-cover-author]: https://unsplash.com/@kadh
 
 [package-issue]: https://github.com/cmda-be/course-17-18/issues/new?title=Package%20assignment&labels=week-2%2Cweek-2%3Apackage

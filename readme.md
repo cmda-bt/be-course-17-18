@@ -233,12 +233,16 @@ The below table breaks down the general time needed per week.
     (**course**) — 30 day vanilla JavaScript coding challenge
 *   🆓 [Eloquent JavaScript](https://eloquentjavascript.net/3rd_edition/)
     (**book**) — Modern intro to programming
-*   🆓 [Basics of HTML & CSS](http://webdive.ktam.org/web/basics)
-    (**tutorial**) — Learn how to use HTML & CSS
 *   🆓 [Programming 101: Learn English](https://youtu.be/pOwnBPaW5zE)
     (**video**)
+
+<!--
+Dead:
+*   🆓 [Basics of HTML & CSS](http://webdive.ktam.org/web/basics)
+    (**tutorial**) — Learn how to use HTML & CSS
 *   💸 [Tutoring](http://piratepad.net/HeB4FUsI0t)
     — Match up with another CMD student
+-->
 
 #### Resources used in previous courses
 

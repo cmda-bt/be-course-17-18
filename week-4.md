@@ -184,6 +184,7 @@ Here’s a list of some more things to add:
     Remove uploaded images if the POST fails.
     Move uploaded images to `$id.jpg`, where `$id` is the animal’s identifier,
     if the post succeeds
+
 *   Add support for accepting a JSON body on `POST /` as well.
     Note that HTML forms send strings for everything, but for JSON you should
     use the values as given.
